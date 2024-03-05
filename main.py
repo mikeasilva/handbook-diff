@@ -1,5 +1,6 @@
 import requests
-import markdownify
+from markdownify import markdownify as md
+from bs4 import BeautifulSoup
 
 urls = [
     "https://www.churchofjesuschrist.org/study/manual/general-handbook?lang=eng",
@@ -26,7 +27,7 @@ urls = [
     "https://www.churchofjesuschrist.org/study/manual/general-handbook/21-ministering?lang=eng",
     "https://www.churchofjesuschrist.org/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng",
     "https://www.churchofjesuschrist.org/study/manual/general-handbook/23?lang=eng",
-    "https://www.churchofjesuschrist.org/study/manual/general-handbook/24?lang=eng"
+    "https://www.churchofjesuschrist.org/study/manual/general-handbook/24?lang=eng",
     "https://www.churchofjesuschrist.org/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng",
     "https://www.churchofjesuschrist.org/study/manual/general-handbook/26-temple-recommends?lang=eng",
     "https://www.churchofjesuschrist.org/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng",
@@ -40,12 +41,26 @@ urls = [
     "https://www.churchofjesuschrist.org/study/manual/general-handbook/35?lang=eng",
     "https://www.churchofjesuschrist.org/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng",
     "https://www.churchofjesuschrist.org/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng",
-    "https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng"
+    "https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng",
 ]
 
 
 for url in urls:
     print(url)
-    
-if __name__ == "__main__":
-    pass
+    # Pull the url
+    response = requests.get(url)
+    # Parse the content
+    soup = BeautifulSoup(response.content, "html.parser")
+    # Select the page
+    page = soup.find(attrs={"id": "page"})
+    # Select text in the article tag
+    article = page.find("article")
+    # Convert html to markdown
+    text = md(str(article))
+    # Strip out extra new lines and white space
+    clean_text = "\n".join([s for s in text.strip().splitlines(True) if s.strip()])
+    # Get the file name from the url
+    file_name = url.split("/")[-1].split("?")[0]
+    # Save the markdown text
+    with open(f"./markdown/{file_name}.md", "w", encoding="utf-8") as f:
+        f.write(clean_text)
