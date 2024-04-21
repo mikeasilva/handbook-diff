@@ -44,7 +44,7 @@ To protect teachers and students, two adults should be present in the building o
 
 15.1.2
 
-### [Imageicon, guidelines for adaptation](/study/manual/general-handbook/0-introductory-overview?lang=eng&para=title_number3#title_number3) Seminary Options
+### [Imageicon, guidelines for adaptation](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Seminary Options
 
 Seminary is most helpful when students can meet with a teacher each weekday. However, this may not be possible due to safety issues, travel distance, and other factors. Local leaders have the following options for holding seminary.
 
@@ -186,23 +186,23 @@ Seminary teachers should not provide activities outside of normal class time or 
 
 Seminary students can learn more effectively and deepen their conversion if they regularly attend class, participate, and study the scriptures outside of class. As they do these things, they also earn seminary credit each year and can graduate from seminary.
 
-[![]()](/study/manual/general-handbook/0-introductory-overview?lang=eng&para=title_number3#title_number3)  Some students may have difficulty earning seminary credit due to reading challenges or other reasons. The teacher may adapt the requirements to the needs of these students. Adaptations for an entire program can be requested by the S&I representative. These adaptations require approval from the S&I Central Office.
+[![]()](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  Some students may have difficulty earning seminary credit due to reading challenges or other reasons. The teacher may adapt the requirements to the needs of these students. Adaptations for an entire program can be requested by the S&I representative. These adaptations require approval from the S&I Central Office.
 
 To graduate from seminary, a student must earn four years of credit and receive an ecclesiastical endorsement from a bishopric member. This endorsement verifies that a student is worthy and committed to living the standards of the gospel.
 
-Each year the stake holds a seminary graduation. This event is planned by a stake presidency member or a high councilor. The S&I representative may help. For more information, see [A Guide to Seminary and Institute Graduation Exercises](/study/manual/a-guide-to-seminary-and-institute-graduation-exercises?lang=eng).
+Each year the stake holds a seminary graduation. This event is planned by a stake presidency member or a high councilor. The S&I representative may help. For more information, see A Guide to Seminary and Institute Graduation Exercises.
 
 15.1.6
 
-### [Imageicon, guidelines for adaptation](/study/manual/general-handbook/0-introductory-overview?lang=eng&para=title_number3#title_number3) Released-Time Seminary
+### [Imageicon, guidelines for adaptation](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Released-Time Seminary
 
 In some areas of the United States and Canada, local laws allow students to leave school and attend seminary during school hours. The Church Board of Education approves where this type of seminary is used. For more information on released-time seminary, see [Released-Time Seminary](http://www.churchofjesuschrist.org/si/leader-resources/released-time-seminary) on ChurchofJesusChrist.org.
 
 15.2
 
-[Imageicon, optional resources](/study/manual/general-handbook/0-introductory-overview?lang=eng&para=title_number3#title_number3) Institute
+[Imageicon, optional resources](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Institute
 
--------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 Institute provides weekday gospel study classes that strengthen faith and testimony in Jesus Christ and His restored gospel. All young single adults ages 18–30 should be encouraged to attend institute classes, whether they are attending school or not.
 
@@ -220,10 +220,10 @@ Stake presidencies may desire to provide religion classes for adults ages 31 ye
 
 15.3
 
-[Imageicon, optional resources](/study/manual/general-handbook/0-introductory-overview?lang=eng&para=title_number3#title_number3) Church Schools and Church Educational System
+[Imageicon, optional resources](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Church Schools and Church Educational System
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-For information on Church primary and secondary schools, BYU–Pathway Worldwide, and institutions of higher education, see [CES.ChurchofJesusChrist.org](https://ces.churchofjesuschrist.org/). Information about completing ecclesiastical endorsements for students to attend these schools is also provided there.
+For information on Church primary and secondary schools, BYU–Pathway Worldwide, and institutions of higher education, see [CES.ChurchofJesusChrist.org](https://ces.churchofjesuschrist.org). Information about completing ecclesiastical endorsements for students to attend these schools is also provided there.
 
 Additionally, information about employment ecclesiastical clearances through the CES Ecclesiastical Clearance Office can be found at [help.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/help/support/policies/general-policies/employment-ecclesiastical-endorsement).
