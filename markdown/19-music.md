@@ -300,7 +300,7 @@ Music Training and Resources
 
 Learning basic music skills prepares members to use their talents to serve in the Church. The following resources can help those with music callings. They can also help all members who are interested in developing musical abilities.
 
-Basic music training materials are in the “Using the Hymnbook” section in Hymns and the “[Using the Songbook](https://www.churchofjesuschrist.org/music/resources/using-the-songbook)” section in the Children’s Songbook.
+Basic music training materials are in the “[Using the Hymnbook](/study/manual/using-the-hymnbook?lang=eng)” section in Hymns and the “[Using the Songbook](https://www.churchofjesuschrist.org/music/resources/using-the-songbook)” section in the Children’s Songbook.
 
 The following resources may also be helpful:
 

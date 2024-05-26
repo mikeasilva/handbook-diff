@@ -16,7 +16,7 @@ Introduction
 
 ------------
 
-A stake president may propose creating specialized stakes, wards, and branches to serve members as outlined in this chapter. For information about creating specialized units in a mission, see [36.3](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&para=title_number4-p28#title_number4).
+A stake president may propose creating specialized stakes, wards, and branches to serve members as outlined in this chapter. For information about creating specialized units in a mission, see [36.3](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&id=title_number4-p28#title_number4).
 
 A stake president starts a new proposal at [Boundary and Leadership Proposals](https://lcr.churchofjesuschrist.org/boundary-proposals). If he cannot use the online system, he can download paper forms by clicking on the link. Only the First Presidency can approve the proposal.
 
@@ -60,9 +60,9 @@ Branch
 
 Boundaries for language units generally follow the boundaries of geographic wards, branches, and stakes.
 
-The children and youth of a language unit may combine classes with a geographic unit if desired (see [29.2.8](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&para=title_number11-p96#title_number11)).
+The children and youth of a language unit may combine classes with a geographic unit if desired (see [29.2.8](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number11-p96#title_number11)).
 
-See [36.3](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&para=title_number4-p28#title_number4) for language branches in a mission. See [36.4.2](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&para=title_number7-p62#title_number7) for ward and branch naming guidelines.
+See [36.3](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&id=title_number4-p28#title_number4) for language branches in a mission. See [36.4.2](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&id=title_number7-p62#title_number7) for ward and branch naming guidelines.
 
 ![]()  Imageyouth talking
 
@@ -94,7 +94,7 @@ Young Single Adult Wards and Branches in a Geographic Stake
 
 A stake president may propose creating a young single adult ward or branch (for members ages 18–30) if the stake has enough active young single adults who would like to attend. The following should be considered:
 
-* The effect on the personal progress and spiritual development of the young single adults. This includes their ability to participate in all aspects of God’s work of salvation and exaltation (see [1.2](/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng&para=title_number3-p28#title_number3)).
+* The effect on the personal progress and spiritual development of the young single adults. This includes their ability to participate in all aspects of God’s work of salvation and exaltation (see [1.2](/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng&id=title_number3-p28#title_number3)).
 
 * The effect on the geographic units from which the young single adult unit will draw members.
 
@@ -132,7 +132,7 @@ Branch
 
 A young single adult ward usually should not have more than 225 *active* members.
 
-See [36.4.2](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&para=title_number7-p62#title_number7) for ward and branch naming guidelines.
+See [36.4.2](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&id=title_number7-p62#title_number7) for ward and branch naming guidelines.
 
 37.2.1
 
@@ -148,7 +148,7 @@ See [36.4.2](/study/manual/general-handbook/36-creating-changing-and-naming-new-
 
 * Young single adult parents (ages 18–30) who have children at home remain in their geographic unit. The parents may attend the activities of the young single adult unit.
 
-* Members do not attend a young single adult unit when they marry or reach the age of 31. See [37.5](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng&para=title_number14-p62#title_number14) for single adult members ages 31–45.
+* Members do not attend a young single adult unit when they marry or reach the age of 31. See [37.5](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng&id=title_number14-p62#title_number14) for single adult members ages 31–45.
 
 37.2.2
 
@@ -202,7 +202,7 @@ A young single adult unit that is in a geographic stake may be transferred to a 
 
 * The presidents of both stakes recommend the transfer.
 
-See [36.4.1](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&para=title_number6-p48#title_number6) and [36.4.2](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&para=title_number7-p62#title_number7) for stake and ward naming guidelines.
+See [36.4.1](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&id=title_number6-p48#title_number6) and [36.4.2](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&id=title_number7-p62#title_number7) for stake and ward naming guidelines.
 
 37.3.1
 
@@ -218,7 +218,7 @@ See [36.4.1](/study/manual/general-handbook/36-creating-changing-and-naming-new-
 
 * Young single adult parents (ages 18–30) who have children at home remain in their geographic unit. The parents may attend the activities of the young single adult unit.
 
-* Members do not attend a young single adult unit when they marry or reach the age of 31. See [37.5](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng&para=title_number14-p62#title_number14) for single adult members (ages 31–45).
+* Members do not attend a young single adult unit when they marry or reach the age of 31. See [37.5](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng&id=title_number14-p62#title_number14) for single adult members (ages 31–45).
 
 37.3.2
 
@@ -260,7 +260,7 @@ Minimum Requirements to Create a Married Student Stake or Ward
 
  |
 
-See [36.4.1](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&para=title_number6-p48#title_number6) and [36.4.2](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&para=title_number7-p62#title_number7) for stake and ward naming guidelines.
+See [36.4.1](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&id=title_number6-p48#title_number6) and [36.4.2](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&id=title_number7-p62#title_number7) for stake and ward naming guidelines.
 
 37.4.1
 
@@ -276,7 +276,7 @@ See [36.4.1](/study/manual/general-handbook/36-creating-changing-and-naming-new-
 
 ### Leadership in Married Student Stakes and Wards
 
-See [37.3.2](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng&para=title_number10-p46#title_number10) and apply the same guidelines.
+See [37.3.2](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng&id=title_number10-p46#title_number10) and apply the same guidelines.
 
 37.5
 
@@ -298,7 +298,7 @@ Minimum Requirements to Create a Single Adult Ward in a Stake
 
 | Number of active, full-tithe-paying Melchizedek Priesthood holders capable of serving in leadership positions | 1 for every 20 members (active and less active). There must be a minimum of 15. |
 
-See [36.4.2](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&para=title_number7-p62#title_number7) for ward naming guidelines.
+See [36.4.2](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&id=title_number7-p62#title_number7) for ward naming guidelines.
 
 37.5.1
 
@@ -334,9 +334,9 @@ A stake president may suggest creating wards or branches for members in special 
 
 Generally, leaders who are called to serve in these units should live within the stake that is responsible for the unit.
 
-See [36.3](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&para=title_number4-p28#title_number4) for information about branches in a mission for young single adults or single adults; members who do not speak the local native language; members who are in care centers, treatment programs, or prisons; or members in the military.
+See [36.3](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&id=title_number4-p28#title_number4) for information about branches in a mission for young single adults or single adults; members who do not speak the local native language; members who are in care centers, treatment programs, or prisons; or members in the military.
 
-See [36.4.2](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&para=title_number7-p62#title_number7) for ward and branch naming guidelines.
+See [36.4.2](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&id=title_number7-p62#title_number7) for ward and branch naming guidelines.
 
 ![]()  Imagewomen smiling
 
@@ -352,7 +352,7 @@ Groups are small authorized gatherings of members overseen by a bishop, branch p
 
 * A small number of members speak a language that is different from those in the ward or branch.
 
-* Members in the military are best served by being in a group (see [38.9.4](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&para=title_number209-p748#title_number209)).
+* Members in the military are best served by being in a group (see [38.9.4](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number209-p748#title_number209)).
 
 To propose creating a group, the stake or mission president submits a request to the Area Presidency. Only the Area Presidency can approve the request.
 
@@ -374,7 +374,7 @@ A group leader does not hold priesthood keys, and he is not authorized to:
 
 * Perform other duties that require priesthood keys.
 
-Typically, groups use the Basic Unit Program (see [36.6](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&para=title_number11-p73#title_number11)).
+Typically, groups use the Basic Unit Program (see [36.6](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&id=title_number11-p73#title_number11)).
 
 Membership records of group members are kept in the ward or branch that supervises the group.
 
@@ -388,4 +388,4 @@ Church Units at Military Installations
 
 --------------------------------------
 
-For instructions on creating wards, branches, and service member groups that meet on military installations, see [38.9.4](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&para=title_number209-p748#title_number209).
+For instructions on creating wards, branches, and service member groups that meet on military installations, see [38.9.4](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number209-p748#title_number209).

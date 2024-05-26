@@ -16,7 +16,7 @@ Introduction
 
 ------------
 
-Church members belong to congregations based on where they live (see [Mosiah 25:17–24](/study/scriptures/bofm/mosiah/25.17-24?lang=eng#p17)). These congregations are necessary for organizing and doing the work of the Church under the proper priesthood authority. Leaders of congregations are given priesthood keys to authorize the performance of priesthood ordinances. Congregations also help members strengthen each other’s faith as they worship God, learn the teachings of Jesus Christ, and serve.
+Church members belong to congregations based on where they live (see [Mosiah 25:17–24](/study/scriptures/bofm/mosiah/25?lang=eng&id=p17-p24#p17)). These congregations are necessary for organizing and doing the work of the Church under the proper priesthood authority. Leaders of congregations are given priesthood keys to authorize the performance of priesthood ordinances. Congregations also help members strengthen each other’s faith as they worship God, learn the teachings of Jesus Christ, and serve.
 
 Church congregations (also called units) include stakes, districts, wards, and branches. They are created, changed, or discontinued only as needed.
 
@@ -178,7 +178,7 @@ If a unit name needs to be changed because of a boundary realignment, the stake 
 
 Only the First Presidency can approve these proposals.
 
-Area Presidencies may approve proposals to create and name new branches in missions (see [36.3](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&para=title_number4-p28#title_number4)).
+Area Presidencies may approve proposals to create and name new branches in missions (see [36.3](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&id=title_number4-p28#title_number4)).
 
 36.4.1
 
@@ -276,7 +276,7 @@ Basic Unit Program
 
 ------------------
 
-The Church has developed the Basic Unit Program for use by some small branches or small authorized gatherings of members, known as groups (see [37.7](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng&para=title_number18-p84#title_number18) for more information on groups). An Area Presidency may authorize the use of the Basic Unit Program in small branches or groups where any of the following conditions apply:
+The Church has developed the Basic Unit Program for use by some small branches or small authorized gatherings of members, known as groups (see [37.7](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng&id=title_number18-p84#title_number18) for more information on groups). An Area Presidency may authorize the use of the Basic Unit Program in small branches or groups where any of the following conditions apply:
 
 * The Church is in its beginning stages.
 

@@ -16,19 +16,19 @@ Introduction
 
 ------------
 
-The Savior invites all to come unto Him and belong to His Church (see [2 Nephi 26:24](/study/scriptures/bofm/2-ne/26.24?lang=eng#p24)). Men and women who have not yet married or who are divorced or widowed make up a significant portion of Church membership. It is important for all to find hope through the Atonement of Jesus Christ (see [Ether 12:4](/study/scriptures/bofm/ether/12.4?lang=eng#p4)). The following eternal truths can help develop such hope:
+The Savior invites all to come unto Him and belong to His Church (see [2 Nephi 26:24](/study/scriptures/bofm/2-ne/26?lang=eng&id=p24#p24)). Men and women who have not yet married or who are divorced or widowed make up a significant portion of Church membership. It is important for all to find hope through the Atonement of Jesus Christ (see [Ether 12:4](/study/scriptures/bofm/ether/12?lang=eng&id=p4#p4)). The following eternal truths can help develop such hope:
 
 * Scriptures and latter-day prophets confirm that everyone who is faithful in keeping gospel covenants will have the opportunity for exaltation.
 
-* The precise time and manner in which the blessings of exaltation are bestowed have not all been revealed. But they are nonetheless assured (see [Mosiah 2:41](/study/scriptures/bofm/mosiah/2.41?lang=eng#p41)).
+* The precise time and manner in which the blessings of exaltation are bestowed have not all been revealed. But they are nonetheless assured (see [Mosiah 2:41](/study/scriptures/bofm/mosiah/2?lang=eng&id=p41#p41)).
 
-* Waiting upon the Lord implies continued obedience and spiritual progress toward Him (see [Isaiah 64:4](/study/scriptures/ot/isa/64.4?lang=eng#p4)).
+* Waiting upon the Lord implies continued obedience and spiritual progress toward Him (see [Isaiah 64:4](/study/scriptures/ot/isa/64?lang=eng&id=p4#p4)).
 
-* God offers eternal life to all of His children. All who qualify for the Savior’s gracious gift of forgiveness and live His commandments will receive eternal life. (See [Mosiah 26:30](/study/scriptures/bofm/mosiah/26.30?lang=eng#p30); [Moroni 6:8](/study/scriptures/bofm/moro/6.8?lang=eng#p8).)
+* God offers eternal life to all of His children. All who qualify for the Savior’s gracious gift of forgiveness and live His commandments will receive eternal life. (See [Mosiah 26:30](/study/scriptures/bofm/mosiah/26?lang=eng&id=p30#p30); [Moroni 6:8](/study/scriptures/bofm/moro/6?lang=eng&id=p8#p8).)
 
-* Confidence in these assurances is rooted in faith in Jesus Christ. By His grace, all things pertaining to mortality are set right (see [Alma 7:11–13](/study/scriptures/bofm/alma/7.11-13?lang=eng#p11)).
+* Confidence in these assurances is rooted in faith in Jesus Christ. By His grace, all things pertaining to mortality are set right (see [Alma 7:11–13](/study/scriptures/bofm/alma/7?lang=eng&id=p11-p13#p11)).
 
-God needs all members to help in His work of salvation in their wards and stakes (see [1 Corinthians 12:12–27](/study/scriptures/nt/1-cor/12.12-27?lang=eng#p12)). As directed by the Spirit, single members are called to leadership and teaching positions. Leadership callings may include serving in the following positions:
+God needs all members to help in His work of salvation in their wards and stakes (see [1 Corinthians 12:12–27](/study/scriptures/nt/1-cor/12?lang=eng&id=p12-p27#p12)). As directed by the Spirit, single members are called to leadership and teaching positions. Leadership callings may include serving in the following positions:
 
 * Ward and stake organization presidencies
 
@@ -72,7 +72,7 @@ The stake presidency pays particular attention to young single adults—as they 
 
 The stake presidency determines whether activities for young single adults should take place at the ward level, the stake level, or some combination of both. Activities for single adults take place at the stake and multistake level. (See [chapter 20](/study/manual/general-handbook/20-activities?lang=eng).)
 
-When the number of single members in a location is sufficient, stake presidents may recommend organizing a young single adult ward or a single adult ward (see [14.3](/study/manual/general-handbook/14-single-members?lang=eng&para=title_number22-p101#title_number22)).
+When the number of single members in a location is sufficient, stake presidents may recommend organizing a young single adult ward or a single adult ward (see [14.3](/study/manual/general-handbook/14-single-members?lang=eng&id=title_number22-p101#title_number22)).
 
 A stake (or a group of adjacent stakes) may not have enough single members to create a young single adult or single adult ward. In this situation, the Area Presidency may authorize a stake president to invite all of these members to be members of a designated geographic ward. This allows single adults or young single adults to serve and worship together. The Area Presidency counsels with their assigned member of the Presidency of the Seventy and the Quorum of the Twelve.
 
@@ -80,7 +80,7 @@ A stake (or a group of adjacent stakes) may not have enough single members to cr
 
 #### Stake Young Single Adult and Single Adult Committees
 
-Single members serve God’s children by participating in His work of salvation and exaltation (see [1.2](/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng&para=title_number3-p28#title_number3) and [14.2](/study/manual/general-handbook/14-single-members?lang=eng&para=title_number12-p90#title_number12)). To help them do so, the stake presidency creates a young single adult committee. This committee is made up of the young single adult leaders from each ward.
+Single members serve God’s children by participating in His work of salvation and exaltation (see [1.2](/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng&id=title_number3-p28#title_number3) and [14.2](/study/manual/general-handbook/14-single-members?lang=eng&id=title_number12-p90#title_number12)). To help them do so, the stake presidency creates a young single adult committee. This committee is made up of the young single adult leaders from each ward.
 
 A young single adult man and young single adult woman are called to lead the committee. They serve on the stake council.
 
@@ -90,7 +90,7 @@ The stake presidency may also create a single adult committee. It is made up of 
 
 If there are not enough single adults to form a committee in a stake, a group of neighboring stakes may create a committee with the approval of the Area Presidency.
 
-Committees seek to support members through friendship and opportunities to participate in the work of salvation and exaltation (see [14.2](/study/manual/general-handbook/14-single-members?lang=eng&para=title_number12-p90#title_number12)). They plan opportunities for gospel learning and for service and activities.
+Committees seek to support members through friendship and opportunities to participate in the work of salvation and exaltation (see [14.2](/study/manual/general-handbook/14-single-members?lang=eng&id=title_number12-p90#title_number12)). They plan opportunities for gospel learning and for service and activities.
 
 The committees meet as needed. The assigned member of the stake presidency and stake Relief Society presidency and the assigned high councilor may attend these meetings to provide support.
 
@@ -114,7 +114,7 @@ Generally, the bishopric supports single members as they support all members of 
 
 * The bishopric receives regular updates on the well-being of young single adults. The elders quorum president and Relief Society president discuss the needs of young single adults in ward council meeting. The leaders of the young single adult committee may be invited to attend.
 
-* The bishopric may organize a ward young single adult committee (see [14.1.2.4](/study/manual/general-handbook/14-single-members?lang=eng&para=title_number11-p47#title_number11)). (Single adult committees for those ages 31 and older are organized at the stake level.)
+* The bishopric may organize a ward young single adult committee (see [14.1.2.4](/study/manual/general-handbook/14-single-members?lang=eng&id=title_number11-p47#title_number11)). (Single adult committees for those ages 31 and older are organized at the stake level.)
 
 14.1.2.2
 
@@ -124,7 +124,7 @@ The elders quorum and Relief Society presidents may each assign a member of thei
 
 The elders quorum president and Relief Society president may report on these efforts in ward council meeting. If there is a ward young single adult committee, the leaders of this committee are invited to attend and report on their efforts.
 
-These presidency members support the ward young single adult committee if one is organized (see [14.1.2.4](/study/manual/general-handbook/14-single-members?lang=eng&para=title_number11-p47#title_number11)).
+These presidency members support the ward young single adult committee if one is organized (see [14.1.2.4](/study/manual/general-handbook/14-single-members?lang=eng&id=title_number11-p47#title_number11)).
 
 14.1.2.3
 
@@ -132,7 +132,7 @@ These presidency members support the ward young single adult committee if one is
 
 In a ward with many young single adults, the bishopric may call a young single adult man and woman as young single adult leaders. Their responsibilities include:
 
-* Helping young single adults participate in God’s work of salvation and exaltation (see [14.2](/study/manual/general-handbook/14-single-members?lang=eng&para=title_number12-p90#title_number12)).
+* Helping young single adults participate in God’s work of salvation and exaltation (see [14.2](/study/manual/general-handbook/14-single-members?lang=eng&id=title_number12-p90#title_number12)).
 
 * Serving on the stake young single adult committee.
 
@@ -146,7 +146,7 @@ In a ward with many young single adults, the bishopric may call a young single a
 
 #### Ward Young Single Adult Committee
 
-Some wards have many young single adults. In these wards, the bishop may feel that the young single adult leaders could be assisted by a ward young single adult committee. (Single adult committees are organized at the stake level. See [14.1.1.2](/study/manual/general-handbook/14-single-members?lang=eng&para=title_number6-p28#title_number6).)
+Some wards have many young single adults. In these wards, the bishop may feel that the young single adult leaders could be assisted by a ward young single adult committee. (Single adult committees are organized at the stake level. See [14.1.1.2](/study/manual/general-handbook/14-single-members?lang=eng&id=title_number6-p28#title_number6).)
 
 Committee members include:
 
@@ -172,7 +172,7 @@ God invites all to come unto Christ and participate in His work of salvation and
 
 * Uniting families for eternity.
 
-Single members engage in this work at home and at church. They participate in elders quorums and Relief Societies. They serve in callings and assignments, including ministering. Wards and stakes may plan optional activities that are specifically for single members who choose to participate (see [14.2.1.3](/study/manual/general-handbook/14-single-members?lang=eng&para=title_number16-p69#title_number16)).
+Single members engage in this work at home and at church. They participate in elders quorums and Relief Societies. They serve in callings and assignments, including ministering. Wards and stakes may plan optional activities that are specifically for single members who choose to participate (see [14.2.1.3](/study/manual/general-handbook/14-single-members?lang=eng&id=title_number16-p69#title_number16)).
 
 14.2.1
 
@@ -186,13 +186,13 @@ Leaders or members who desire to participate may organize one or more home eveni
 
 In addition, single members may choose to gather virtually or in person for home gospel study. [Come, Follow Me—For Individuals and Families](/study/come-follow-me/individuals-and-families?lang=eng) may be a resource.
 
-All young single adults are encouraged to enroll in institute (see [15.2](/study/manual/general-handbook/15-seminaries-and-institutes?lang=eng&para=title_number8-p52#title_number8)).
+All young single adults are encouraged to enroll in institute (see [15.2](/study/manual/general-handbook/15-seminaries-and-institutes?lang=eng&id=title_number8-p52#title_number8)).
 
 14.2.1.2
 
 #### Sunday School Classes
 
-Under the direction of the bishop, the ward Sunday School president may organize a Sunday School class for young single adults (see [13.3.2](/study/manual/general-handbook/13-sunday-school?lang=eng&para=title_number11-p117#title_number11)).
+Under the direction of the bishop, the ward Sunday School president may organize a Sunday School class for young single adults (see [13.3.2](/study/manual/general-handbook/13-sunday-school?lang=eng&id=title_number11-p117#title_number11)).
 
 14.2.1.3
 
@@ -218,9 +218,9 @@ Area Seventies may work with stake presidents to create committees to plan multi
 
 Funding for activities comes from stake or ward budgets. When multistake or area activities are held, leaders ensure a fair allocation of funding among stakes.
 
-Funding for activities should be consistent with the policies in [20.2.6](/study/manual/general-handbook/20-activities?lang=eng&para=title_number9-p124#title_number9). As an exception, members may pay some costs when multistake or area events are held. Leaders ensure that all can participate.
+Funding for activities should be consistent with the policies in [20.2.6](/study/manual/general-handbook/20-activities?lang=eng&id=title_number9-p124#title_number9). As an exception, members may pay some costs when multistake or area events are held. Leaders ensure that all can participate.
 
-For additional activity guidelines, see [20.2](/study/manual/general-handbook/20-activities?lang=eng&para=title_number3-p124#title_number3) and [20.3](/study/manual/general-handbook/20-activities?lang=eng&para=title_number13-p137#title_number13).
+For additional activity guidelines, see [20.2](/study/manual/general-handbook/20-activities?lang=eng&id=title_number3-p124#title_number3) and [20.3](/study/manual/general-handbook/20-activities?lang=eng&id=title_number13-p137#title_number13).
 
 ![]()  Imagepeople playing football
 
@@ -272,9 +272,9 @@ Young single adults may be particularly helpful in teaching with and supporting 
 
 As individuals and as groups, single members can help unite families for eternity. For example, they might:
 
-* Prepare to make covenants with God by receiving ordinances, including the temple endowment (see [27.2.2](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&para=title_number16-p66#title_number16)).
+* Prepare to make covenants with God by receiving ordinances, including the temple endowment (see [27.2.2](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number16-p66#title_number16)).
 
-* Serve as temple ordinance workers or volunteers (see [25.5](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&para=title_number25-p150#title_number25)).
+* Serve as temple ordinance workers or volunteers (see [25.5](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number25-p150#title_number25)).
 
 * Participate in ordinances for the deceased.
 
@@ -282,23 +282,23 @@ As individuals and as groups, single members can help unite families for eternit
 
 * Identify ancestors who need temple ordinances (see [FamilySearch.org](http://www.familysearch.org)).
 
-* Serve as temple and family history consultants (see [25.2.4](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&para=title_number10-p51#title_number10)).
+* Serve as temple and family history consultants (see [25.2.4](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number10-p51#title_number10)).
 
 * Participate in indexing (see [FamilySearch.org/indexing](http://www.familysearch.org/indexing)).
 
 14.3
 
-[Imageicon, guidelines for adaptation](/study/manual/general-handbook/0-introductory-overview?lang=eng&para=title_number3#title_number3) Young Single Adult Wards and Stakes and Single Adult Wards
+[Imageicon, guidelines for adaptation](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Young Single Adult Wards and Stakes and Single Adult Wards
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Most single members attend geographic wards. As an exception, where many single members live in close proximity, priesthood leaders may recommend creating the following units. These units must meet the criteria in [chapter 37](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng).
 
-* A young single adult ward for those ages 18–30 (see [37.2](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng&para=title_number5-p29#title_number5))
+* A young single adult ward for those ages 18–30 (see [37.2](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng&id=title_number5-p29#title_number5))
 
-* A young single adult stake for those ages 18–30 (see [37.3](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng&para=title_number8-p46#title_number8))
+* A young single adult stake for those ages 18–30 (see [37.3](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng&id=title_number8-p46#title_number8))
 
-* A single adult ward for those ages 31–45 (see [37.5](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng&para=title_number14-p62#title_number14))
+* A single adult ward for those ages 31–45 (see [37.5](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng&id=title_number14-p62#title_number14))
 
 These units use the regular program of the Church as much as possible. They follow the instructions in this handbook.
 
@@ -344,13 +344,13 @@ All designated gathering places must be approved by the Area Presidency. Gatheri
 
 ### Monday Nights
 
-As an exception, young single adult wards and single adult wards may hold activities on Monday nights, including in Church buildings (see [20.5.3](/study/manual/general-handbook/20-activities?lang=eng&para=title_number32-p169#title_number32)).
+As an exception, young single adult wards and single adult wards may hold activities on Monday nights, including in Church buildings (see [20.5.3](/study/manual/general-handbook/20-activities?lang=eng&id=title_number32-p169#title_number32)).
 
 14.4.3
 
 ### Additional Elders Quorums and Relief Societies
 
-With approval from the stake president, the bishop of a ward for single members may organize more than one Relief Society and elders quorum. (See [8.1.3](/study/manual/general-handbook/8-elders-quorum?lang=eng&para=title_number119-p188#title_number119) and [9.1.3](/study/manual/general-handbook/9-relief-society?lang=eng&para=title_number5-p5#title_number5).)
+With approval from the stake president, the bishop of a ward for single members may organize more than one Relief Society and elders quorum. (See [8.1.3](/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number119-p188#title_number119) and [9.1.3](/study/manual/general-handbook/9-relief-society?lang=eng&id=title_number5-p5#title_number5).)
 
 14.4.4
 
@@ -392,7 +392,7 @@ In large young single adult wards, bishops may authorize counselors to conduct i
 
 * Receiving their own endowment.
 
-* Being sealed to a spouse. (See [26.3.1](/study/manual/general-handbook/26-temple-recommends?lang=eng&para=title_number10-p38#title_number10).)
+* Being sealed to a spouse. (See [26.3.1](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number10-p38#title_number10).)
 
 14.4.7
 
