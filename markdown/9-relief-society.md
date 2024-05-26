@@ -54,6 +54,8 @@ Participating in God’s Work of Salvation and Exaltation
 
 -------------------------------------------------------
 
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)  
+
 God invites all to come unto Christ and participate in His work of salvation and exaltation by:
 
 * Living the gospel of Jesus Christ.
@@ -117,6 +119,8 @@ The Relief Society president oversees these activities. She may ask a counselor 
 ### Caring for Those in Need
 
 As followers of Jesus Christ, sisters have a responsibility to reach out in love to those in need. Individually and as a Relief Society, they seek ways to serve others in the ward and community. Where it is available, [JustServe.org](http://www.justserve.org) suggests community service opportunities.
+
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)  
 
 For more information about how members of the Relief Society and elders quorum care for those in need, see [22.6.2](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number52-p185#title_number52).
 
@@ -192,6 +196,8 @@ The Relief Society president assigns a member of the presidency to help lead tem
 
 The assigned member of the Relief Society presidency participates in coordination meetings to coordinate temple and family history work. These meetings are held regularly. The ward temple and family history leader, who may be a member of the elders quorum presidency, leads temple and family history coordination meetings (see [25.2.7](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number13-p72#title_number13)). They also include an assistant in the priests quorum, a presidency member of the oldest Young Women class, and temple and family history consultants.
 
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)  
+
 9.3
 
 Relief Society Leaders
@@ -230,7 +236,9 @@ The Relief Society president has the following responsibilities. Her counselors 
 
 * Organize and oversee the service of ministering sisters. Coordinate ministering assignments with the elders quorum presidency, meeting at least quarterly. Seek the bishop’s approval for ministering assignments. Hold ministering interviews at least quarterly. See [chapter 21](/study/manual/general-handbook/21-ministering?lang=eng).
 
-* Under the bishop’s guidance, counsel with adult members of the ward. Only the bishop counsels ward members about matters of worthiness, abuse, and approval to use fast-offering funds. See Counseling Resources.
+* Under the bishop’s guidance, counsel with adult members of the ward. Only the bishop counsels ward members about matters of worthiness, abuse, and approval to use fast-offering funds. See [Counseling Resources](/study/manual/counseling-resources?lang=eng).
+
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
 
 * With the elders quorum presidency, help lead efforts in the ward to invite all to receive the blessings of the gospel (see [8.2.3](/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number128-p228#title_number128) and [9.2.3](/study/manual/general-handbook/9-relief-society?lang=eng&id=title_number10-p163#title_number10)).
 
