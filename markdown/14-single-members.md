@@ -1,4 +1,4 @@
-“14. Single Members,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2020).
+“14. Single Members,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
 
 “14. Single Members,” General Handbook.
 
@@ -184,7 +184,7 @@ Single members engage in this work at home and at church. They participate in el
 
 Leaders or members who desire to participate may organize one or more home evening groups for single adults and other groups for young single adults. Generally, those who participate do not have children at home. In stakes with few single members, home evening groups may cross ward boundaries.
 
-In addition, single members may choose to gather virtually or in person for home gospel study. [Come, Follow Me—For Individuals and Families](/study/come-follow-me/individuals-and-families?lang=eng) may be a resource.
+In addition, single members may choose to gather virtually or in person for home gospel study. [Come, Follow Me](/study/come-follow-me?lang=eng) may be a resource.
 
 All young single adults are encouraged to enroll in institute (see [15.2](/study/manual/general-handbook/15-seminaries-and-institutes?lang=eng&id=title_number8-p52#title_number8)).
 
@@ -278,7 +278,7 @@ As individuals and as groups, single members can help unite families for eternit
 
 * Participate in ordinances for the deceased.
 
-* Learn about their extended families and ancestors (see [My Family: Stories That Bring Us Together](https://www.churchofjesuschrist.org/bc/content/ldsorg/topics/my-family-booklet-pdf/english-whole-pdf.pdf)).
+* Learn about their extended families and ancestors (see [My Family: Stories That Bring Us Together](https://assets.churchofjesuschrist.org/a3/6d/a36d2fc1743311ee97a6eeeeac1e7b776ff34d50/my_family_stories_that_bring_us_together.pdf)).
 
 * Identify ancestors who need temple ordinances (see [FamilySearch.org](http://www.familysearch.org)).
 

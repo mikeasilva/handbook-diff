@@ -1,4 +1,4 @@
-“2. Supporting Individuals and Families in God’s Work of Salvation and Exaltation,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2020).
+“2. Supporting Individuals and Families in God’s Work of Salvation and Exaltation,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
 
 “2. Supporting Individuals and Families,” General Handbook.
 
@@ -134,9 +134,9 @@ God has commanded His children to “remember the sabbath day, to keep it holy�
 
 Gospel teaching and learning are home-centered and Church-supported. Church leaders encourage all members to study the gospel at home on the Sabbath day and throughout the week. Gospel study at home strengthens individuals and families. It deepens conversion to Heavenly Father and the Lord Jesus Christ.
 
-A study of the scriptures as outlined in [Come, Follow Me—For Individuals and Families](https://www.churchofjesuschrist.org/manual/come-follow-me/individuals-and-families) is the suggested course of gospel study at home.
+A study of the scriptures as outlined in [Come, Follow Me](/study/come-follow-me?lang=eng) is the suggested course of gospel study at home.
 
-Individuals and families seek inspiration as they choose to study what will best meet their needs. In addition to the scripture passages suggested in [Come, Follow Me](https://www.churchofjesuschrist.org/manual/come-follow-me), they might prayerfully consider studying:
+Individuals and families seek inspiration as they choose to study what will best meet their needs. In addition to the scripture passages suggested in [Come, Follow Me](/study/come-follow-me?lang=eng), they might prayerfully consider studying:
 
 * The Book of Mormon and other scriptures.
 
@@ -152,7 +152,7 @@ Latter-day prophets have counseled Church members to hold a weekly home evening.
 
 Home evening is flexible according to members’ circumstances. It may be held on the Sabbath or other days and times. It may include:
 
-* Gospel study and instruction (the [Come, Follow Me](https://www.churchofjesuschrist.org/manual/come-follow-me) materials may be used as desired).
+* Gospel study and instruction (the [Come, Follow Me](/study/come-follow-me?lang=eng) materials may be used as desired).
 
 * Serving others.
 
@@ -164,7 +164,7 @@ Home evening is flexible according to members’ circumstances. It may be held o
 
 * Recreational activities.
 
-Single members and others can gather in groups outside the normal Sabbath worship services to participate in home evening and strengthen one another through gospel study. [Come, Follow Me](https://www.churchofjesuschrist.org/manual/come-follow-me) may be a resource for those who desire to study together.
+Single members and others can gather in groups outside the normal Sabbath worship services to participate in home evening and strengthen one another through gospel study. [Come, Follow Me](/study/come-follow-me?lang=eng) may be a resource for those who desire to study together.
 
 To provide time for families to be together, leaders should keep Monday evenings free from Church meetings and activities.
 

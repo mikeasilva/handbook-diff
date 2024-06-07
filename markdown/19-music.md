@@ -1,4 +1,4 @@
-“19. Music,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2020).
+“19. Music,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
 
 “19. Music,” General Handbook.
 

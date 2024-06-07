@@ -1,4 +1,4 @@
-“4. Leadership and Councils in the Church of Jesus Christ,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2021).
+“4. Leadership and Councils in the Church of Jesus Christ,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
 
 “4. Leadership and Councils in the Church of Jesus Christ,” General Handbook.
 
@@ -68,7 +68,7 @@ Help individuals deepen their conversion and strengthen their faith in Heavenly 
 
 ### Teach the Gospel of Jesus Christ
 
-All leaders are teachers. Strive to follow the Savior’s example as a teacher (see [chapter 17](/study/manual/general-handbook/17-teaching-the-gospel?lang=eng); Teaching in the Savior’s Way). Through your words and actions, teach the doctrine of Jesus Christ and the principles of His gospel (see [3 Nephi 11:32–33](/study/scriptures/bofm/3-ne/11?lang=eng&id=p32-p33#p32); [Doctrine and Covenants 42:12–14](/study/scriptures/dc-testament/dc/42?lang=eng&id=p12-p14#p12)). Effective teaching inspires people to strengthen their relationship with God and live the gospel, progressing toward eternal life.
+All leaders are teachers. Strive to follow the Savior’s example as a teacher (see [chapter 17](/study/manual/general-handbook/17-teaching-the-gospel?lang=eng); [Teaching in the Savior’s Way](/study/manual/teaching-in-the-saviors-way-2022?lang=eng)). Through your words and actions, teach the doctrine of Jesus Christ and the principles of His gospel (see [3 Nephi 11:32–33](/study/scriptures/bofm/3-ne/11?lang=eng&id=p32-p33#p32); [Doctrine and Covenants 42:12–14](/study/scriptures/dc-testament/dc/42?lang=eng&id=p12-p14#p12)). Effective teaching inspires people to strengthen their relationship with God and live the gospel, progressing toward eternal life.
 
 Teaching in the Savior’s way is more than talking; it includes listening and asking questions the way He did (see [Matthew 16:13–17](/study/scriptures/nt/matt/16?lang=eng&id=p13-p17#p13)).
 

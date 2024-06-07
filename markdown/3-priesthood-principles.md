@@ -1,4 +1,4 @@
-“3. Priesthood Principles,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2020).
+“3. Priesthood Principles,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
 
 “3. Priesthood Principles,” General Handbook.
 

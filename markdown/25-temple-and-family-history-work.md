@@ -1,4 +1,4 @@
-“25. Temple and Family History Work in the Ward and Stake,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2020).
+“25. Temple and Family History Work in the Ward and Stake,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
 
 “25. Temple and Family History Work in the Ward and Stake,” General Handbook.
 
@@ -26,7 +26,7 @@ Uniting families for eternity is part of God’s work of salvation and exaltatio
 
 The temple is the house of the Lord. Temple ordinances and covenants bless Heavenly Father’s children. Heavenly Father invites all of His children to qualify for and receive temple ordinances.
 
-This chapter guides Church leaders and members in temple and family history work. More information is available at “[Temples](/study/manual/gospel-topics/temples?lang=eng)” and “[Family History](/study/manual/gospel-topics/family-history?lang=eng)” (Gospel Topics, topics.ChurchofJesusChrist.org).
+This chapter guides Church leaders and members in temple and family history work. More information is available at “[Temples](/study/manual/gospel-topics/temples?lang=eng)” and “[Family History](/study/manual/gospel-topics/family-history?lang=eng)” (Topics and Questions, topics.ChurchofJesusChrist.org).
 
 25.1
 
@@ -188,7 +188,7 @@ The elders quorum and Relief Society presidents help the ward council develop th
 
 Examples of what the plan might include are listed below:
 
-* Help members build their family trees on [FamilySearch.org](http://www.familysearch.org) or with the [FamilySearch Tree app](http://www.familysearch.org/blog/en/mobile) (see [25.4.2](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number23-p112#title_number23)).
+* Help members build their family trees on [FamilySearch.org](http://www.familysearch.org) or with the [Family Tree app](http://www.familysearch.org/blog/en/mobile) (see [25.4.2](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number23-p112#title_number23)).
 
 * Involve new and returning members, youth, and children in family history work.
 
@@ -282,7 +282,7 @@ The stake adult leadership committee includes:
 
 These leaders instruct and support elders quorum and Relief Society presidencies in their responsibilities for temple and family history work (see [25.2.2](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number8-p38#title_number8)). Instruction could take place in a group setting or individually. Ward temple and family history leaders may be invited to receive this instruction.
 
-For more about this committee’s meetings, see [29.3.9](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number58-p153#title_number58).
+For more about this committee’s meetings, see [29.3.8](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number58-p153#title_number58).
 
 25.3.3
 
@@ -370,9 +370,9 @@ Family History Resources
 
 ### My Family: Stories That Bring Us Together
 
-My Family: Stories That Bring Us Together helps people discover relatives and ancestors and gather their stories. This booklet can also help members begin to prepare family names for temple ordinances.
+[My Family: Stories That Bring Us Together](https://store.churchofjesuschrist.org/my-family-stories-that-bring-us-together/5638687353.p) helps people discover relatives and ancestors and gather their stories. This booklet can also help members begin to prepare family names for temple ordinances.
 
-The booklet can be downloaded at [ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/bc/content/ldsorg/topics/my-family-booklet-pdf/english-whole-pdf.pdf). Physical copies can be ordered at [store.ChurchofJesusChrist.org](http://store.churchofjesuschrist.org/usa/en/my-family%3A-stories-that-bring-us-together-%282020-version%29).
+The booklet can be downloaded at [ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/bc/content/ldsorg/topics/my-family-booklet-pdf/english-whole-pdf.pdf). Physical copies can be ordered at [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org/my-family-stories-that-bring-us-together/5638687353.p).
 
 25.4.2
 
@@ -388,7 +388,7 @@ The booklet can be downloaded at [ChurchofJesusChrist.org](https://www.churchofj
 
 * Prepare family names for temple ordinances.
 
-The [FamilySearch Tree app](http://www.familysearch.org/blog/en/mobile) and [FamilySearch Memories app](http://www.familysearch.org/blog/en/mobile) enable people to participate in temple and family history work from mobile devices.
+The [Family Tree app](http://www.familysearch.org/blog/en/mobile) and [FamilySearch Memories app](http://www.familysearch.org/blog/en/mobile) enable people to participate in temple and family history work from mobile devices.
 
 ![]()  Imagefamily looking at photos
 
@@ -412,7 +412,7 @@ Anyone can participate in indexing. This can be a particularly fulfilling experi
 
 The stake presidency may assign a stake temple and family history consultant or a high councilor to coordinate this work.
 
-For more information, see “[Indexing Overview](http://www.familysearch.org/indexing)” on FamilySearch.org.
+For more information, see “[Indexing Overview](https://www.familysearch.org/getinvolved)” on FamilySearch.org.
 
 25.5
 
