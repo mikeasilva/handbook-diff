@@ -1,4 +1,4 @@
-“18. Performing Priesthood Ordinances and Blessings,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2020).
+“18. Performing Priesthood Ordinances and Blessings,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
 
 “18. Performing Priesthood Ordinances and Blessings,” General Handbook.
 
@@ -270,7 +270,7 @@ Ordinances for Minor Children
 
 Guidelines for obtaining approval from parents or guardians for a minor child to receive the following ordinances and blessings are provided in the sections listed below:
 
-* For naming and blessing: [38.2.7.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number260-p2767#title_number260) and [38.2.7.3](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number260-p2767#title_number260)
+* For naming and blessing: [38.2.7.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number290-p27793#title_number290) and [38.2.7.3](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number260-p2767#title_number260)
 
 * For baptism and confirmation: [38.2.8.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number262-p2779#title_number262)
 
@@ -404,7 +404,7 @@ A baptismal service should be simple, brief, and spiritually uplifting. It may i
 
 7. A time of reverence while those who participated in the baptism change into dry clothes (hymns or Primary songs may be played or sung during this time)
 
-8. The confirmation of 8-year-old members of record; the confirmation of converts if determined by the bishop (see [18.8](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number23-p106#title_number23))
+8. The confirmation of 8-year-old members of record; the confirmation of converts (see [18.8](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number23-p106#title_number23))
 
 9. Bearing of testimonies by new converts, if desired
 
@@ -418,7 +418,7 @@ In stakes with many children of record, children from multiple wards may share t
 
 Baptismal services for converts should be scheduled as soon as they have met the qualifications in [31.2.3.2](/study/manual/general-handbook/31?lang=eng&id=title_number24-p164#title_number24). Baptism of a family member should not be delayed until a father can receive the priesthood and perform the baptism himself.
 
-Under the bishopric’s guidance, the ward mission leader (if one is called) or the member of the elders quorum presidency who leads missionary work in the ward plans and conducts baptismal services for converts. They coordinate with the full-time missionaries.
+Under the bishopric’s guidance, the ward mission leader (if one is called) or the member of the elders quorum presidency who leads missionary work in the ward plans and conducts baptismal services for converts. He also plans the confirmation of converts if they will not be confirmed in sacrament meeting. He coordinates with the full-time missionaries.
 
 18.7.3
 
@@ -494,9 +494,11 @@ For information about confirmation in special circumstances, see [38.2.8](/study
 
 The bishop holds the priesthood keys for confirming 8-year-old members of record in his ward. The mission president holds the keys for confirming converts (for a definition of a convert baptism, see [31.2.3.2](/study/manual/general-handbook/31?lang=eng&id=title_number24-p164#title_number24)).
 
-The bishop oversees the performance of confirmations. Eight-year-old children are typically confirmed on the day they are baptized. Converts are typically confirmed in any sacrament meeting in the ward where they live, preferably on the Sunday after their baptism. However, the bishop can allow the confirmation to take place at the baptismal service as an exception.
+The bishop oversees the confirmations of 8-year-old children of record. These children are typically confirmed on the day they are baptized.
 
-A member of the bishopric follows the guidelines in [29.2.1.1](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number59-p29#title_number59) when introducing new members.
+The full-time missionaries coordinate with ward leaders to plan the confirmation of converts as noted in [18.7.2](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number16-p71#title_number16). Converts may be confirmed at the baptismal service or in sacrament meeting in the ward where they live as soon as possible after their baptism.
+
+New members are recognized and welcomed as a new member of the ward in the sacrament meeting after their confirmation (see [29.2.1.1](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number59-p29#title_number59)).
 
 ![]()  Imageyoung woman being confirmed
 
