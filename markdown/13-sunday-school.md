@@ -1,4 +1,4 @@
-“13. Sunday School,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2020).
+“13. Sunday School,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
 
 “13. Sunday School,” General Handbook.
 
@@ -64,9 +64,9 @@ The Sunday School president has the following responsibilities. If he has counse
 
 * Organize Sunday School classes, with the bishopric’s approval (see [13.3](/study/manual/general-handbook/13-sunday-school?lang=eng&id=title_number9-p117#title_number9)). Recommend to the bishopric adult members to serve as Sunday School teachers.
 
-* Support, encourage, and instruct Sunday School teachers. Help them become more effective gospel teachers by following the principles in the scriptures and Teaching in the Savior’s Way. Encourage them to study Teaching in the Savior’s Way.
+* Support, encourage, and instruct Sunday School teachers. Help them become more effective gospel teachers by following the principles in the scriptures and [Teaching in the Savior’s Way](/study/manual/teaching-in-the-saviors-way-2022?lang=eng). Encourage them to study [Teaching in the Savior’s Way](/study/manual/teaching-in-the-saviors-way-2022?lang=eng).
 
-* Lead teacher council meetings as guided by the bishop (see Teaching in the Savior’s Way, 3).
+* Lead teacher council meetings as guided by the bishop (see Teaching in the Savior’s Way, [38–39](/study/manual/teaching-in-the-saviors-way-2022/12-part-3/16-helping-teachers-succeed?lang=eng)).
 
 * Encourage teachers to reach out to members who do not attend classes.
 
@@ -80,7 +80,7 @@ The Sunday School president may recommend members to serve as Sunday School teac
 
 Sunday School teachers get to know class members, including those who do not attend classes. Teachers support members in their efforts to learn and live the gospel of Jesus Christ.
 
-To prepare to teach, Sunday School teachers use the scriptures, [Come, Follow Me—For Individuals and Families](http://www.churchofjesuschrist.org/manual/come-follow-me/individuals-and-families), and [Come, Follow Me—For Sunday School](http://www.churchofjesuschrist.org/manual/come-follow-me/sunday-school). They follow the principles in Teaching in the Savior’s Way and [chapter 17](/study/manual/general-handbook/17-teaching-the-gospel?lang=eng) of this handbook.
+To prepare to teach, Sunday School teachers use the scriptures and [Come, Follow Me](/study/come-follow-me?lang=eng). They follow the principles in [Teaching in the Savior’s Way](/study/manual/teaching-in-the-saviors-way-2022?lang=eng) and [chapter 17](/study/manual/general-handbook/17-teaching-the-gospel?lang=eng) of this handbook.
 
 Sunday School teachers attend quarterly teacher council meetings (see [17.4](/study/manual/general-handbook/17-teaching-the-gospel?lang=eng&id=title_number41-p163#title_number41)).
 
@@ -116,7 +116,7 @@ In a small branch, the Sunday School president may be the only Sunday School lea
 
 ### Sunday School Classes for Specific Groups
 
-As needed, the Sunday School president may organize Sunday School classes for specific groups. The curriculum for these classes is [Come, Follow Me—For Sunday School](http://www.churchofjesuschrist.org/manual/come-follow-me/sunday-school).
+As needed, the Sunday School president may organize Sunday School classes for specific groups. The curriculum for these classes is [Come, Follow Me](/study/come-follow-me?lang=eng).
 
 Groups that could benefit from their own Sunday School class include:
 
@@ -134,13 +134,13 @@ Improving Learning and Teaching in the Ward
 
 -------------------------------------------
 
-Ward leaders are responsible for improving learning and teaching in their organizations. This includes orienting newly called teachers (see Teaching in the Savior’s Way, 38). They can ask the ward Sunday School president for help if needed.
+Ward leaders are responsible for improving learning and teaching in their organizations. This includes orienting newly called teachers (see Teaching in the Savior’s Way, [40](/study/manual/teaching-in-the-saviors-way-2022/12-part-3/16-helping-teachers-succeed?lang=eng&id=title8-p24#title8)). They can ask the ward Sunday School president for help if needed.
 
-Teacher council meetings are held quarterly during the 50-minute class time on Sunday (see [17.4](/study/manual/general-handbook/17-teaching-the-gospel?lang=eng&id=title_number41-p163#title_number41)). Their purpose is to help improve learning and teaching. Teaching in the Savior’s Way is the main resource for these meetings.
+Teacher council meetings are held quarterly during the 50-minute class time on Sunday (see [17.4](/study/manual/general-handbook/17-teaching-the-gospel?lang=eng&id=title_number41-p163#title_number41)). Their purpose is to help improve learning and teaching. [Teaching in the Savior’s Way](/study/manual/teaching-in-the-saviors-way-2022?lang=eng) is the main resource for these meetings.
 
 The ward council oversees and schedules teacher council meetings. The Sunday School president usually leads the meetings. However, the bishopric may ask another member to lead them.
 
-For more information, see Teaching in the Savior’s Way, 3, or [teaching.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/manual/come-follow-me/teaching-in-the-saviors-way).
+For more information, see “[For Leaders—Helping Teachers Succeed](/study/manual/teaching-in-the-saviors-way-2022/12-part-3/16-helping-teachers-succeed?lang=eng)” in  Teaching in the Savior’s Way (pages 38–40).
 
 13.5
 
@@ -148,9 +148,11 @@ Improving Learning and Teaching in the Home
 
 -------------------------------------------
 
-Parents are responsible for teaching the gospel to their children. They can ask the Sunday School president to help them improve as teachers.
+Parents are responsible for teaching the gospel to their children.
 
-The ward council may organize teacher council meetings for parents to help them improve gospel teaching in the home. Like other teacher council meetings, these are held during the 50-minute class time on Sunday. Teaching in the Savior’s Way is the main resource for these meetings.
+The ward council may organize teacher council meetings for parents during the 50-minute class time on Sunday. These meetings are led by a member of the Sunday School presidency or someone else the bishopric assigns. [Teaching in the Savior’s Way](/study/manual/teaching-in-the-saviors-way-2022?lang=eng) is the main resource for these meetings.
+
+For more information about teacher council meetings for parents, see [17.5](/study/manual/general-handbook/17-teaching-the-gospel?lang=eng&id=title_number46-p168#title_number46).
 
 ![]()  Imageadult Sunday School class
 
