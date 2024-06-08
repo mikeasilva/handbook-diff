@@ -1,4 +1,4 @@
-“27. Temple Ordinances for the Living,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2020).
+“27. Temple Ordinances for the Living,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
 
 “27. Temple Ordinances for the Living,” General Handbook.
 
@@ -150,7 +150,7 @@ In the endowment, members are invited to make sacred covenants as follows:
 
 	* Enduring to the end by keeping covenants.
 
-	* Striving to live the two great commandments. These are to “love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind” and to “love thy neighbor as thyself” ([Matthew 22:37, 39](/study/scriptures/nt/matt/22?lang=eng&id=p37-p39#p37)).
+	* Striving to live the two great commandments. These are to “love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind” and to “love thy neighbor as thyself” ([Matthew 22:37, 39](/study/scriptures/nt/matt/22?lang=eng&id=p37,39#p37)).
 
 4. Keep the law of chastity, which means abstaining from sexual relations outside of a legal marriage between a man and a woman, which is according to God’s law.
 
@@ -424,4 +424,4 @@ Members who are 21 or older must be endowed and have a current temple recommend
 
 Married members who are younger than 21 do not need to be endowed to observe such sealings. However, they must have a current temple recommend (see [26.4.4](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number16-p59#title_number16)).
 
-The stake president may authorize a person who has not been baptized or endowed due to intellectual disabilities to observe the sealing of living siblings, stepsiblings, or half-siblings to their parents. The stake president writes a letter stating that the person is authorized to observe the sealing. This letter is presented at the temple.
+Some members of record are not baptized due to an intellectual disability, and some are baptized but not endowed for the same reason. The stake president may authorize them to observe the sealing of their living siblings, stepsiblings, or half-siblings to their parents. The stake president writes a letter stating that the person is authorized to observe the sealing. This letter is presented at the temple.
