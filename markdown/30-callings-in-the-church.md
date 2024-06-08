@@ -1,4 +1,4 @@
-“30. Callings in the Church,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2020).
+“30. Callings in the Church,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
 
 “30. Callings in the Church,” General Handbook.
 
@@ -64,7 +64,7 @@ Before a stake leader extends a calling, the person’s bishop is consulted to d
 
 Opportunities to serve help members grow spiritually. Serving together can also help members build close relationships. This is especially important for new members.
 
-Ward leaders give new members opportunities to serve soon after they are baptized and confirmed. New members have a variety of abilities. Leaders prayerfully invite them to serve in ways that will help them grow personally and bless others. Some members are ready for callings right away. Others might prefer temporary assignments that help them prepare to receive callings. See also [23.2](/study/manual/general-handbook/23?lang=eng&id=title_number7-p31#title_number7) and [23.5.1](/study/manual/general-handbook/23?lang=eng&id=title_number15-p52#title_number15).
+Ward leaders give new members opportunities to serve soon after they are baptized and confirmed. New members have a variety of abilities. Leaders prayerfully invite them to serve in ways that will help them grow personally and bless others. Some members are ready for callings right away. Others might prefer temporary assignments that help them prepare to receive callings. See also [23.2](/study/manual/general-handbook/23?lang=eng&id=title_number7-p31#title_number7) and [23.6.1](/study/manual/general-handbook/23?lang=eng&id=title_number15-p52#title_number15).
 
 30.1.3
 
@@ -734,6 +734,28 @@ Bishop or an assigned counselor |
 
 Calling
 
+Interpreters if needed | 
+
+Recommended by
+
+Bishopric | 
+
+Approved by
+
+Bishopric | 
+
+Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure5_note3)
+
+Ward members | 
+
+Called and set apart by
+
+Bishop or an assigned counselor |
+
+| 
+
+Calling
+
 Other ward callings | 
 
 Recommended by
@@ -1199,6 +1221,28 @@ Stake president or an assigned counselor or high councilor |
 Calling
 
 [Stake welfare and self-reliance specialists if needed](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number26-p57#title_number26) | 
+
+Recommended by
+
+Stake presidency | 
+
+Approved by
+
+Stake presidency and high council | 
+
+Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure1_note1)
+
+Members in stake conference | 
+
+Called and set apart by
+
+Stake president or an assigned counselor or high councilor |
+
+| 
+
+Calling
+
+Stake interpretation coordinator if needed | 
 
 Recommended by
 
