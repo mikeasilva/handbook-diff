@@ -1,4 +1,4 @@
-“29. Meetings in the Church,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2020).
+“29. Meetings in the Church,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
 
 “29. Meetings in the Church,” General Handbook.
 
@@ -122,13 +122,13 @@ Before the meeting starts, members of the congregation prepare spiritually for t
 
 #### Selecting Speakers
 
-The bishopric selects speakers for sacrament meeting. Most often they invite ward members, including youth (see [38.8.18](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number154-p551#title_number154)). The stake president may assign high councilors or members of stake organization presidencies to speak. The stake president determines the frequency of such assignments.
+The bishopric selects speakers for sacrament meeting. Most often they invite ward members, including youth and children (see [38.8.18](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number154-p551#title_number154)). The stake president may assign high councilors or members of stake organization presidencies to speak. The stake president determines the frequency of such assignments.
 
 The bishopric extends invitations to speak well in advance of the meeting. Speakers bear testimony of Jesus Christ and teach His gospel using the scriptures (see [Doctrine and Covenants 42:12](/study/scriptures/dc-testament/dc/42?lang=eng&id=p12#p12); [52:9](/study/scriptures/dc-testament/dc/52?lang=eng&id=p9#p9)). Messages should build faith and be consistent with the sacred nature of the sacrament.
 
 For information about newly called or recently returned missionaries speaking in sacrament meeting, see [24.5.2](/study/manual/general-handbook/24?lang=eng&id=title_number29-p163#title_number29) and [24.8.3](/study/manual/general-handbook/24?lang=eng&id=title_number57-p222#title_number57).
 
-The bishopric schedules one sacrament meeting each year for a presentation by the Primary children. For information about this presentation, see [12.2.1.2](/study/manual/general-handbook/12-primary?lang=eng&id=title_number9-p75#title_number9).
+The bishopric schedules one sacrament meeting each year for a presentation by the Primary children. For information about this presentation, see [12.1.6](/study/manual/general-handbook/12-primary?lang=eng&id=title_number33-p195#title_number33).
 
 ![]()  Imageman speaking over the pulpit
 
@@ -336,7 +336,7 @@ Sunday School classes are described in [13.3](/study/manual/general-handbook/13-
 
 Teacher council meetings are described in [17.4](/study/manual/general-handbook/17-teaching-the-gospel?lang=eng&id=title_number41-p163#title_number41).
 
-Coordination meetings for the work of sharing the gospel and strengthening new and returning members are described in [23.5.7](/study/manual/general-handbook/23?lang=eng&id=title_number21-p97#title_number21).
+Coordination meetings for the work of sharing the gospel and strengthening new and returning members are described in [23.4](/study/manual/general-handbook/23?lang=eng&id=title_number22-p729#title_number22).
 
 Coordination meetings for temple and family history work are described in [25.2.7](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number13-p72#title_number13).
 
@@ -354,11 +354,11 @@ Plan 1
 
 | --- | --- |
 
-| 60 minutes | Sacrament meeting |
+| 60 minutes | Sacrament meeting |
 
-| 10 minutes | Transition to classes and meetings |
+| 10 minutes | Transition to classes and meetings |
 
-| 50 minutes | All Sundays: Primary, including nursery (see [12.2.1.2](/study/manual/general-handbook/12-primary?lang=eng&id=title_number9-p75#title_number9))
+| 50 minutes | All Sundays: Primary, including nursery (see [12.2.1.2](/study/manual/general-handbook/12-primary?lang=eng&id=title_number9-p75#title_number9))
 
 First and third Sundays of the month: Sunday School (see [13.3](/study/manual/general-handbook/13-sunday-school?lang=eng&id=title_number9-p117#title_number9))
 
@@ -372,7 +372,7 @@ Plan 2
 
 | --- | --- |
 
-| 50 minutes | All Sundays: Primary, including nursery (see [12.2.1.2](/study/manual/general-handbook/12-primary?lang=eng&id=title_number9-p75#title_number9))
+| 50 minutes | All Sundays: Primary, including nursery (see [12.2.1.2](/study/manual/general-handbook/12-primary?lang=eng&id=title_number9-p75#title_number9))
 
 First and third Sundays of the month: Sunday School (see [13.3](/study/manual/general-handbook/13-sunday-school?lang=eng&id=title_number9-p117#title_number9))
 
@@ -380,9 +380,9 @@ Second and fourth Sundays: priesthood quorum meetings (see [8.2.1.2](/study/manu
 
 Fifth Sundays: meetings for youth and adults. The bishopric determines the topic and assigns teachers (usually members of the ward or stake). They also determine whether youth and adults, male and female, meet separately or together. |
 
-| 10 minutes | Transition to sacrament meeting |
+| 10 minutes | Transition to sacrament meeting |
 
-| 60 minutes | Sacrament meeting |
+| 60 minutes | Sacrament meeting |
 
 When two wards meet in the same building and one or both have very few children or youth, it may be desirable for the children or youth to attend Sunday classes together. The wards’ Sunday meeting schedules could overlap as shown below.
 
@@ -526,24 +526,6 @@ The stake Young Men presidency does not hold a stake leadership meeting. Instruc
 
 29.3.5
 
-### Stake High Priests Quorum Meeting
-
-Purpose
-
-Teach quorum members their duties and doctrine related to the priesthood.
-
-Participants
-
-All members of the stake high priests quorum (see [6.2.1.1](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number5-p16#title_number5)).
-
-Frequency
-
-At least once each year.
-
-The stake presidency plans and conducts stake high priests quorum meetings. Meetings for all ordained high priests in the stake are not held.
-
-29.3.6
-
 ### Stake Presidency Meeting
 
 Purpose
@@ -576,7 +558,7 @@ The stake president plans and conducts stake presidency meetings. Matters for co
 
 Other items may include stake activities and programs, the stake budget, reports on assignments, and plans for upcoming meetings.
 
-29.3.7
+29.3.6
 
 ### High Council Meeting
 
@@ -616,13 +598,13 @@ The stake presidency plans and conducts high council meetings. These meetings ma
 
 * Hearing reports from returning missionaries (see [24.8.3](/study/manual/general-handbook/24?lang=eng&id=title_number57-p222#title_number57)).
 
-Sometimes a brief high council meeting could be immediately followed by a stake council meeting (see [29.3.8](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number23-p150#title_number23)). This can help reduce the number of meetings for leaders to attend.
+Sometimes a brief high council meeting could be immediately followed by a stake council meeting (see [29.3.7](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number23-p150#title_number23)). This can help reduce the number of meetings for leaders to attend.
 
 To understand principles that guide council meetings in the Church, all council members should study [4.3](/study/manual/general-handbook/4-leadership-in-the-church-of-jesus-christ?lang=eng&id=title_number13-p50#title_number13) and [4.4](/study/manual/general-handbook/4-leadership-in-the-church-of-jesus-christ?lang=eng&id=title_number14-p71#title_number14).
 
 For information about participants joining the meeting remotely, see [29.7](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number57-p229#title_number57).
 
-29.3.8
+29.3.7
 
 ### Stake Council Meeting
 
@@ -664,13 +646,13 @@ The stake president plans and conducts stake council meetings. In these meetings
 
 * Report on stake organizations, activities, and programs.
 
-Sometimes a stake council meeting could immediately follow a brief high council meeting (see [29.3.7](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number22-p139#title_number22)). This can help reduce the number of meetings for leaders to attend.
+Sometimes a stake council meeting could immediately follow a brief high council meeting (see [29.3.6](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number22-p139#title_number22)). This can help reduce the number of meetings for leaders to attend.
 
 To understand principles that guide council meetings in the Church, all council members should study [4.3](/study/manual/general-handbook/4-leadership-in-the-church-of-jesus-christ?lang=eng&id=title_number13-p50#title_number13) and [4.4](/study/manual/general-handbook/4-leadership-in-the-church-of-jesus-christ?lang=eng&id=title_number14-p71#title_number14).
 
 For information about participants joining the meeting remotely, see [29.7](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number57-p229#title_number57).
 
-29.3.9
+29.3.8
 
 ### [Imageicon, guidelines for adaptation](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Stake Adult Leadership Committee Meeting
 
@@ -700,7 +682,7 @@ The stake presidency plans and conducts meetings of the stake adult leadership c
 
 ![]()  Imageyouth council meeting
 
-29.3.10
+29.3.9
 
 ### [Imageicon, guidelines for adaptation](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Stake Youth Leadership Committee Meeting
 
@@ -740,7 +722,7 @@ The stake youth leadership committee has the following additional responsibiliti
 
 A member of the stake presidency oversees meetings of the stake youth leadership committee. He may conduct, or he may assign someone else to do so, including youth. These meetings could be extensions of stake council meetings. For example, at the end of some stake council meetings, the youth leadership committee could meet to continue a discussion about specific matters.
 
-29.3.11
+29.3.10
 
 ### Stake Bishops’ Council Meeting
 
@@ -774,7 +756,7 @@ To understand principles that guide council meetings in the Church, all council 
 
 ![]()  Imagebishopric meeting
 
-29.3.12
+29.3.11
 
 ### Other Stake Meetings
 
@@ -782,9 +764,9 @@ Meetings of the stake single adult committee and stake young single adult commit
 
 29.4
 
-Coordinating Council Meeting
+Coordinating Council Meetings
 
-----------------------------
+-----------------------------
 
 Purpose
 
@@ -806,7 +788,7 @@ In these meetings, participants:
 
 * Seek revelation about how best to implement the teachings and direction of the First Presidency, Quorum of the Twelve Apostles, and Area Presidency.
 
-* Coordinate God’s work of salvation and exaltation.
+* Coordinate God’s work of salvation and exaltation within their council.
 
 * Counsel together about the temporal and spiritual welfare of members and how to help them become true followers of Jesus Christ.
 
@@ -868,7 +850,7 @@ After the viewing, a family prayer may be offered if the family desires. The cas
 
 ### Funeral Services (Where Customary)
 
-If a funeral for a member is held in a Church building, the bishop conducts it. If it is held in a home, at a mortuary, or at the graveside, the family may ask the bishop to conduct it. A bishop’s counselor may conduct if the bishop cannot. For information about services held in a Church building for a person who is not a member of the Church, see [29.5.6](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number38-p205#title_number38).
+If a funeral for a member is held in a Church building, the bishop conducts it. If it is held in a home, at a mortuary, or at the graveside, the family may ask the bishop to conduct it. A bishop’s counselor may conduct if the bishop cannot. For information about services held in a Church building for a person who is not a member of the Church, see [29.5.6](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number38-p205#title_number38).
 
 A funeral conducted by the bishop, whether in a Church building or elsewhere, is a Church meeting and a religious service. It should be a spiritual occasion. The bishop urges participants to maintain a spirit of reverence and dignity.
 
@@ -886,7 +868,7 @@ Funeral services are not normally held on Sunday.
 
 In some cases, the bishop can arrange with morticians to provide modest, respectable funeral and burial services at cost if expenses are paid from fast-offering funds.
 
-For information about missionaries returning home to attend a funeral, see [24.6.2.7](/study/manual/general-handbook/24?lang=eng&id=title_number40-p185#title_number40). For guidelines about streaming funerals, see [29.7](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number57-p229#title_number57).
+For information about missionaries returning home to attend a funeral, see [24.6.2.7](/study/manual/general-handbook/24?lang=eng&id=title_number40-p185#title_number40). For guidelines about streaming and recording funerals, see [29.7](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number57-p229#title_number57).
 
 29.5.5
 
@@ -912,7 +894,7 @@ Prayers in Church Meetings
 
 Prayers in Church meetings should be brief, simple, and directed by the Spirit. Any baptized Church member may offer an opening or closing prayer. Children who are not baptized may pray in Primary. Leaders should avoid always asking a husband and wife to pray in the same meeting.
 
-Members should pray using words that express love and respect for Heavenly Father. In English, this includes using the pronouns *Thee, Thy, Thine,* and *Thou* when addressing Him.
+Members should pray using words that express love and respect for Heavenly Father. In English, this includes using the pronouns *Thee*, *Thy*, *Thine*, and *Thou* when addressing Him.
 
 29.7
 
@@ -962,7 +944,7 @@ Ward and stake technology specialists can help leaders set up streams and virtua
 
 Streams and virtual meetings should not distract from the Spirit. Generally, only one device should be used to capture the meeting. Both the device and the person using it should be inconspicuous.
 
-Stream recordings of ward and stake meetings should be deleted within one day after the meeting.
+Stream recordings of ward and stake meetings should be deleted within one day after the meeting. However, members may save a recording of the video stream of a funeral service or wedding for personal use.
 
 29.8
 
@@ -973,3 +955,13 @@ Photographs and Video Recordings of Meetings
 To preserve the sacredness of Church meetings, no one should take photographs or make video recordings of sacrament meetings or stake conferences.
 
 For information about stream recordings of meetings, see [29.7](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number57-p229#title_number57).
+
+29.9
+
+Interpreting for Meetings
+
+-------------------------
+
+The Lord wants everyone to understand the gospel in his or her own language (see [Doctrine and Covenants 90:11](/study/scriptures/dc-testament/dc/90?lang=eng&id=p11#p11)). In stakes where members speak more than one native language, a member of the stake presidency may call a stake interpretation coordinator. A bishop may call ward interpreters.
+
+For more information, see [Church Interpretation Training and Best Practices](https://www.churchofjesuschrist.org/callings/church-interpretation-training-and-best-practices) at ChurchofJesusChrist.org.
