@@ -1,4 +1,4 @@
-“26. Temple Recommends,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2020).
+“26. Temple Recommends,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
 
 “26. Temple Recommends,” General Handbook.
 
@@ -174,25 +174,27 @@ For new members seeking a recommend to perform proxy baptisms and confirmations:
 
 11. Do you understand and obey the Word of Wisdom?
 
-12. Do you have any financial or other obligations to a former spouse or to children?
+12. *(This question is omitted when interviewing a child or youth.)* Do you have any financial or other obligations to a former spouse or to children?
 
 If yes, are you current in meeting those obligations?
 
-13. Do you keep the covenants that you made in the temple, including wearing the temple garment as instructed in the endowment? (Read the “[Wearing the Temple Garment](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number31-p114#title_number31)” statement below to each member.)
+13. *(This question is omitted when interviewing a member who is not endowed.)* Do you keep the covenants that you made in the temple?
 
-14. Are there serious sins in your life that need to be resolved with priesthood authorities as part of your repentance?
+14. *(This question is omitted when interviewing a member who is not endowed.)* Do you honor your sacred privilege to wear the garment as instructed in the initiatory ordinances? (Read the “[Wearing the Temple Garment](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number31-p114#title_number31)” statement, included below, to each member.)
 
-15. Do you consider yourself worthy to enter the Lord’s house and participate in temple ordinances?
+15. Are there serious sins in your life that need to be resolved with priesthood authorities as part of your repentance?
+
+16. Do you consider yourself worthy to enter the Lord’s house and participate in temple ordinances?
 
 26.3.3.2
 
 #### Wearing the Temple Garment
 
-The temple garment is a reminder of covenants made in the temple and, when worn properly throughout life, will serve as a protection against temptation and evil. The garment should be worn beneath the outer clothing. It should not be removed for activities that can reasonably be done while wearing the garment, and it should not be modified to accommodate different styles of clothing. Endowed members should seek the guidance of the Holy Spirit to answer personal questions about wearing the garment.
+The First Presidency has provided the following guidance on wearing the garment:
 
-It is a sacred privilege to wear the garment and doing so is an outward expression of an inner commitment to follow the Savior Jesus Christ.
+“The garment of the holy priesthood reminds us of the veil in the temple, and that veil is symbolic of Jesus Christ. When you put on your garment, you put on a sacred symbol of Jesus Christ. Wearing it is an outward expression of your inner commitment to follow Him. The garment is also a reminder of your temple covenants. You should wear the garment day and night throughout your life. When it must be removed for activities that cannot reasonably be done while wearing the garment, seek to restore it as soon as possible. As you keep your covenants, including the sacred privilege to wear the garment as instructed in the initiatory ordinances, you will have greater access to the Savior’s mercy, protection, strength, and power.”
 
-If members have questions about wearing the garment, refer them to [38.5.5](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number234-p2450#title_number234).
+If members have questions about wearing the garment, refer them to [38.5](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number229-p2466#title_number229).
 
 26.3.3.3
 
