@@ -1,4 +1,4 @@
-“32. Repentance and Church Membership Councils,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2020).
+“32. Repentance and Church Membership Councils,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
 
 “32. Repentance and Church Membership Councils,” General Handbook.
 
@@ -942,7 +942,7 @@ Uplifting Activities to Help with Repenting and Building Spiritual Fortification
 
 * Encourage turning away from bad influences. Help members take preventive action to resist specific temptations.
 
-* Recognize that you are an ecclesiastical leader, not a professional counselor. In addition to the counseling you provide, some members would benefit from behavioral counseling. Some suffer from mental illness. As needed, counsel members to seek help from qualified medical and mental health professionals (see [31.3.6](/study/manual/general-handbook/31?lang=eng&id=title_number32-p254#title_number32)).
+* Recognize that you are an ecclesiastical leader, not a professional counselor. In addition to the counseling you provide, some members would benefit from behavioral counseling. Some suffer from mental illness. As needed, counsel members to seek help from qualified medical and mental health professionals (see [31.3.6](/study/manual/general-handbook/31?lang=eng&id=title_number32-p254#title_number32)).
 
 * Be prayerful and seek guidance from the Spirit before giving informal membership restrictions. Some members may benefit from exercising the privileges of Church membership more actively rather than having them restricted.
 
@@ -960,7 +960,9 @@ When assigning someone to assist with follow-up counseling, the leader gives onl
 
 ### Helping People Address Addictions and Pornography Use
 
-Personal counseling sometimes involves helping members repent of sins related to or caused by addictions. These addictions may include substances or a wide range of behaviors. Addictions harm individuals, marriages, and families. Bishops may counsel members to seek help from Church addiction recovery programs and from qualified medical and mental health professionals.
+Personal counseling sometimes involves helping members repent of sins related to or caused by addictions. These addictions may include substances or a wide range of behaviors. Addictions harm individuals, marriages, and families.
+
+Bishops may counsel members to seek help from the Church’s [Healing through the Savior: The Addiction Recovery Program](/study/manual/addiction-recovery-program-2023?lang=eng) and from qualified medical and mental health professionals. Only the Church’s official program should be sponsored or hosted in Church buildings.
 
 Pornography use is becoming increasingly common. Whether pornography use is intensive or occasional, it is harmful. It drives away the Spirit. It weakens the ability to draw on power that comes from keeping covenants. It also harms precious relationships.
 
@@ -1698,7 +1700,7 @@ The stake president submits an application to the First Presidency only if he re
 
 	4. Involvement with child pornography when there is a legal conviction
 
-	5. Apostasy
+	5. Apostasy (see [32.6.3.2](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number32-p137#title_number32) for what constitutes apostasy)
 
 	6. Plural marriage
 
