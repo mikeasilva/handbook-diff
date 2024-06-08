@@ -1,4 +1,4 @@
-“36. Creating, Changing, and Naming New Units,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2020).
+“36. Creating, Changing, and Naming New Units,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
 
 “36. Creating, Changing, and Naming New Units,” General Handbook.
 
@@ -34,39 +34,21 @@ Stakes are created from districts or by dividing existing stakes. A stake or mis
 
 Minimum Requirements to Create a Stake
 
-|  | U.S. and Canada | All other countries |
+|  |  |
 
-| --- | --- | --- |
+| --- | --- |
 
-| Number of members (active and less active) | 
+| Number of members (active and less active) | 2,000 |
 
-U.S. and Canada
+| Number of active, full-tithe-paying Melchizedek Priesthood holders capable of serving in leadership positions | 150 |
 
-3,000 | 
+| Number of participating adults | 500 |
 
-All other countries
+| Number of participating youth (recommended, not required) | 100 |
 
-1,900 |
+| Number of wards | 5 |
 
-| Number of active, full-tithe-paying Melchizedek Priesthood holders capable of serving in leadership positions | 
-
-U.S. and Canada
-
-180 | 
-
-All other countries
-
-120 |
-
-| Number of wards | 
-
-U.S. and Canada
-
-5 | 
-
-All other countries
-
-5 |
+* For more information, see “[Boundary and Leadership Proposals](https://lcr.churchofjesuschrist.org/boundary-proposals).”
 
 Districts are created from branches in a mission or an existing stake. There is not a minimum number of members or branches needed to create a district.
 
@@ -84,43 +66,55 @@ Creating or Changing Wards and Branches in Stakes
 
 -------------------------------------------------
 
-Wards and branches in stakes are created from existing units. A stake president may propose creating a new ward or branch in the stake. He first ensures that the new unit will meet the minimum requirements shown in the following tables.
+Wards and branches in stakes are created from existing units. A stake president may propose creating a new ward or branch in the stake. He first ensures that the new unit will meet the minimum requirements shown in the following table.
 
-Minimum Requirements to Create a Ward
+Minimum Requirements to Create a Ward or Branch in a Stake
 
-|  | U.S. and Canada | All other countries |
+|  | Ward | Branch |
 
 | --- | --- | --- |
 
 | Number of members (active and less active) | 
 
-U.S. and Canada
+Ward
 
-300 | 
+250 | 
 
-All other countries
+Branch
 
-150 |
+20 |
 
 | Number of active, full-tithe-paying Melchizedek Priesthood holders capable of serving in leadership positions | 
 
-U.S. and Canada
+Ward
 
-1 for every 20 members (active and less active). There must be a minimum of 20. | 
+20 | 
 
-All other countries
+Branch
 
-1 for every 20 members (active and less active). There must be a minimum of 15. |
+4 |
 
-Minimum Requirements to Create a Branch in a Stake
+| Number of participating adults | 
 
-|  |  |
+Ward
 
-| --- | --- |
+100 | 
 
-| Number of members (active and less active) | 20 |
+Branch
 
-| Number of active, full-tithe-paying Melchizedek Priesthood holders capable of serving in leadership positions | 4 |
+No minimum |
+
+| Number of participating youth (recommended, not required) | 
+
+Ward
+
+20 | 
+
+Branch
+
+No minimum |
+
+* For more information, see “[Boundary and Leadership Proposals](https://lcr.churchofjesuschrist.org/boundary-proposals).”
 
 A stake president may propose changing a branch into a ward when the unit meets the minimum requirements and he has identified a candidate who could serve as bishop.
 
