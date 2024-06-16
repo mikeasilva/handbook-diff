@@ -1,4 +1,4 @@
-“37. Specialized Stakes, Wards, and Branches,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2020).
+“37. Specialized Stakes, Wards, and Branches,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
 
 “37. Specialized Stakes, Wards, and Branches,” General Handbook.
 
@@ -52,7 +52,7 @@ No minimum |
 
 Ward
 
-1 for every 20 members (active and less active). There must be a minimum of 15. | 
+15 | 
 
 Branch
 
@@ -124,7 +124,7 @@ Branch
 
 Ward
 
-1 for every 20 members (active and less active). There must be a minimum of 15. | 
+15 | 
 
 Branch
 
@@ -178,19 +178,19 @@ Minimum Requirements to Create a Young Single Adult Stake, Ward, or Branch
 
 | Young single adult stake | * 1,500 members (active and less active)
 
-* 5 wards
+* 5 wards
 
  |
 
-| Young single adult ward in a young single adult stake | * 125 members (active)
+| Young single adult ward in a young single adult stake | * 125 members (active)
 
-* 1 active, full-tithe-paying Melchizedek Priesthood holder who is capable of serving in a leadership position for every 20 members (active and less active). There must be a minimum of 15.
+* 15 active, full-tithe-paying Melchizedek Priesthood holders who are capable of serving in leadership positions
 
  |
 
-| Young single adult branch in a young single adult stake | * 50 members (active)
+| Young single adult branch in a young single adult stake | * 50 members (active)
 
-* 4 active, full-tithe-paying Melchizedek Priesthood holders who are capable of serving in leadership positions
+* 4 active, full-tithe-paying Melchizedek Priesthood holders who are capable of serving in leadership positions
 
  |
 
@@ -250,13 +250,13 @@ Minimum Requirements to Create a Married Student Stake or Ward
 
 | Married student stake | * 1,500 members (active and less active)
 
-* 5 wards
+* 5 wards
 
  |
 
-| Married student ward | * 125 members (active and less active)
+| Married student ward | * 125 members (active and less active)
 
-* 1 active, full-tithe-paying Melchizedek Priesthood holder who is capable of serving in a leadership position for every 20 members (active and less active). There must be a minimum of 15.
+* 15 active, full-tithe-paying Melchizedek Priesthood holders who are capable of serving in leadership positions
 
  |
 
@@ -296,7 +296,7 @@ Minimum Requirements to Create a Single Adult Ward in a Stake
 
 | Number of members (active and less active) | 125 |
 
-| Number of active, full-tithe-paying Melchizedek Priesthood holders capable of serving in leadership positions | 1 for every 20 members (active and less active). There must be a minimum of 15. |
+| Number of active, full-tithe-paying Melchizedek Priesthood holders capable of serving in leadership positions | 15 |
 
 See [36.4.2](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&id=title_number7-p62#title_number7) for ward naming guidelines.
 
