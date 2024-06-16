@@ -242,7 +242,7 @@ A ward or stake does not need to fill every calling listed in this chart. Leader
 
 Ward Callings
 
-| Calling | Recommended by | Approved by | Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure5_note3) | Called and set apart by |
+| Calling | Recommended by | Approved by | Sustained by | Called and set apart by |
 
 | --- | --- | --- | --- | --- |
 
@@ -250,7 +250,7 @@ Ward Callings
 
 Calling
 
-[Bishop](/study/manual/general-handbook/7?lang=eng&id=title_number2-p54#title_number2)[2](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure5_note2) | 
+[Bishop](/study/manual/general-handbook/7?lang=eng&id=title_number2-p54#title_number2) | 
 
 Recommended by
 
@@ -260,7 +260,7 @@ Approved by
 
 First Presidency and Quorum of the Twelve | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure5_note3)
+Sustained by
 
 Ward members | 
 
@@ -272,7 +272,7 @@ Stake president after receiving approval from the First Presidency (see [30.7](/
 
 Calling
 
-[Counselors in the bishopric](/study/manual/general-handbook/7?lang=eng&id=title_number2-p54#title_number2)[2](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure5_note2) | 
+[Counselors in the bishopric](/study/manual/general-handbook/7?lang=eng&id=title_number2-p54#title_number2) | 
 
 Recommended by
 
@@ -282,7 +282,7 @@ Approved by
 
 Stake presidency and high council | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure5_note3)
+Sustained by
 
 Ward members | 
 
@@ -304,7 +304,7 @@ Approved by
 
 Stake presidency and high council | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure5_note3)
+Sustained by
 
 Ward members | 
 
@@ -326,7 +326,7 @@ Approved by
 
 Stake presidency and high council | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure5_note3)
+Sustained by
 
 Ward members | 
 
@@ -348,7 +348,7 @@ Approved by
 
 Stake presidency and high council | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure5_note3)
+Sustained by
 
 Ward members | 
 
@@ -370,7 +370,7 @@ Approved by
 
 Stake presidency and high council | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure5_note3)
+Sustained by
 
 Ward members | 
 
@@ -392,7 +392,7 @@ Approved by
 
 Bishopric | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure5_note3)
+Sustained by
 
 Quorum members (presented in a quorum meeting by the quorum president or an assigned counselor) | 
 
@@ -414,7 +414,7 @@ Approved by
 
 Bishopric | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure5_note3)
+Sustained by
 
 Ward members | 
 
@@ -436,7 +436,7 @@ Approved by
 
 Bishopric | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure5_note3)
+Sustained by
 
 Ward members | 
 
@@ -458,7 +458,7 @@ Approved by
 
 Bishopric | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure5_note3)
+Sustained by
 
 Ward members | 
 
@@ -480,7 +480,7 @@ Approved by
 
 Bishopric | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure5_note3)
+Sustained by
 
 Ward members | 
 
@@ -502,7 +502,7 @@ Approved by
 
 Bishopric | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure5_note3)
+Sustained by
 
 Ward members | 
 
@@ -524,7 +524,7 @@ Approved by
 
 Bishopric | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure5_note3)
+Sustained by
 
 Ward members | 
 
@@ -546,7 +546,7 @@ Approved by
 
 Bishopric | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure5_note3)
+Sustained by
 
 Ward members | 
 
@@ -568,7 +568,7 @@ Approved by
 
 Bishopric | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure5_note3)
+Sustained by
 
 Quorum members (presented in a quorum meeting by the bishop or an assigned counselor) | 
 
@@ -590,7 +590,7 @@ Approved by
 
 Bishopric | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure5_note3)
+Sustained by
 
 Quorum members (presented in a quorum meeting by the bishop or an assigned counselor) | 
 
@@ -612,7 +612,7 @@ Approved by
 
 Bishopric | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure5_note3)
+Sustained by
 
 Quorum members (presented in a quorum meeting by the bishop or an assigned counselor) | 
 
@@ -634,7 +634,7 @@ Approved by
 
 Bishopric | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure5_note3)
+Sustained by
 
 Class members (presented in a Young Women meeting by the bishop or an assigned counselor) | 
 
@@ -656,7 +656,7 @@ Approved by
 
 Bishopric | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure5_note3)
+Sustained by
 
 Class members (presented in a Young Women meeting by the bishop or an assigned counselor) | 
 
@@ -678,7 +678,7 @@ Approved by
 
 Bishopric | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure5_note3)
+Sustained by
 
 Ward members | 
 
@@ -700,7 +700,7 @@ Approved by
 
 Bishopric | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure5_note3)
+Sustained by
 
 Ward members | 
 
@@ -722,7 +722,7 @@ Approved by
 
 Bishopric | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure5_note3)
+Sustained by
 
 Ward members | 
 
@@ -744,7 +744,7 @@ Approved by
 
 Bishopric | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure5_note3)
+Sustained by
 
 Ward members | 
 
@@ -766,7 +766,7 @@ Approved by
 
 Bishopric | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure5_note3)
+Sustained by
 
 Ward members | 
 
@@ -792,7 +792,7 @@ Branch Callings
 
 Calling
 
-[Branch president](/study/manual/general-handbook/7?lang=eng&id=title_number13-p58#title_number13)[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure11_note1) | 
+[Branch president](/study/manual/general-handbook/7?lang=eng&id=title_number13-p58#title_number13) | 
 
 Recommended by
 
@@ -814,7 +814,7 @@ Stake or mission president (or the district president if assigned) |
 
 Calling
 
-[Counselors in the branch presidency](/study/manual/general-handbook/7?lang=eng&id=title_number13-p58#title_number13)[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure11_note1) | 
+[Counselors in the branch presidency](/study/manual/general-handbook/7?lang=eng&id=title_number13-p58#title_number13) | 
 
 Recommended by
 
@@ -926,7 +926,7 @@ See [30.8.1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&i
 
 Stake Callings
 
-| Calling | Recommended by | Approved by | Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure1_note1) | Called and set apart by |
+| Calling | Recommended by | Approved by | Sustained by | Called and set apart by |
 
 | --- | --- | --- | --- | --- |
 
@@ -934,7 +934,7 @@ Stake Callings
 
 Calling
 
-[Stake president](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number3-p152#title_number3)[2](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure1_note2) | 
+[Stake president](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number3-p152#title_number3) | 
 
 Recommended by
 
@@ -944,7 +944,7 @@ Approved by
 
 An assigned General Authority or Area Seventy | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure1_note1)
+Sustained by
 
 Members in stake conference | 
 
@@ -956,7 +956,7 @@ An assigned General Authority or Area Seventy |
 
 Calling
 
-[Counselors in a new stake presidency](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number3-p152#title_number3)[2](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure1_note2) | 
+[Counselors in a new stake presidency](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number3-p152#title_number3) | 
 
 Recommended by
 
@@ -966,7 +966,7 @@ Approved by
 
 An assigned General Authority or Area Seventy | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure1_note1)
+Sustained by
 
 Members in stake conference | 
 
@@ -978,7 +978,7 @@ An assigned General Authority or Area Seventy |
 
 Calling
 
-[New counselor in an existing stake presidency](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number3-p152#title_number3)[2](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure1_note2) | 
+[New counselor in an existing stake presidency](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number3-p152#title_number3) | 
 
 Recommended by
 
@@ -988,7 +988,7 @@ Approved by
 
 First Presidency | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure1_note1)
+Sustained by
 
 Members in stake conference | 
 
@@ -1010,7 +1010,7 @@ Approved by
 
 Stake presidency and high council | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure1_note1)
+Sustained by
 
 Members in stake conference | 
 
@@ -1032,7 +1032,7 @@ Approved by
 
 Stake presidency and high council | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure1_note1)
+Sustained by
 
 Members in stake conference | 
 
@@ -1054,7 +1054,7 @@ Approved by
 
 Stake presidency and high council | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure1_note1)
+Sustained by
 
 Members in stake conference | 
 
@@ -1076,7 +1076,7 @@ Approved by
 
 Quorum of the Twelve | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure1_note1)
+Sustained by
 
 Members in stake conference | 
 
@@ -1098,7 +1098,7 @@ Approved by
 
 Stake presidency and high council | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure1_note1)
+Sustained by
 
 Members in stake conference | 
 
@@ -1120,7 +1120,7 @@ Approved by
 
 Stake presidency and high council | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure1_note1)
+Sustained by
 
 Members in stake conference | 
 
@@ -1142,7 +1142,7 @@ Approved by
 
 Stake presidency and high council | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure1_note1)
+Sustained by
 
 Members in stake conference (they should be sustained both as high councilors and as presidents of these organizations) | 
 
@@ -1164,7 +1164,7 @@ Approved by
 
 Stake presidency and high council | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure1_note1)
+Sustained by
 
 Members in stake conference | 
 
@@ -1186,7 +1186,7 @@ Approved by
 
 Stake presidency and high council | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure1_note1)
+Sustained by
 
 Not sustained | 
 
@@ -1208,7 +1208,7 @@ Approved by
 
 Stake presidency and high council | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure1_note1)
+Sustained by
 
 Members in stake conference | 
 
@@ -1230,7 +1230,7 @@ Approved by
 
 Stake presidency and high council | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure1_note1)
+Sustained by
 
 Members in stake conference | 
 
@@ -1252,7 +1252,7 @@ Approved by
 
 Stake presidency and high council | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure1_note1)
+Sustained by
 
 Members in stake conference | 
 
@@ -1274,7 +1274,7 @@ Approved by
 
 Stake presidency and high council | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure1_note1)
+Sustained by
 
 Members in stake conference | 
 
@@ -1286,7 +1286,7 @@ Stake president or an assigned counselor or high councilor |
 
 Calling
 
-Other stake callings[3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure1_note3) | 
+Other stake callings | 
 
 Recommended by
 
@@ -1296,7 +1296,7 @@ Approved by
 
 Stake presidency and high council | 
 
-Sustained by[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure1_note1)
+Sustained by
 
 Members in stake conference | 
 
@@ -1326,7 +1326,7 @@ District Callings
 
 Calling
 
-[District president](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number15-p164#title_number15)[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure8_note1) | 
+[District president](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number15-p164#title_number15) | 
 
 Recommended by
 
@@ -1348,7 +1348,7 @@ Mission president |
 
 Calling
 
-[Counselors in the district presidency](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number15-p164#title_number15)[1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure8_note1) | 
+[Counselors in the district presidency](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number15-p164#title_number15) | 
 
 Recommended by
 
@@ -1378,7 +1378,7 @@ District president |
 
 Approved by
 
-Mission presidency (or, when authorized by the mission president, the district presidency)[2](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure8_note2) | 
+Mission presidency (or, when authorized by the mission president, the district presidency) | 
 
 Sustained by
 
@@ -1386,7 +1386,7 @@ Members in district conference |
 
 Called and set apart by
 
-Mission president or an assigned counselor (or, when authorized by the mission president, the district president or an assigned counselor)[2](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#figure8_note2) |
+Mission president or an assigned counselor (or, when authorized by the mission president, the district president or an assigned counselor) |
 
 | 
 
