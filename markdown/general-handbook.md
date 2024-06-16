@@ -1272,25 +1272,37 @@ Church Organization
 
 		---](/study/manual/general-handbook/12-primary?lang=eng#title_number4)
 
-		- [#### 12.1.3. Classes
-
-		Primary is a home-centered, Church-supported organization for children ages 18 months to 11 years.
-
-		---](/study/manual/general-handbook/12-primary?lang=eng#title_number5)
-
-		- [#### 12.1.4. Singing Time
-
-		Primary is a home-centered, Church-supported organization for children ages 18 months to 11 years.
-
-		---](/study/manual/general-handbook/12-primary?lang=eng#title_number31)
-
-		- [#### 12.1.5. Nursery
+		- [#### 12.1.3. Nursery
 
 		Primary is a home-centered, Church-supported organization for children ages 18 months to 11 years.
 
 		---](/study/manual/general-handbook/12-primary?lang=eng#title_number32)
 
-	+ 12.2. Participating in God’ Work of Salvation and Exaltation
+		- [#### 12.1.4. Classes
+
+		Primary is a home-centered, Church-supported organization for children ages 18 months to 11 years.
+
+		---](/study/manual/general-handbook/12-primary?lang=eng#title_number5)
+
+		- [#### 12.1.5. Singing Time
+
+		Primary is a home-centered, Church-supported organization for children ages 18 months to 11 years.
+
+		---](/study/manual/general-handbook/12-primary?lang=eng#title_number31)
+
+		- [#### 12.1.6. Children’s Sacrament Meeting Presentation
+
+		Primary is a home-centered, Church-supported organization for children ages 18 months to 11 years.
+
+		---](/study/manual/general-handbook/12-primary?lang=eng#title_number33)
+
+		- [#### 12.1.7. Temple and Priesthood Preparation Meeting
+
+		Primary is a home-centered, Church-supported organization for children ages 18 months to 11 years.
+
+		---](/study/manual/general-handbook/12-primary?lang=eng#title_number34)
+
+	+ 12.2. Participating in God’s Work of Salvation and Exaltation
 
 		- [#### 12.2. Participating in God’s Work of Salvation and Exaltation
 
@@ -1628,31 +1640,25 @@ Church Organization
 
 		---](/study/manual/general-handbook/15-seminaries-and-institutes?lang=eng#title_number3)
 
-		- [#### 15.1.2. Seminary Options
-
-		Seminaries and Institutes of Religion (S&I) assists parents and Church leaders in helping youth and young adults increase their faith in Jesus Christ and His restored gospel.
-
-		---](/study/manual/general-handbook/15-seminaries-and-institutes?lang=eng#title_number4)
-
-		- [#### 15.1.3. Buildings, Equipment, and Materials
+		- [#### 15.1.2. Buildings, Equipment, and Materials
 
 		Seminaries and Institutes of Religion (S&I) assists parents and Church leaders in helping youth and young adults increase their faith in Jesus Christ and His restored gospel.
 
 		---](/study/manual/general-handbook/15-seminaries-and-institutes?lang=eng#title_number5)
 
-		- [#### 15.1.4. Class Officers and Activities
+		- [#### 15.1.3. Class Officers and Activities
 
 		Seminaries and Institutes of Religion (S&I) assists parents and Church leaders in helping youth and young adults increase their faith in Jesus Christ and His restored gospel.
 
 		---](/study/manual/general-handbook/15-seminaries-and-institutes?lang=eng#p41)
 
-		- [#### 15.1.5. Credit and Graduation
+		- [#### 15.1.4. Credit and Graduation
 
 		Seminaries and Institutes of Religion (S&I) assists parents and Church leaders in helping youth and young adults increase their faith in Jesus Christ and His restored gospel.
 
 		---](/study/manual/general-handbook/15-seminaries-and-institutes?lang=eng#title_number6)
 
-		- [#### 15.1.6. Released-Time Seminary
+		- [#### 15.1.5. Released-Time Seminary
 
 		Seminaries and Institutes of Religion (S&I) assists parents and Church leaders in helping youth and young adults increase their faith in Jesus Christ and His restored gospel.
 
@@ -1745,6 +1751,12 @@ God’s Work of Salvation and Exaltation
 		Effective gospel teaching helps people grow in their testimonies and their faith in Heavenly Father and Jesus Christ.
 
 		---](/study/manual/general-handbook/17-teaching-the-gospel?lang=eng#title_number41)
+
+		- [#### 17.5 Teacher Council Meetings for Parents
+
+		Effective gospel teaching helps people grow in their testimonies and their faith in Heavenly Father and Jesus Christ.
+
+		---](/study/manual/general-handbook/17-teaching-the-gospel?lang=eng#title_number46)
 
 	+ 18. Performing Priesthood Ordinances and Blessings
 
@@ -2906,87 +2918,87 @@ God’s Work of Salvation and Exaltation
 
 		---](/study/manual/general-handbook/23?lang=eng#title_number8)
 
-		- 23.4. Stake Leaders
+		- [#### 23.4. Hold Weekly Coordination Meetings
 
-			* [#### 23.4. Stake Leaders
+		Inviting all to receive the gospel is part of God’s work of salvation and exaltation.
+
+		---](/study/manual/general-handbook/23?lang=eng#title_number22)
+
+		- 23.5. Stake Leaders
+
+			* [#### 23.5. Stake Leaders
 
 			Inviting all to receive the gospel is part of God’s work of salvation and exaltation.
 
 			---](/study/manual/general-handbook/23?lang=eng#title_number9)
 
-			* [#### 23.4.1. Stake Presidency
+			* [#### 23.5.1. Stake Presidency
 
 			Inviting all to receive the gospel is part of God’s work of salvation and exaltation.
 
 			---](/study/manual/general-handbook/23?lang=eng#title_number10)
 
-			* [#### 23.4.2. Stake Adult Leadership Committee
+			* [#### 23.5.2. Stake Adult Leadership Committee
 
 			Inviting all to receive the gospel is part of God’s work of salvation and exaltation.
 
 			---](/study/manual/general-handbook/23?lang=eng#title_number11)
 
-			* [#### 23.4.3. High Councilors
+			* [#### 23.5.3. High Councilors
 
 			Inviting all to receive the gospel is part of God’s work of salvation and exaltation.
 
 			---](/study/manual/general-handbook/23?lang=eng#title_number12)
 
-			* [#### 23.4.4. Stake Relief Society Presidency
+			* [#### 23.5.4. Stake Relief Society Presidency
 
 			Inviting all to receive the gospel is part of God’s work of salvation and exaltation.
 
 			---](/study/manual/general-handbook/23?lang=eng#title_number13)
 
-		- 23.5. Ward Leaders
+		- 23.6. Ward Leaders
 
-			* [#### 23.5. Ward Leaders
+			* [#### 23.6. Ward Leaders
 
 			Inviting all to receive the gospel is part of God’s work of salvation and exaltation.
 
 			---](/study/manual/general-handbook/23?lang=eng#title_number14)
 
-			* [#### 23.5.1. Bishopric
+			* [#### 23.6.1. Bishopric
 
 			Inviting all to receive the gospel is part of God’s work of salvation and exaltation.
 
 			---](/study/manual/general-handbook/23?lang=eng#title_number15)
 
-			* [#### 23.5.2. Elders Quorum and Relief Society Presidencies
+			* [#### 23.6.2. Elders Quorum and Relief Society Presidencies
 
 			Inviting all to receive the gospel is part of God’s work of salvation and exaltation.
 
 			---](/study/manual/general-handbook/23?lang=eng#title_number16)
 
-			* [#### 23.5.3. Ward Mission Leader
+			* [#### 23.6.3. Ward Mission Leader
 
 			Inviting all to receive the gospel is part of God’s work of salvation and exaltation.
 
 			---](/study/manual/general-handbook/23?lang=eng#title_number17)
 
-			* [#### 23.5.4. Ward Missionaries
+			* [#### 23.6.4. Ward Missionaries
 
 			Inviting all to receive the gospel is part of God’s work of salvation and exaltation.
 
 			---](/study/manual/general-handbook/23?lang=eng#title_number18)
 
-			* [#### 23.5.5. Ward Council and Ward Youth Council
+			* [#### 23.6.5. Ward Council and Ward Youth Council
 
 			Inviting all to receive the gospel is part of God’s work of salvation and exaltation.
 
 			---](/study/manual/general-handbook/23?lang=eng#title_number19)
 
-			* [#### 23.5.6. Ward Plan for Sharing the Gospel and Strengthening New and Returning Members
+			* [#### 23.6.6. Ward Plan for Sharing the Gospel and Strengthening New and Returning Members
 
 			Inviting all to receive the gospel is part of God’s work of salvation and exaltation.
 
 			---](/study/manual/general-handbook/23?lang=eng#title_number20)
-
-			* [#### 23.5.7. Coordination Meetings
-
-			Inviting all to receive the gospel is part of God’s work of salvation and exaltation.
-
-			---](/study/manual/general-handbook/23?lang=eng#title_number21)
 
 	+ 24. Missionary Recommendations and Service
 
@@ -3234,7 +3246,7 @@ God’s Work of Salvation and Exaltation
 
 			---](/study/manual/general-handbook/24?lang=eng#title_number61)
 
-			* [#### 24.9.3. Contact Information for the Missionary Department
+			* [#### 24.9.3. Contact Information
 
 			To serve the Lord as a missionary is a sacred privilege. It brings eternal blessings to the person and those he or she serves.
 
@@ -3926,49 +3938,43 @@ Church Administration
 
 		---](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng#title_number19)
 
-		- [#### 29.3.5. Stake High Priests Quorum Meeting
-
-		Latter-day Saints meet together to worship, edify each other, and teach and learn the gospel.
-
-		---](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng#title_number20)
-
-		- [#### 29.3.6. Stake Presidency Meeting
+		- [#### 29.3.5. Stake Presidency Meeting
 
 		Latter-day Saints meet together to worship, edify each other, and teach and learn the gospel.
 
 		---](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng#title_number21)
 
-		- [#### 29.3.7. High Council Meeting
+		- [#### 29.3.6. High Council Meeting
 
 		Latter-day Saints meet together to worship, edify each other, and teach and learn the gospel.
 
 		---](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng#title_number22)
 
-		- [#### 29.3.8. Stake Council Meeting
+		- [#### 29.3.7. Stake Council Meeting
 
 		Latter-day Saints meet together to worship, edify each other, and teach and learn the gospel.
 
 		---](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng#title_number23)
 
-		- [#### 29.3.9. Stake Adult Leadership Committee Meeting
+		- [#### 29.3.8. Stake Adult Leadership Committee Meeting
 
 		Latter-day Saints meet together to worship, edify each other, and teach and learn the gospel.
 
 		---](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng#title_number58)
 
-		- [#### 29.3.10. Stake Youth Leadership Committee Meeting
+		- [#### 29.3.9. Stake Youth Leadership Committee Meeting
 
 		Latter-day Saints meet together to worship, edify each other, and teach and learn the gospel.
 
 		---](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng#title_number24)
 
-		- [#### 29.3.11. Stake Bishops’ Council Meeting
+		- [#### 29.3.10. Stake Bishops’ Council Meeting
 
 		Latter-day Saints meet together to worship, edify each other, and teach and learn the gospel.
 
 		---](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng#title_number26)
 
-		- [#### 29.3.12. Other Stake Meetings
+		- [#### 29.3.11. Other Stake Meetings
 
 		Latter-day Saints meet together to worship, edify each other, and teach and learn the gospel.
 
@@ -4041,6 +4047,12 @@ Church Administration
 	Latter-day Saints meet together to worship, edify each other, and teach and learn the gospel.
 
 	---](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng#title_number70)
+
+	+ [#### 29.9. Interpreting for Meetings
+
+	Latter-day Saints meet together to worship, edify each other, and teach and learn the gospel.
+
+	---](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng#title_number79)
 
 * 30. Callings in the Church
 
@@ -5782,13 +5794,13 @@ Church Administration
 
 		---](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng#title_number232)
 
-		- [#### 38.5.4. Making Temple Aprons
+		- [#### 38.5.4. Making Temple Clothing
 
 		This chapter covers a variety of issues and Church policies.
 
 		---](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng#title_number233)
 
-		- [#### 38.5.5. Wearing and Caring for the Garment
+		- [#### 38.5.5. Wearing the Garment
 
 		This chapter covers a variety of issues and Church policies.
 
@@ -6342,7 +6354,7 @@ Church Administration
 
 		---](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng#title_number207)
 
-		- [#### 38.9.3. Pre–Military Service Church Orientation
+		- [#### 38.9.3. Military Service Orientation
 
 		This chapter covers a variety of issues and Church policies.
 
