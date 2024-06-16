@@ -492,7 +492,7 @@ The music leader and pianist teach children the gospel of Jesus Christ through m
 
 * [Come, Follow Me](/study/come-follow-me?lang=eng)
 
-* Instructions for Singing Time and the Children’s Sacrament Meeting Program
+* [Instructions for Singing Time and the Children’s Sacrament Meeting Program](/study/manual/instructions-for-singing-time-and-the-childrens-sacrament-meeting-presentation/instructions-for-singing-time?lang=eng)
 
 * [Children’s Songbook](/study/manual/childrens-songbook?lang=eng)
 
@@ -500,7 +500,7 @@ The music leader and pianist teach children the gospel of Jesus Christ through m
 
 * [Primary Music Collections](http://www.churchofjesuschrist.org/callings/primary-organization/gospel-learning/singing-time/music) on ChurchofJesusChrist.org
 
-* “[Primary Singing Time—Music Can Teach Doctrine](http://www.churchofjesuschrist.org/media-library/video/2018-06-1100-primary-singing-time-music-can-teach-doctrine)” (MediaLibrary.ChurchofJesusChrist.org)
+* “[Primary Singing Time—Music Can Teach Doctrine](https://www.churchofjesuschrist.org/media/video/2018-06-1100-primary-singing-time-music-can-teach-doctrine)” (MediaLibrary.ChurchofJesusChrist.org)
 
 The bishopric must approve the use of any other music in Primary.
 

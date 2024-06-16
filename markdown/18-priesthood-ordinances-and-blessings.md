@@ -310,7 +310,7 @@ A person or family who desires that a child receive a name and a blessing coordi
 
 A bishop may allow a father who holds the Melchizedek Priesthood to name and bless his child even if the father is not fully temple worthy (see [18.3](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number5-figure2#title_number5)). Bishops encourage fathers to prepare themselves to bless their own children.
 
-To act as voice in blessing a child, a person who is outside his own ward must show a current temple recommend to the presiding leader. Or he may show a [Recommend to Perform an Ordinance](https://lcr.churchofjesuschrist.org/ordinance/ordinance-recommend) signed by a member of his bishopric.
+To act as voice in blessing a child, a person who is outside his own ward must show a current temple recommend to the presiding leader. Or he may show a [Recommend to Perform an Ordinance](https://lcr.churchofjesuschrist.org/report/forms/recommend-to-perform-an-ordinance) signed by a member of his bishopric.
 
 18.6.2
 

@@ -248,7 +248,7 @@ The Church provides “[Counseling Resources](/study/manual/counseling-resources
 
 * [Healing through the Savior: The Addiction Recovery Program](/study/manual/addiction-recovery-program-2023?lang=eng)
 
-* [Spouse and family support groups](https://addictionrecovery.churchofjesuschrist.org/&groupTypes=support)
+* [Spouse and family support groups](http://addictionrecovery.churchofjesuschrist.org/spouses-and-families)
 
 * [Courses for strengthening marriages and families](http://www.churchofjesuschrist.org/topics/family/strengthening-marriages-and-families)
 

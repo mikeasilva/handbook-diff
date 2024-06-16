@@ -140,7 +140,7 @@ Teacher council meetings are held quarterly during the 50-minute class time on S
 
 The ward council oversees and schedules teacher council meetings. The Sunday School president usually leads the meetings. However, the bishopric may ask another member to lead them.
 
-For more information, see “[For Leaders—Helping Teachers Succeed](/study/manual/teaching-in-the-saviors-way-2022/12-part-3/16-helping-teachers-succeed?lang=eng)” in  Teaching in the Savior’s Way (pages 38–40).
+For more information, see “[For Leaders—Helping Teachers Succeed](/study/manual/teaching-in-the-saviors-way-2022/12-part-3/16-helping-teachers-succeed?lang=eng)” in Teaching in the Savior’s Way (pages 38–40).
 
 13.5
 

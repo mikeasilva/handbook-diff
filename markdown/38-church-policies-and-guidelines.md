@@ -1510,7 +1510,7 @@ The Church condemns pornography in any form. Pornography use of any kind damages
 
 [![]()](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3-p31#title_number3)  The Church provides the following resources to help people whose lives are affected by pornography:
 
-* [AddressingPornography.ChurchofJesusChrist.org](https://AddressingPornography.ChurchofJesusChrist.org)
+* [AddressingPornography.ChurchofJesusChrist.org](/study/life-help/pornography?lang=eng)
 
 * [AddictionRecovery.ChurchofJesusChrist.org](http://AddictionRecovery.ChurchofJesusChrist.org)
 
