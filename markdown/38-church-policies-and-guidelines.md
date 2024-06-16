@@ -1,4 +1,4 @@
-“38. Church Policies and Guidelines,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2020).
+“38. Church Policies and Guidelines,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
 
 “38. Church Policies and Guidelines,” General Handbook.
 
@@ -44,7 +44,7 @@ For baptism of minor children ages 8 and older, see [38.2.8.2](/study/manual/ge
 
 ### Temple Attendance
 
-Temples are holy places of worship in which essential ordinances are received and sacred covenants are made. To members of the Church, temples are houses of God. Because of this sacredness and the covenants made, only members of the Church with a current temple recommend may attend the temple. Members may receive a temple recommend when they faithfully keep the required commandments and live the gospel of Jesus Christ. (See [chapter 26](/study/manual/general-handbook/26-temple-recommends?lang=eng).)
+Temples are holy places of worship in which essential ordinances are received and sacred covenants are made. To members of the Church, temples are houses of God. Because of this sacredness and the covenants made, only members of the Church with a current temple recommend may attend the temple. Members may receive a temple recommend when they faithfully keep the required commandments and live the gospel of Jesus Christ. (See [chapter 26](/study/manual/general-handbook/26-temple-recommends?lang=eng).)
 
 38.1.4
 
@@ -312,7 +312,7 @@ Authorization from the mission president is required before a person can be bapt
 
 In these cases, the mission president interviews the person. If necessary, the mission president may authorize one of his counselors to conduct the interview. He gives this authorization separately for each interview. The counselor who conducts it reports to the mission president, who may then authorize or deny the baptism and confirmation.
 
-Approval from the First Presidency is required before a person can be baptized if he or she:
+Approval from the First Presidency is required before a person can be baptized and confirmed if he or she:
 
 * Has committed murder (see [38.2.8.7](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number268-p2798#title_number268)).
 
@@ -416,7 +416,7 @@ A prospective elder is a male Church member age 19 or older who does not hold t
 
 Under the direction of the bishop, the elders quorum presidency works closely with prospective elders to help them prepare to receive the Melchizedek Priesthood. If a prospective elder is not a priest, he should be ordained a priest as soon as he is worthy. He does not need to be ordained a deacon or teacher first. He may be ordained an elder when he has developed sufficient understanding of the gospel and demonstrated his worthiness. The bishop and stake president interview him to make this determination (see [31.2.6](/study/manual/general-handbook/31?lang=eng&id=title_number18-p191#title_number18)).
 
-For more information about helping prospective elders prepare to receive the Melchizedek Priesthood, see [8.4](/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number118-p292#title_number118).
+For more information about helping prospective elders prepare to receive the Melchizedek Priesthood, see [8.4](/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number118-p292#title_number118).
 
 38.2.9.4
 
@@ -854,7 +854,7 @@ See [chapter 28](/study/manual/general-handbook/28?lang=eng) for information ab
 
 *Women.* If a husband and wife have been sealed and the husband dies, the woman may not be sealed to another man unless she receives a cancellation of the first sealing (see [38.4.1.4](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number76-p241#title_number76)).
 
-A living woman who is not currently married or sealed to another man may be sealed to a deceased husband. If the marriage ended in divorce, see [38.4.1.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number74-p234#title_number74).
+A living woman who is not currently married or sealed to another man may be sealed to a deceased husband (see [38.4.1.7](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number79-p247#title_number79)). If the marriage ended in divorce, see [38.4.1.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number74-p234#title_number74).
 
 A living woman who is currently married may not be sealed to a deceased husband without First Presidency approval.
 
@@ -862,7 +862,7 @@ See [chapter 28](/study/manual/general-handbook/28?lang=eng) for information ab
 
 *Men.* If a husband and wife have been sealed and the wife dies, the man may be sealed to another woman if she is not already sealed to another man. In this circumstance, the man does not need a sealing clearance from the First Presidency unless he was divorced from his previous wife before she died (see [38.4.1.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number74-p234#title_number74)).
 
-A living man may be sealed to a deceased wife. If the marriage ended in divorce, see [38.4.1.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number74-p234#title_number74). Before being sealed to a deceased wife, a man must receive written consent from his current wife if he is married.
+A living man may be sealed to a deceased wife if she is not currently sealed to another man (see [38.4.1.7](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number79-p247#title_number79)). If the marriage ended in divorce, see [38.4.1.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number74-p234#title_number74). Before being sealed to a deceased wife, a man must receive written consent from his current wife if he is married.
 
 See [chapter 28](/study/manual/general-handbook/28?lang=eng) for information about performing ordinances for a deceased spouse.
 
@@ -928,7 +928,7 @@ A couple may seek approval after they have been married for at least five years.
 
 #### Sealing after Temple Marriage for Time Only
 
-Couples who were married in a temple for time only are not usually sealed later. For such a sealing to occur, the woman must first receive from the First Presidency a cancellation of her previous sealing. If the bishop and stake president both feel that a cancellation is justified, the stake president submits an application to the First Presidency using [LCR](http://lcr.churchofjesuschrist.org). See [6.2.3](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number13-p50#title_number13) about the stake president’s responsibility when submitting applications to the First Presidency.
+Couples who were married in a temple for time only are not usually sealed later. For such a sealing to occur, the woman must first receive from the First Presidency a cancellation of her previous sealing. If the bishop and stake president both feel that a cancellation is justified, the stake president submits an application to the First Presidency using [LCR](https://lcr.churchofjesuschrist.org). See [6.2.3](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number13-p50#title_number13) about the stake president’s responsibility when submitting applications to the First Presidency.
 
 Time-only marriages in the temple are no longer performed (see [27.3.3](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number33-p101#title_number33)).
 
@@ -936,19 +936,17 @@ Time-only marriages in the temple are no longer performed (see [27.3.3](/study/m
 
 #### Sealing of Deceased Persons
 
-This section applies to deceased persons being sealed to spouses who are also deceased. If one of the spouses is still living, see [38.4.1.3](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number75-p237#title_number75).
-
 *Deceased Women.* A deceased woman may be sealed to all men to whom she was legally married during her life. The following table shows when these sealings may take place.
 
 |  |  |
 
 | --- | --- |
 
-| She was not sealed to a husband in life | She may be sealed to all living or deceased men to whom she was married in life. If the man is living, his wife (if he is married) must give written consent. If the man is deceased, his widow (if any) must give written consent. |
+| She was not sealed to a husband in life | She may be sealed to all living or deceased men to whom she was married in life. If the man is living, his wife (if he is married) must give written consent (see [38.4.1.3](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number75-p237#title_number75)). If the man is deceased, his widow (if any) must give written consent. |
 
 | She was sealed to a husband in life | All her husbands must be deceased before she is sealed to other men to whom she was married. This includes former husbands from whom she may have been divorced. Each of the men’s widows (if any) must give written consent. |
 
-*Deceased Men.* A deceased man may be sealed to all women to whom he was legally married during his life if (1) they are deceased or (2) they are living and are not sealed to another man.
+*Deceased Men.* A deceased man may be sealed to all women to whom he was legally married during his life if (1) they are deceased or (2) they are living, are not currently married, and are not sealed to another man (see [38.4.1.3](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number75-p237#title_number75)).
 
 Before a deceased man may be sealed to a deceased woman to whom he was married in life, the woman’s widower (if there is one) must give written consent.
 
@@ -1138,29 +1136,27 @@ For information about garment fabrics and styles, see [store.ChurchofJesusChrist
 
 ### Garments and Temple Clothing for Members Who Have Disabilities or Allergies
 
-Special garments may be purchased for members who are bedridden, have severe physical disabilities, or have allergies to certain fabrics or garments (see “[Garments and Sacred Clothing](http://store.churchofjesuschrist.org/clothing),” store.ChurchofJesusChrist.org).
+Special garments may be purchased for members who are bedridden, have severe physical disabilities, or have allergies to certain fabrics or garments. See [Special Order Garments](https://www.churchofjesuschrist.org/tools/help/special-needs-garments) at ChurchofJesusChrist.org.
 
-Shorter temple robes are available for members who are in wheelchairs or who have other needs (see [store.ChurchofJesusChrist.org](http://store.churchofjesuschrist.org/clothing)).
+Shorter temple robes are available for members who are in wheelchairs or who have other needs. See [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org/new-category/clothing/5637160336.c).
 
 38.5.4
 
-### Making Temple Aprons
+### Making Temple Clothing
 
-Members may make their own temple aprons if they use one of the approved apron kits. These kits are available from a Church Distribution store or from [store.ChurchofJesusChrist.org](http://store.churchofjesuschrist.org/heirloom-apron-embroidery-kit-85055655-1).
-
-Members should not make other ceremonial temple clothing or temple garments.
+Members should not make ceremonial temple clothing or temple garments.
 
 38.5.5
 
-### Wearing and Caring for the Garment
+### Wearing the Garment
 
-Members who receive the endowment make a covenant to wear the temple garment throughout their lives.
+The First Presidency has provided the following guidance on wearing the garment:
 
-The temple garment is a reminder of covenants made in the temple and, when worn properly throughout life, will serve as a protection against temptation and evil. The garment should be worn beneath the outer clothing. It should not be removed for activities that can reasonably be done while wearing the garment, and it should not be modified to accommodate different styles of clothing. Endowed members should seek the guidance of the Holy Spirit to answer personal questions about wearing the garment.
+“The garment of the holy priesthood reminds us of the veil in the temple, and that veil is symbolic of Jesus Christ. When you put on your garment, you put on a sacred symbol of Jesus Christ. Wearing it is an outward expression of your inner commitment to follow Him. The garment is also a reminder of your temple covenants. You should wear the garment day and night throughout your life. When it must be removed for activities that cannot reasonably be done while wearing the garment, seek to restore it as soon as possible. As you keep your covenants, including the sacred privilege to wear the garment as instructed in the initiatory ordinances, you will have greater access to the Savior’s mercy, protection, strength, and power.”
 
-It is a sacred privilege to wear the garment and doing so is an outward expression of an inner commitment to follow the Savior Jesus Christ.
+The garment should be worn beneath the outer clothing. It is a matter of personal preference whether other undergarments are worn over or under the temple garment.
 
-It is a matter of personal preference whether other undergarments are worn over or under the temple garment.
+Members should not modify or alter the garment to accommodate different styles of clothing.
 
 See [26.3.3](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number29-p115#title_number29).
 
@@ -1184,7 +1180,7 @@ When possible, they should wear the garment the same as any other member. Howeve
 
 Sometimes service regulations prevent a member from wearing the garment. In these cases, the member’s religious status is not affected as long as he or she remains worthy. The member will still receive the blessings associated with wearing the garment. If members are unable to wear the garment, they should wear it again as soon as circumstances allow.
 
-Members in these organizations should consult with their individual services on specific requirements that undergarments must meet, such as color or neckline style. These members may send organization-approved apparel that meets garment guidelines to Beehive Clothing to be marked as authorized garments. Guidelines and additional instructions are provided on the [Garment Marking Order Form](https://assets.ldscdn.org/5c/28/5c284572e58b11eb82d6eeeeac1e5a30d3af98ef/beehive_clothing_form_military_markings_order_form.pdf).
+Members in these organizations should consult with their individual services on specific requirements that undergarments must meet, such as color or neckline style. These members may send organization-approved apparel that meets garment guidelines to Beehive Clothing to be marked as authorized garments. Guidelines and additional instructions are provided on the [Garment Guidelines for Military, Law Enforcement, and Firefighters](https://assets.churchofjesuschrist.org/d7/da/d7dace85affa11eea186eeeeac1ee4396c92cc3b/beehive_clothing_form_military_markings_order_form.pdf).
 
 38.5.7
 
@@ -1458,7 +1454,9 @@ The pattern of a husband and wife providing bodies for God’s spirit children i
 
 The Church discourages artificial insemination or in vitro fertilization using sperm from anyone but the husband or an egg from anyone but the wife. However, this is a personal matter that is ultimately left to the judgment and prayerful consideration of a lawfully married man and woman.
 
-See also “[Adoption](/study/manual/gospel-topics/adoption?lang=eng)” (Gospel Topics, topics.ChurchofJesusChrist.org).
+For information about the sealing of children who are conceived by artificial insemination or in vitro fertilization, see [38.4.2.6](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number87-p273#title_number87).
+
+See also “[Adoption](/study/manual/gospel-topics/adoption?lang=eng)” (Topics and Questions, topics.ChurchofJesusChrist.org).
 
 38.6.10
 
@@ -1552,7 +1550,7 @@ All members who keep their covenants will receive all promised blessings in the 
 
 [![]()](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  The Church provides the following resources to better understand and support people whose lives are affected by same-sex attraction:
 
-* “[Same-Sex Attraction](/study/manual/gospel-topics/same-sex-attraction?lang=eng),” Gospel Topics, topics.ChurchofJesusChrist.org
+* “[Same-Sex Attraction](/study/manual/gospel-topics/same-sex-attraction?lang=eng),” Topics and Questions, topics.ChurchofJesusChrist.org
 
 * “[Same-Sex Attraction](http://www.churchofjesuschrist.org/topics/gay),” Life Help, ChurchofJesusChrist.org
 
@@ -1578,7 +1576,7 @@ Parents have primary responsibility for the sex education of their children. Par
 
 * Address the dangers of pornography, the need to avoid it, and how to respond when they encounter it.
 
-For more information, see “[Sex Education and Behavior](/study/manual/gospel-topics/sex-education-and-behavior?lang=eng)” (Gospel Topics, topics.ChurchofJesusChrist.org).
+For more information, see “[Sex Education and Behavior](/study/manual/gospel-topics/sex-education-and-behavior?lang=eng)” (Topics and Questions, topics.ChurchofJesusChrist.org).
 
 As part of their responsibility to teach their children, parents should be aware of and appropriately seek to influence the sex education taught at school. Parents teach correct principles and support school instruction that is consistent with the gospel.
 
@@ -1646,7 +1644,7 @@ No bishop’s referral is needed for this service. There is no charge. See [31.3
 
 In other areas, leaders may contact Family Services staff or the welfare and self-reliance manager in the area office for consultation.
 
-[![]()](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  Guidance for counseling single expectant parents is also provided at “[Unwed Pregnancy](/study/manual/gospel-topics/unwed-pregnancy?lang=eng)” (Gospel Topics, topics.ChurchofJesusChrist.org).
+[![]()](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  Guidance for counseling single expectant parents is also provided at “[Unwed Pregnancy](/study/manual/gospel-topics/unwed-pregnancy?lang=eng)” (Topics and Questions, topics.ChurchofJesusChrist.org).
 
 38.6.20
 
@@ -1878,7 +1876,7 @@ The Church does not facilitate adoptions. However, in the United States and Cana
 
 For information about single expectant parents, see [38.6.19](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number113-p834#title_number113).
 
-For more information, see “[Adoption](/study/manual/gospel-topics/adoption?lang=eng)” (Gospel Topics, topics.ChurchofJesusChrist.org).
+For more information, see “[Adoption](/study/manual/gospel-topics/adoption?lang=eng)” (Topics and Questions, topics.ChurchofJesusChrist.org).
 
 38.8.2
 
@@ -2050,7 +2048,7 @@ Intellectual Property Office
 
 50 East North Temple Street
 
-Salt Lake City, UT 84150-0005
+Salt Lake City, UT 84150-0005
 
 Telephone: 1-801-240-3959 or 1-800-453-3860, extension 2-3959
 
@@ -2084,7 +2082,7 @@ Duplicating printed or recorded music without authorization from the copyright o
 
 The Church provides materials to help members learn and live the gospel of Jesus Christ. These include the scriptures, general conference messages, magazines, manuals, books, and other resources. Leaders encourage members to use the scriptures and other resources as needed to study the gospel at home.
 
-Gospel learning and teaching should focus on the Savior and His doctrine. To help maintain this focus in Church classes, leaders ensure that teachers use approved materials. For information about approved materials, see Instructions for Curriculum.
+Gospel learning and teaching should focus on the Savior and His doctrine. To help maintain this focus in Church classes, leaders ensure that teachers use approved materials. For information about approved materials, see [Instructions for Curriculum](https://assets.churchofjesuschrist.org/2a/ab/2aabdadfe91a11ec9fe1eeeeac1e8ade05f517a3/2023_instructions_for_curriculum.pdf).
 
 38.8.13
 
@@ -2110,7 +2108,7 @@ Members of the Church are encouraged to show respect for the body in their choic
 
 Members and leaders should not judge others based on dress and appearance. They should love all people, as the Savior commanded (see [Matthew 22:39](/study/scriptures/nt/matt/22?lang=eng&id=p39#p39); [John 13:34–35](/study/scriptures/nt/john/13?lang=eng&id=p34-p35#p34)). All should be welcomed at Church meetings and activities (see [38.1.1](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number3-p7#title_number3)).
 
-When issuing temple recommends and ward and stake callings, leaders consider worthiness and the guidance of the Spirit (see [26.3](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number9-p40#title_number9), [30.1.1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number3-p10#title_number3), and 31.1.1).
+When issuing temple recommends and ward and stake callings, leaders consider worthiness and the guidance of the Spirit (see [26.3](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number9-p40#title_number9), [30.1.1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number3-p10#title_number3), and [31.1.1](/study/manual/general-handbook/31?lang=eng&id=title_number3-p72#title_number3)).
 
 38.8.15
 
@@ -2120,7 +2118,7 @@ The Church encourages self-reliance. Members are encouraged to be spiritually an
 
 However, Church leaders have counseled against extreme or excessive preparation for possible catastrophic events. Such efforts are sometimes called survivalism. Efforts to prepare should be motivated by faith, not fear.
 
-Church leaders have counseled members not to go into debt to establish food storage. Instead, members should establish a home storage supply and a financial reserve over time. See [22.1.4](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number77-p90#title_number77) and “[Food Storage](/study/manual/gospel-topics/food-storage?lang=eng)” (Gospel Topics, topics.ChurchofJesusChrist.org).
+Church leaders have counseled members not to go into debt to establish food storage. Instead, members should establish a home storage supply and a financial reserve over time. See [22.1.4](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number77-p90#title_number77) and “[Food Storage](/study/manual/gospel-topics/food-storage?lang=eng)” (Topics and Questions, topics.ChurchofJesusChrist.org).
 
 38.8.16
 
@@ -2422,7 +2420,7 @@ In preparation for sensitive situations such as personal interviews or Church me
 
 These same principles apply for members who are deaf or hard of hearing and do not use sign language but need an oral interpreter to help them read lips.
 
-Leaders may organize ward or stake classes to teach the sign language that is used in their area. A helpful resource is Dictionary of Sign Language Terms for The Church of Jesus Christ of Latter-day Saints.
+Leaders may organize ward or stake classes to teach the sign language that is used in their area. A helpful resource is [Dictionary of Sign Language Terms for The Church of Jesus Christ of Latter-day Saints](/study/manual/dictionary-of-church-terms-in-american-sign-language/dictionary-of-church-terms-in-american-sign-language?lang=eng).
 
 38.8.27.7
 
@@ -2806,7 +2804,7 @@ Stake presidents and bishops help make the blessings of Church participation ava
 
 If military installations or members who serve in the military are in a stake, the stake presidency has the responsibilities outlined in this section. If such installations are located in a mission rather than a stake, the mission president fulfills these responsibilities.
 
-A member of the stake presidency oversees the pre–military service Church orientation in the stake. He ensures the orientation is offered to all members entering military service. The stake executive secretary may coordinate this orientation. (See [38.9.3](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number208-p736#title_number208).)
+A member of the stake presidency oversees military relations in the stake. He may call a man or a woman to serve as the military relations specialist. This member does not need to have military experience. He or she ensures that resources are provided to support members of the military in the stake. This includes the military service orientation (see [38.9.3](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number208-p736#title_number208)).
 
 38.9.1.1
 
@@ -2862,13 +2860,13 @@ The bishop coordinates with the senior chaplain at each military installation in
 
 38.9.3
 
-### Pre–Military Service Church Orientation
+### Military Service Orientation
 
-The pre–military service Church orientation helps members entering military service learn what to expect regarding Church services and activities in the military. The orientation may be held at the stake or ward level.
+The military service orientation helps members entering and serving in the military know what to expect regarding Church services and activities in the military. It also teaches them how to strengthen their faith and keep their covenants during military service.
 
-A member of the stake presidency or bishopric calls a pre–military service instructor to provide the orientation. Preferably this instructor has had recent military experience. If a qualified instructor is not available, the stake president or bishop contacts the Military Relations and Chaplain Services Division for guidance.
+A member of the stake presidency or bishopric calls a military service instructor to provide the orientation. Preferably this instructor has had recent military experience. If a qualified instructor is not available, the stake president or bishop contacts the Military Relations and Chaplain Services Division for guidance.
 
-For more information, see “[Pre–Military Service Church Orientation](https://www.churchofjesuschrist.org/military/pre-military-service-church-orientation)” on ChurchofJesusChrist.org.
+For more information, see [Military Service Orientation](https://www.churchofjesuschrist.org/military/pre-military-service-church-orientation) on ChurchofJesusChrist.org.
 
 38.9.4
 
@@ -2986,7 +2984,7 @@ Military Relations and Chaplain Services Division
 
 50 East North Temple Street, Room 2411
 
-Salt Lake City, UT 84150-0024
+Salt Lake City, UT 84150-0024
 
 Telephone: 1-801-240-2286
 
