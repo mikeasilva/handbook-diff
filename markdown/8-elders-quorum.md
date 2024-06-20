@@ -58,7 +58,7 @@ Participating in God’s Work of Salvation and Exaltation
 
 -------------------------------------------------------
 
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)  
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2Fca%2Fe4%2Fcae4ace5c8cce80f8c4e06fe281c42dbc6d1e9fc%2Fcae4ace5c8cce80f8c4e06fe281c42dbc6d1e9fc.jpeg/full/!250,/0/default)  
 
 God invites all to come unto Christ and participate in His work of salvation and exaltation by:
 
@@ -124,7 +124,7 @@ The elders quorum president oversees these activities. He may ask a counselor or
 
 As followers of Jesus Christ, elders quorum members have a responsibility to reach out in love to those in need. Individually and as a quorum, they seek ways to serve others in the ward and community. Where it is available, [JustServe.org](http://www.justserve.org) suggests community service opportunities.
 
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)  
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2F97%2F4e%2F974e9f17846aa514cea90aec8882cfa486d3363a%2F974e9f17846aa514cea90aec8882cfa486d3363a.jpeg/full/!250,/0/default)  
 
 For more information about how members of the elders quorum and Relief Society care for those in need, see [22.6.2](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number52-p185#title_number52).
 
@@ -204,7 +204,7 @@ This member of the elders quorum presidency may fulfill the role of the ward tem
 
 The ward temple and family history leader, who may be a member of the elders quorum presidency, leads temple and family history coordination meetings (see [25.2.7](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number13-p72#title_number13)). These meetings are held regularly. They also include the assigned member of the Relief Society presidency, an assistant in the priests quorum, a presidency member of the oldest Young Women class, and temple and family history consultants.
 
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)  
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2F88%2F69%2F886999708076dbf09ad533958c83f683c1dc7440%2F886999708076dbf09ad533958c83f683c1dc7440.jpeg/full/!250,/0/default)  
 
 ![]()  Imagemen looking at picture
 
