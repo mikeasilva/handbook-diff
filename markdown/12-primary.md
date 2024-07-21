@@ -492,7 +492,7 @@ The music leader and pianist teach children the gospel of Jesus Christ through m
 
 * [Come, Follow Me](/study/come-follow-me?lang=eng)
 
-* [Instructions for Singing Time and the Children’s Sacrament Meeting Program](/study/manual/instructions-for-singing-time-and-the-childrens-sacrament-meeting-presentation/instructions-for-singing-time?lang=eng)
+* Instructions for Singing Time and the Children’s Sacrament Meeting Program
 
 * [Children’s Songbook](/study/manual/childrens-songbook?lang=eng)
 
