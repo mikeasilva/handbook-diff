@@ -58,7 +58,7 @@ Boundaries of a stake or district follow the boundaries of the units that are wi
 
 A stake or mission president starts a new proposal at “[Boundary and Leadership Proposals](https://lcr.churchofjesuschrist.org/boundary-proposals).” If he cannot use the online system, he can download paper forms by clicking on the link.
 
-Approval of proposed stake changes comes from the First Presidency and the Quorum of the Twelve. Generally, they make a decision within six weeks of receiving a completed proposal.
+Approval of proposed stake changes comes from the First Presidency and the Quorum of the Twelve. Generally, a decision can take up to eight weeks after receiving a completed proposal.
 
 36.2
 
@@ -122,7 +122,7 @@ A stake president may propose realigning or discontinuing wards and branches whe
 
 A stake president starts a new proposal at “[Boundary and Leadership Proposals](https://lcr.churchofjesuschrist.org/boundary-proposals).” If he cannot use the online system, he can download paper forms by clicking on the link.
 
-Only the First Presidency can approve the proposal. Generally, they make a decision within four weeks of receiving a completed proposal.
+Approval of proposed ward or branch changes comes from the First Presidency. Generally, a decision can take up to six weeks after receiving a completed proposal.
 
 36.3
 
@@ -152,9 +152,9 @@ The Area Presidency may endorse *but not give final approval* of a mission presi
 
 * Change branch boundaries in a mission if the change would affect a stake, a district, or another mission.
 
-* Create or change a mission branch for young single adults or single adults; members who do not speak the local native language; members who are in care centers, treatment programs, or prisons; or members in the military.
+* Create or change a mission branch for young single adults or single adults; members who speak a language other than the language of their unit; members who use sign language; members who are in care centers, treatment programs, or prisons; or members in the military.
 
-In these situations, the Area Presidency reviews the proposal, and if they endorse it, they submit it for approval. Only the First Presidency can give final approval. Generally, they make a decision within four weeks of receiving a completed proposal.
+In these situations, the Area Presidency reviews the proposal, and if they endorse it, they submit it for approval. Approval of proposed branch changes comes from the First Presidency. Generally, a decision can take up to six weeks after receiving a completed proposal.
 
 ![]()  Imagefamily at church
 
@@ -165,8 +165,6 @@ Naming Church Units
 -------------------
 
 The name of a unit should help identify it to those who live in the area. Generally, the names of existing units should not be changed.
-
-If a stake or mission president desires only to change a unit name, he does not need to use the online system. He submits the proposal by calling 1-801-240-1007. Outside the United States and Canada, he calls the area office.
 
 If a unit name needs to be changed because of a boundary realignment, the stake or mission president starts a new proposal by using the online system at [Boundary and Leadership Proposals](https://lcr.churchofjesuschrist.org/boundary-proposals). If he cannot use the online system, he can download paper forms by clicking on the link.
 
@@ -260,7 +258,7 @@ Stake or mission presidents notify Church headquarters or their area office afte
 
 After a stake or mission president receives approval for ward or branch changes, he generally has 90 days to present the changes to be sustained by the members. If he needs to delay longer than 90 days, he requests permission from the Office of the First Presidency.
 
-Stake or mission presidents notify Church headquarters or their area office after the changes have been made. Maps and units are not updated until they are recorded by Church headquarters.
+Stake or mission presidents implement the proposal in LCR once the changes have been made. For help in the United States and Canada, call 801-240-6243 or email [oiservices@ChurchofJesusChrist.org](mailto:oiservices@ChurchofJesusChrist.org). For help outside the United States and Canada, contact the area office. Maps and units are not updated until they are recorded by Church headquarters.
 
 ![]()  Imagepeople singing in church
 
@@ -270,7 +268,7 @@ Basic Unit Program
 
 ------------------
 
-The Church has developed the Basic Unit Program for use by some small branches or small authorized gatherings of members, known as groups (see [37.7](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng&id=title_number18-p84#title_number18) for more information on groups). An Area Presidency may authorize the use of the Basic Unit Program in small branches or groups where any of the following conditions apply:
+The Church has developed the Basic Unit Program for use by some small branches or small authorized gatherings of members, known as groups (see [37.7](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng&id=title_number18-p84#title_number18) for more information on groups). An Area Presidency may authorize the use of the Basic Unit Program in groups or branches where any of the following conditions apply:
 
 * The Church is in its beginning stages.
 
@@ -278,8 +276,24 @@ The Church has developed the Basic Unit Program for use by some small branches o
 
 * The number of members is small, and leadership is just beginning to develop.
 
-* Members have special language needs or are in care centers, treatment programs, or prisons.
+* Members have special language needs.
 
-An Area Presidency may also authorize the use of the Basic Unit Program in missions or stakes where these conditions exist.
+* Members are in the military (see [38.9.4](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number209-p748#title_number209) for reasons a service member group might be created).
 
-Guidelines for this program are provided in the [Basic Unit Program Guidebook](/study/manual/basic-unit-program-guidebook?lang=eng). Other information is provided in the [Branch Guidebook](/study/manual/branch-guidebook?lang=eng), [Priesthood and Auxiliary Leaders’ Guidebook](/study/manual/priesthood-and-auxiliary-leaders-guidebook?lang=eng), [Family Guidebook](/study/manual/family-guidebook?lang=eng), and [Teaching Guidebook](/study/manual/teaching-guidebook?lang=eng).
+* Members are in care centers, treatment programs, or prisons.
+
+Area Presidencies and other leaders emphasize that units using the Basic Unit Program should not expand organizations, meetings, and programs too quickly. Leadership is best cultivated when Church resources are in proper balance with members’ circumstances and needs.
+
+Leaders also share the following principles with groups and branches using the Basic Unit Program:
+
+* Seek inspiration from the Spirit to know what to do and how to do it.
+
+* Teach the basic doctrine and principles of the gospel.
+
+* Help members (1) understand and receive essential priesthood ordinances and (2) make and keep the associated covenants.
+
+These units can hold Church meetings in a home, a rented building, or a Church-owned building (see [35.3](/study/manual/general-handbook/35?lang=eng&id=title_number12-p126#title_number12)). The mission, stake, or district presidency can provide information on obtaining and maintaining a meeting place for the group or branch.
+
+If the group or branch has very few members, they hold only a sacrament meeting and a gospel instruction period for all members. For gospel instruction, members use the [scriptures](/study/scriptures?lang=eng) and [Come, Follow Me—For Home and Church](/study/come-follow-me?lang=eng). If the scriptures have not yet been translated into the language the members speak, members use the Gospel Fundamentals manual for gospel instruction. As the Church grows, more translations of the scriptures, hymns and songs, and Church magazines will become available.
+
+As the unit grows, Church leaders should organize an elders quorum and a Relief Society (see [8.3.3](/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number11-p269#title_number11) and [9.3.2](/study/manual/general-handbook/9-relief-society?lang=eng&id=title_number15-p199#title_number15)). As the number of members and potential leaders increases, the branch president may organize Aaronic Priesthood quorums and Young Women, Primary, and Sunday School organizations (see [10.3](/study/manual/general-handbook/10-aaronic-priesthood?lang=eng&id=title_number22-p96#title_number22), [11.3.2](/study/manual/general-handbook/11-young-women?lang=eng&id=title_number18-p88#title_number18), [12.3.2](/study/manual/general-handbook/12-primary?lang=eng&id=title_number17-p123#title_number17), and [13.2.2](/study/manual/general-handbook/13-sunday-school?lang=eng&id=title_number11-p117#title_number11)).
