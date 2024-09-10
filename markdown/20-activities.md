@@ -334,7 +334,7 @@ All Church overnight activities must include at least two adult leaders.
 
 A sufficient number of adult priesthood holders must be present at all times during overnight activities to provide support and protection. For Young Women activities, priesthood holders must stay in facilities separate from the young women.
 
-Leaders fill out an [Event and Activity Plan form](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/callings/young-men/activity-plan.pdf) for all overnight activities.
+Leaders fill out an [Event and Activity Plan form](https://assets.churchofjesuschrist.org/2d/98/2d9801c0fdc111ebbb5eeeeeac1e9b2a98a7c28a/event_and_activity_plan.pdf) for all overnight activities.
 
 Overnight activities at Church meetinghouses or meetinghouse grounds are not approved.
 

@@ -274,7 +274,7 @@ With the help of the Lord, members seek to provide for themselves and their fami
 
 Church assistance is intended to help members develop independence, not dependence. Any assistance given should strengthen members in their efforts to become self-reliant.
 
-When providing Church assistance, leaders follow the principles in sections [22.4.1 through 22.4.5](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number79-p145#title_number79). Bishoprics and clerks are encouraged to review the video “[Sacred Funds, Sacred Responsibilities](http://www.churchofjesuschrist.org/help/support/record-keeping/finance/financial-training-lessons/sacred-funds).”
+When providing Church assistance, leaders follow the principles in sections [22.4.1 through 22.4.5](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number79-p145#title_number79). Bishoprics and clerks review the video “[Sacred Funds, Sacred Responsibilities](http://www.churchofjesuschrist.org/help/support/record-keeping/finance/financial-training-lessons/sacred-funds)” at least once a year.
 
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2F1f%2F68%2F1f68adec25e13e604ae4234089bcf59f283e97be%2F1f68adec25e13e604ae4234089bcf59f283e97be.jpeg/full/!250,/0/default)  
 
@@ -372,7 +372,7 @@ Bishops may assist members and others who are transient or homeless. However, th
 
 Bishops generally invite transient or homeless members who receive assistance to accept work or service opportunities. Bishops may also refer these members to community resources that are equipped to address their needs.
 
-Based on need, a stake president may appoint one bishop to handle all requests arising in the stake from people who are transient or homeless. In some areas there is a concentration of stakes with large numbers of people who are transient or homeless. In those situations, the Area Presidency may call a service missionary to handle their requests for assistance. This person should have served as a bishop.
+Based on need, a stake president may appoint one bishop to handle all requests arising in the stake from people who are transient or homeless. In some areas there is a concentration of stakes with large numbers of people who are transient or homeless. In those situations, the Area Presidency may call an area welfare and self-reliance specialist to handle their requests for assistance. This person should have served as a bishop.
 
 22.5.1.4
 
@@ -692,7 +692,7 @@ In his interviews with bishops, the stake president reviews fast-offering paymen
 
 Principles and practices for providing Church assistance are also discussed in the stake bishops’ council (see [22.11](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number98-p278#title_number98)).
 
-The stake president ensures that each bishop reviews the training in the video “[Sacred Funds, Sacred Responsibilities](http://www.churchofjesuschrist.org/help/support/record-keeping/finance/financial-training-lessons/sacred-funds)” at least once a year.
+The stake president ensures that bishoprics and clerks review the training in the video “[Sacred Funds, Sacred Responsibilities](http://www.churchofjesuschrist.org/help/support/record-keeping/finance/financial-training-lessons/sacred-funds)” at least once a year.
 
 22.9.1.2
 
@@ -912,7 +912,7 @@ Resources
 
 * [Stake Welfare and Self-Reliance Resource Centers](https://assets.ldscdn.org/da/df/dadf5707998611eca190eeeeac1ee215e0a084a1/products_and_services_overview_booklet.pdf)
 
-* [Employment centers](http://www.churchofjesuschrist.org/life/life-help-employment)
+* [Employment Services](http://www.churchofjesuschrist.org/life/life-help-employment)
 
 * [BYU–Pathway Worldwide](http://www.byupathway.org)
 

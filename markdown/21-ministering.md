@@ -132,7 +132,7 @@ Ministering interviews do not need to be long to be effective. Their purposes ar
 
 * Consider how the elders quorum, Relief Society, ward council, and others might help.
 
-* Teach and encourage ministering brothers and sisters.
+* Minister to ministering brothers and sisters. Show love and appreciation. Teach and encourage them. Help them grow in their capacity to receive and act upon revelation in their service.
 
 Between interviews, ministering brothers and sisters communicate with leaders as needed. They may share confidential information directly with the bishop.
 

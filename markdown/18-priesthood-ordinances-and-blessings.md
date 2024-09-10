@@ -418,7 +418,7 @@ In stakes with many children of record, children from multiple wards may share t
 
 Baptismal services for converts should be scheduled as soon as they have met the qualifications in [31.2.3.2](/study/manual/general-handbook/31?lang=eng&id=title_number24-p164#title_number24). Baptism of a family member should not be delayed until a father can receive the priesthood and perform the baptism himself.
 
-Under the bishopric’s guidance, the ward mission leader (if one is called) or the member of the elders quorum presidency who leads missionary work in the ward plans and conducts baptismal services for converts. He also plans the confirmation of converts if they will not be confirmed in sacrament meeting. He coordinates with the full-time missionaries.
+Under the bishopric’s guidance, the ward mission leader (if one is called) or the member of the elders quorum presidency who leads missionary work in the ward plans and conducts baptismal services for converts. He also plans the confirmation of converts unless they will be confirmed in sacrament meeting. He coordinates with the full-time missionaries.
 
 18.7.3
 
@@ -540,7 +540,7 @@ Under the direction of the bishopric, one or more Melchizedek Priesthood holders
 
 Before a child who is a member of record is interviewed for baptism, a clerk uses [LCR](http://lcr.churchofjesuschrist.org) to prepare a [Baptism and Confirmation Form](https://lcr.churchofjesuschrist.org/records/ordinances/baptism). The bishop or an assigned counselor conducts the interview and signs the form. After the baptism and confirmation, a clerk uses this form to update the child’s membership record in [LCR](http://lcr.churchofjesuschrist.org).
 
-When a full-time missionary interviews a convert for baptism, he fills out the Baptism and Confirmation Record using the Area Book Planner (ABP) app. After the baptism and confirmation, the missionaries record the information in ABP and submit it to the ward clerk electronically. The ward clerk reviews the information in [LCR](http://lcr.churchofjesuschrist.org) and creates the membership record.
+When a full-time missionary interviews a convert for baptism, he fills out the Baptism and Confirmation Record using the Preach My Gospel app. After the baptism and confirmation, the missionaries record the information in the app and submit it to the ward clerk electronically. The ward clerk reviews the information in [LCR](http://lcr.churchofjesuschrist.org) and creates the membership record.
 
 After the membership record is created, a clerk prepares a Baptism and Confirmation Certificate. This certificate is signed by the bishop and given to the person.
 
@@ -992,11 +992,11 @@ Dedicating Graves
 
 ### Who Dedicates the Grave
 
-A person who dedicates a grave should hold the Melchizedek Priesthood and be authorized by the priesthood leader who conducts the service.
+A person who dedicates a grave should hold the Melchizedek Priesthood and be authorized by the priesthood leader who presides at the service.
 
 If the family prefers, a graveside prayer may be offered instead of a dedicatory prayer. It may be offered by anyone the family chooses.
 
-To act as voice in dedicating a grave, a person who is outside his own ward must show a current temple recommend to the priesthood leader who presides over the service. Or he may show a [Recommend to Perform an Ordinance](https://lcr.churchofjesuschrist.org/ordinance/ordinance-recommend) signed by a member of his bishopric.
+To act as voice in dedicating a grave, a person who is outside his own ward must show a current temple recommend to the priesthood leader who presides at the service. Or he may show a [Recommend to Perform an Ordinance](https://lcr.churchofjesuschrist.org/ordinance/ordinance-recommend) signed by a member of his bishopric.
 
 18.16.2
 

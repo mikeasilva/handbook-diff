@@ -86,7 +86,7 @@ In some areas of the United States and Canada, local laws allow students to leav
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-Institute provides weekday gospel study classes that strengthen faith and testimony in Jesus Christ and His restored gospel. Stake leaders ensure that institute is available for all young single adults ages 18–30.
+Institute provides weekday gospel study classes that strengthen faith and testimony in Jesus Christ and His restored gospel. Stake leaders ensure that institute is available for all young single adults ages 18–35.
 
 All young single adults are encouraged to attend institute classes, whether they are attending school or not. They may attend campus-based institute classes (if available). They may also attend online institute classes or stake-based classes.
 
@@ -104,7 +104,7 @@ See [Stake Institute](http://www.churchofjesuschrist.org/si/leader-resources/sta
 
 ### Other Religion Classes
 
-Stake presidencies may desire to provide religion classes for adults ages 31 years and older. These classes are not a function of S&I and are not called institute classes. However, institute curriculum materials may be used for them.
+Stake presidencies may desire to provide religion classes for adults ages 36 years and older. These classes are not a function of S&I and are not called institute classes. However, institute curriculum materials may be used for them.
 
 ![]()  Imagewomen taking notes in a class
 
