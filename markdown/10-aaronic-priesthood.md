@@ -254,7 +254,7 @@ Aaronic Priesthood holders can help unite families for eternity in many ways. So
 
 * Have a current temple recommend.
 
-* Prepare to receive temple ordinances, including eternal marriage.
+* Prepare to make and keep covenants and receive temple ordinances, including eternal marriage.
 
 * Learn about their extended families and ancestors (see [My Family: Stories That Bring Us Together](https://assets.churchofjesuschrist.org/a3/6d/a36d2fc1743311ee97a6eeeeac1e7b776ff34d50/my_family_stories_that_bring_us_together.pdf)).
 
@@ -354,7 +354,7 @@ Aaronic Priesthood quorum presidencies meet regularly. The quorum president cond
 
 * Planning quorum meetings, service, and activities
 
-* Leadership instruction from quorum leaders or advisers
+* [Leadership instruction](/study/manual/leadership-lessons?lang=eng) from quorum leaders or advisers
 
 A [Sample Presidency Meeting Agenda](https://www.churchofjesuschrist.org/bc/content/ldsorg/content/pdf/children-and-youth/PD60010390_000-Quorum-and-Class-Presidency-Agenda8.pdf) is available on ChurchofJesusChrist.org.
 
@@ -376,7 +376,7 @@ The bishop presides over the ward youth council. This council’s members includ
 
 ![]()  Imageyoung men and women talking
 
-The ward youth council discusses ways to help others build testimonies, receive saving ordinances, keep covenants, and become followers of Jesus Christ (see [Moroni 6:4–5](/study/scriptures/bofm/moro/6?lang=eng&id=p4-p5#p4)). They counsel together about the needs of the young men and young women in the ward. They may discuss activities to meet these needs. However, detailed planning of activities should happen in quorum or class presidency meetings.
+The ward youth council discusses ways to help others build testimonies, receive saving ordinances, make and keep covenants, and become followers of Jesus Christ (see [Moroni 6:4–5](/study/scriptures/bofm/moro/6?lang=eng&id=p4-p5#p4)). They counsel together about the needs of the young men and young women in the ward. They may discuss activities to meet these needs. However, detailed planning of activities should happen in quorum or class presidency meetings.
 
 See [29.2.6](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number9-p63#title_number9) for more information about the ward youth council.
 
