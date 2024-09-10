@@ -3270,7 +3270,7 @@ God’s Work of Salvation and Exaltation
 
 			---](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng#title_number3)
 
-			* [#### 25.1.1. Individual Responsibility for Temple Attendance
+			* [#### 25.1.1. Individual Responsibility for Temple Worship
 
 			Uniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity.
 
@@ -3376,7 +3376,13 @@ God’s Work of Salvation and Exaltation
 
 			---](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng#title_number20)
 
-			* [#### 25.3.7. Area Temple and Family History Advisers
+			* [#### 25.3.7. FamilySearch Center Coordinator
+
+			Uniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity.
+
+			---](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng#title_number33)
+
+			* [#### 25.3.8. Area Temple and Family History Advisers
 
 			Uniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity.
 
@@ -3384,19 +3390,19 @@ God’s Work of Salvation and Exaltation
 
 		- 25.4. Family History Resources
 
-			* [#### 25.4.1. My Family: Stories That Bring Us Together
-
-			Uniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity.
-
-			---](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng#title_number22)
-
-			* [#### 25.4.2. FamilySearch.org and FamilySearch Apps
+			* [#### 25.4.1. FamilySearch.org, Ordinances Ready, and FamilySearch Apps
 
 			Uniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity.
 
 			---](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng#title_number23)
 
-			* [#### 25.4.3. Indexing
+			* [#### 25.4.2. My Family: Stories That Bring Us Together
+
+			Uniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity.
+
+			---](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng#title_number22)
+
+			* [#### 25.4.3. Family History Volunteer Activities
 
 			Uniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity.
 
@@ -3410,29 +3416,17 @@ God’s Work of Salvation and Exaltation
 
 			---](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng#title_number26)
 
-			* [#### 25.5.2. Requirements for Temple Ordinance Workers
+			* [#### 25.5.2. Requirements for Temple Workers
 
 			Uniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity.
 
 			---](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng#title_number27)
 
-			* [#### 25.5.3. Requirements for Temple Volunteers
-
-			Uniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity.
-
-			---](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng#title_number28)
-
-			* [#### 25.5.4. Calling and Setting Apart Ordinance Workers
+			* [#### 25.5.3. Calling and Setting Apart Temple Workers
 
 			Uniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity.
 
 			---](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng#title_number29)
-
-			* [#### 25.5.5. Assigning Volunteers
-
-			Uniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity.
-
-			---](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng#title_number30)
 
 	+ 26. Temple Recommends
 
@@ -3558,7 +3552,7 @@ God’s Work of Salvation and Exaltation
 
 			---](/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number23)
 
-			* [#### 26.5.7. Members Who Identify as Transgender
+			* [#### 26.5.7. Individuals Who Identify as Transgender
 
 			Entering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple.
 
@@ -3668,7 +3662,7 @@ God’s Work of Salvation and Exaltation
 
 			---](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng#title_number22)
 
-			* [#### 27.3.2. Planning and Scheduling a Temple Marriage or Sealing
+			* [#### 27.3.2. Planning and Scheduling a Temple Sealing
 
 			The temple is the house of the Lord. It points us to our Savior, Jesus Christ. In temples, we participate in sacred ordinances and make covenants with Heavenly Father that bind us to Him and to our Savior. These covenants and ordinances prepare us to return to Heavenly Father’s presence and to be sealed together as families for eternity.
 
@@ -3680,7 +3674,7 @@ God’s Work of Salvation and Exaltation
 
 			---](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng#title_number33)
 
-			* [#### 27.3.4. Who May Attend a Temple Marriage or Sealing
+			* [#### 27.3.4. Who May Attend a Temple Sealing
 
 			The temple is the house of the Lord. It points us to our Savior, Jesus Christ. In temples, we participate in sacred ordinances and make covenants with Heavenly Father that bind us to Him and to our Savior. These covenants and ordinances prepare us to return to Heavenly Father’s presence and to be sealed together as families for eternity.
 
@@ -3718,7 +3712,13 @@ God’s Work of Salvation and Exaltation
 
 			---](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng#title_number39)
 
-			* [#### 27.4.4. Who May Attend a Sealing of Living Children to Parents
+			* [#### 27.4.4. Who Performs a Sealing of Living Children to Parents
+
+			The temple is the house of the Lord. It points us to our Savior, Jesus Christ. In temples, we participate in sacred ordinances and make covenants with Heavenly Father that bind us to Him and to our Savior. These covenants and ordinances prepare us to return to Heavenly Father’s presence and to be sealed together as families for eternity.
+
+			---](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng#title_number41)
+
+			* [#### 27.4.5. Who May Attend a Sealing of Living Children to Parents
 
 			The temple is the house of the Lord. It points us to our Savior, Jesus Christ. In temples, we participate in sacred ordinances and make covenants with Heavenly Father that bind us to Him and to our Savior. These covenants and ordinances prepare us to return to Heavenly Father’s presence and to be sealed together as families for eternity.
 
@@ -3911,6 +3911,12 @@ Church Administration
 		Latter-day Saints meet together to worship, edify each other, and teach and learn the gospel.
 
 		---](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng#title_number11)
+
+		- [#### 29.2.9. Easter and Christmas
+
+		Latter-day Saints meet together to worship, edify each other, and teach and learn the gospel.
+
+		---](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng#p_khBpx)
 
 	+ 29.3. Stake Meetings
 
@@ -5624,7 +5630,7 @@ Church Administration
 
 		---](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng#title_number4)
 
-		- [#### 38.1.3. Temple Attendance
+		- [#### 38.1.3. Temple Worship
 
 		This chapter covers a variety of issues and Church policies.
 
@@ -5762,7 +5768,7 @@ Church Administration
 
 		---](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng#title_number71)
 
-		- [#### 38.4.1. Sealing of a Man and a Woman
+		- [#### 38.4.1. Sealing of a Husband and Wife
 
 		This chapter covers a variety of issues and Church policies.
 
@@ -5806,19 +5812,31 @@ Church Administration
 
 		---](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng#title_number234)
 
-		- [#### 38.5.6. Wearing the Garment in the Military
+		- [#### 38.5.6. Caring for the Garment
+
+		This chapter covers a variety of issues and Church policies.
+
+		---](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng#p_wvuEo)
+
+		- [#### 38.5.7. Wearing the Garment in the Military, Fire Service, Law Enforcement, or a Similar Agency
 
 		This chapter covers a variety of issues and Church policies.
 
 		---](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng#title_number235)
 
-		- [#### 38.5.7. Disposing of Garments and Ceremonial Temple Clothing
+		- [#### 38.5.8. Medical Conditions That May Prevent Members from Wearing the Garment
+
+		This chapter covers a variety of issues and Church policies.
+
+		---](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng#p_j6pwP)
+
+		- [#### 38.5.9. Disposing of Garments and Ceremonial Temple Clothing
 
 		This chapter covers a variety of issues and Church policies.
 
 		---](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng#title_number236)
 
-		- [#### 38.5.8. Temple Burial Clothing
+		- [#### 38.5.10. Temple Burial Clothing
 
 		This chapter covers a variety of issues and Church policies.
 
@@ -5964,7 +5982,7 @@ Church Administration
 
 		---](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng#title_number117)
 
-		- [#### 38.6.23. Transgender Individuals
+		- [#### 38.6.23. Individuals Who Identify as Transgender
 
 		This chapter covers a variety of issues and Church policies.
 

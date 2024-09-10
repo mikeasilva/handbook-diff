@@ -718,7 +718,7 @@ If the Church Auditing Department determines that a leader or Church employee ha
 
 32.6.3.4
 
-#### Transgender Individuals
+#### Individuals Who Identify as Transgender
 
 Bishops and stake presidents working with persons who identify as transgender should follow the guidelines in [38.6.23](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number118-p836#title_number118).
 
@@ -1558,19 +1558,21 @@ As authorized by the First Presidency, Church headquarters annotates a person’
 
 	5. Adult sexual predatory behavior
 
-	6. Transgender—actions to transition to the opposite of a person’s biological sex at birth (see [38.6.23](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number118-p836#title_number118))
+	6. Embezzling Church funds or stealing Church property (see [32.6.3.3](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number33-p142#title_number33))
 
-	7. Embezzling Church funds or stealing Church property (see [32.6.3.3](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number33-p142#title_number33))
+	7. Church welfare abuse
 
-	8. Church welfare abuse
-
-	9. Threatening behavior (such as sexual, violent, or financial) or conduct that harms the Church
+	8. Threatening behavior (such as sexual, violent, or financial) or conduct that harms the Church
 
 2. The bishop and stake president submit written notification that the person:
 
-	1. Has admitted to or has been convicted of a crime involving one of the actions listed above.
+	1. Has admitted to one of the actions listed above.
 
-	2. Has been found liable in a civil action of fraud or other illegal acts involving one of the actions listed above.
+	2. Has been convicted of a crime involving one of the actions listed above.
+
+	3. Has been found liable in a civil action of fraud or other illegal acts involving one of the actions listed above.
+
+3. Because some priesthood ordinances are based on gender, the bishop and stake president submit a request to annotate the record of someone who has intentionally transitioned away from his or her biological sex at birth (see [38.6.23](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number118-p836#title_number118)).
 
 When a bishop receives an annotated membership record, he follows the instructions in the annotation.
 
@@ -1706,7 +1708,7 @@ The stake president submits an application to the First Presidency only if he re
 
 	7. Committing a serious sin while holding a prominent Church position
 
-	8. Transgender—actions to transition to the opposite of a person’s biological sex at birth (see [38.6.23](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number118-p836#title_number118))
+	8. Transgender—actions to intentionally transition away from a person’s biological sex at birth (see [38.6.23](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number118-p836#title_number118))
 
 	9. Embezzling Church funds or property
 
