@@ -58,7 +58,7 @@ Participating in God’s Work of Salvation and Exaltation
 
 -------------------------------------------------------
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2Fca%2Fe4%2Fcae4ace5c8cce80f8c4e06fe281c42dbc6d1e9fc%2Fcae4ace5c8cce80f8c4e06fe281c42dbc6d1e9fc.jpeg/full/!250,/0/default)  
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fcae4ace5c8cce80f8c4e06fe281c42dbc6d1e9fc%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)  
 
 God invites all to come unto Christ and participate in His work of salvation and exaltation by:
 
@@ -102,21 +102,29 @@ Elders quorums meet on Sundays for the following purposes:
 
 * Strengthen families and homes.
 
-* Make plans to assist God in His work of salvation and exaltation.
+* Coordinate efforts to assist God in His work of salvation and exaltation in the ward.
 
 Meetings are held on the second and fourth Sundays of the month. They last 50 minutes. The elders quorum presidency plans these meetings. A member of the presidency conducts.
 
-The meeting begins with prayer. A presidency member then conducts any quorum business. For example, the quorum may counsel together about aspects of participating in God’s work of salvation and exaltation. Sufficient time should then be given to meaningful gospel instruction and discussion.
+The meeting begins with prayer. Then a member of the presidency leads the quorum members in counseling together for five to ten minutes about relevant challenges, needs, and opportunities. Focusing on the Savior in this counseling will help quorum members build testimonies, receive temple ordinances, keep covenants, and increase discipleship. The elders quorum presidency selects topics to counsel about based on the needs of the quorum members.
 
-Quorum meetings focus on topics in one or more talks from the most recent general conference. The elders quorum presidency prayerfully selects messages to discuss based on members’ needs. Hymns may be sung to enhance a lesson. Meetings should end with a prayer.
+Sufficient time should then be given to meaningful gospel instruction and discussion. The focus should be on topics in one or more talks from the most recent general conference. The elders quorum presidency prayerfully selects conference messages for quorum members to discuss. They make these selections based on members’ needs.
+
+Hymns may be sung to enhance a lesson.
+
+Meetings should end with a prayer.
+
+The elders quorum and Relief Society may occasionally combine for a Sunday lesson. These meetings are coordinated by the bishopric and the elders quorum and Relief Society presidencies.
+
+For more information, see “[To Sit in Council](https://www.churchofjesuschrist.org/callings/relief-society-organization/my-calling/to-sit-in-council).”
 
 8.2.1.3
 
 #### Activities
 
-Elders quorum presidencies may plan activities. These activities strengthen quorum members and give them opportunities to serve together. Most activities are held at times other than on Sundays or Monday evenings.
+Elders quorum presidencies may plan activities. The president oversees activities. He may ask a counselor or another quorum member to take the lead in planning and carrying them out (see [8.3.5](/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number35-p283#title_number35)). Presidencies discuss activities with the bishop as part of their planning.
 
-The elders quorum president oversees these activities. He may ask a counselor or another quorum member to take the lead in planning and carrying them out (see [8.3.5](/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number35-p283#title_number35)). Presidencies discuss activities with the bishop as part of their planning.
+Activities should strengthen quorum members’ desires to make and keep covenants and give them opportunities to gather and serve together. Activities should help accomplish the purposes of elders quorums (see [8.1](/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number2-p188#title_number2) and [8.1.1](/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number3-p180#title_number3)).
 
 8.2.2
 
@@ -124,7 +132,7 @@ The elders quorum president oversees these activities. He may ask a counselor or
 
 As followers of Jesus Christ, elders quorum members have a responsibility to reach out in love to those in need. Individually and as a quorum, they seek ways to serve others in the ward and community. Where it is available, [JustServe.org](http://www.justserve.org) suggests community service opportunities.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2F97%2F4e%2F974e9f17846aa514cea90aec8882cfa486d3363a%2F974e9f17846aa514cea90aec8882cfa486d3363a.jpeg/full/!250,/0/default)  
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F974e9f17846aa514cea90aec8882cfa486d3363a%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)  
 
 For more information about how members of the elders quorum and Relief Society care for those in need, see [22.6.2](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number52-p185#title_number52).
 
@@ -164,7 +172,7 @@ The elders quorum president, Relief Society president, or another leader helps t
 
 When a ward member dies, elders quorum and Relief Society presidencies offer comfort and assistance. Under the bishop’s guidance, they can help with the funeral.
 
-If possible, deceased members who were endowed are buried or cremated in temple clothing. The body of a man may be dressed by his wife or by an endowed male family member. If a family member is not available or would prefer not to do the dressing, the bishop may ask the elders quorum president to invite an endowed man to dress the body or oversee the dressing. For more information, see [38.5.8](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number237-p2466#title_number237).
+If possible, deceased members who were endowed are buried or cremated in temple clothing. The body of a man may be dressed by his wife or by an endowed male family member. If a family member is not available or would prefer not to do the dressing, the bishop may ask the elders quorum president to invite an endowed man to dress the body or oversee the dressing. For more information, see [38.5.10](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number237-p2466#title_number237).
 
 Elders quorum and Relief Society presidencies, ministering brothers and sisters, and others continue to offer comfort and assistance after the funeral.
 
@@ -204,7 +212,7 @@ This member of the elders quorum presidency may fulfill the role of the ward tem
 
 The ward temple and family history leader, who may be a member of the elders quorum presidency, leads temple and family history coordination meetings (see [25.2.7](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number13-p72#title_number13)). These meetings are held regularly. They also include the assigned member of the Relief Society presidency, an assistant in the priests quorum, a presidency member of the oldest Young Women class, and temple and family history consultants.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2F88%2F69%2F886999708076dbf09ad533958c83f683c1dc7440%2F886999708076dbf09ad533958c83f683c1dc7440.jpeg/full/!250,/0/default)  
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F886999708076dbf09ad533958c83f683c1dc7440%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)  
 
 ![]()  Imagemen looking at picture
 
@@ -260,7 +268,7 @@ The elders quorum president has the following responsibilities. His counselors a
 
 * Organize and oversee the service of ministering brothers. Coordinate ministering assignments with the Relief Society presidency, meeting at least quarterly. Seek the bishop’s approval for ministering assignments. Hold ministering interviews at least quarterly. See [chapter 21](/study/manual/general-handbook/21-ministering?lang=eng).
 
-* Under the bishop’s guidance, counsel with adult members of the ward. Only the bishop counsels ward members about matters of worthiness, abuse, and approval to use fast-offering funds. See [Counseling Resources](/study/manual/counseling-resources?lang=eng).
+* Under the bishop’s guidance, counsel with adult members of the ward (see [31.1](/study/manual/general-handbook/31?lang=eng&id=title_number2-p92#title_number2) and [31.3](/study/manual/general-handbook/31?lang=eng&id=title_number20-p254#title_number20)). Only the bishop counsels ward members about matters of worthiness, abuse, and approval to use fast-offering funds. See [Counseling Resources](/study/manual/counseling-resources?lang=eng). For information about abuse, see [38.6.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number92-p323#title_number92).
 
 * With the Relief Society presidency, help lead efforts in the ward to invite all to receive the blessings of the gospel (see [8.2.3](/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number128-p228#title_number128) and [9.2.3](/study/manual/general-handbook/9-relief-society?lang=eng&id=title_number10-p163#title_number10)). Oversee the ward mission leader if one is called.
 
@@ -270,7 +278,9 @@ The elders quorum president has the following responsibilities. His counselors a
 
 * Meet with each quorum member individually at least once a year. Discuss priesthood duties and the well-being of the member and his family.
 
-* Teach quorum members their priesthood duties (see [Doctrine and Covenants 107:89](/study/scriptures/dc-testament/dc/107?lang=eng&id=p89#p89)). This includes teaching them how to exercise their priesthood in performing ordinances and blessings.
+* Teach quorum members their priesthood duties (see [Doctrine and Covenants 107:89](/study/scriptures/dc-testament/dc/107?lang=eng&id=p89#p89)). This includes teaching them how to exercise the priesthood in performing ordinances and blessings.
+
+* Help quorum members understand the power, protection, direction, joy, and peace that come from developing a covenant relationship with Heavenly Father and Jesus Christ.
 
 * Oversee and help improve teaching in the quorum (see [chapter 17](/study/manual/general-handbook/17-teaching-the-gospel?lang=eng)).
 
