@@ -44,9 +44,9 @@ In this chapter:
 
 * “Single members” refers to all adult members of the Church who are not currently married.
 
-* “Young single adults” refers to those ages 18–30.
+* “Young single adults” refers to those ages 18–35.
 
-* “Single adults” refers to those ages 31 and older.
+* “Single adults” refers to those ages 36 and older.
 
 14.1
 
@@ -90,7 +90,7 @@ The stake presidency may also create a single adult committee. It is made up of 
 
 If there are not enough single adults to form a committee in a stake, a group of neighboring stakes may create a committee with the approval of the Area Presidency.
 
-Committees seek to support members through friendship and opportunities to participate in the work of salvation and exaltation (see [14.2](/study/manual/general-handbook/14-single-members?lang=eng&id=title_number12-p90#title_number12)). They plan opportunities for gospel learning and for service and activities.
+Committees seek to support members through friendship and opportunities to participate in God’s work of salvation and exaltation (see [14.2](/study/manual/general-handbook/14-single-members?lang=eng&id=title_number12-p90#title_number12)). They plan opportunities for gospel learning and for service and activities.
 
 The committees meet as needed. The assigned member of the stake presidency and stake Relief Society presidency and the assigned high councilor may attend these meetings to provide support.
 
@@ -114,7 +114,7 @@ Generally, the bishopric supports single members as they support all members of 
 
 * The bishopric receives regular updates on the well-being of young single adults. The elders quorum president and Relief Society president discuss the needs of young single adults in ward council meeting. The leaders of the young single adult committee may be invited to attend.
 
-* The bishopric may organize a ward young single adult committee (see [14.1.2.4](/study/manual/general-handbook/14-single-members?lang=eng&id=title_number11-p47#title_number11)). (Single adult committees for those ages 31 and older are organized at the stake level.)
+* The bishopric may organize a ward young single adult committee (see [14.1.2.4](/study/manual/general-handbook/14-single-members?lang=eng&id=title_number11-p47#title_number11)). (Single adult committees for those ages 36 and older are organized at the stake level.)
 
 14.1.2.2
 
@@ -294,11 +294,17 @@ As individuals and as groups, single members can help unite families for eternit
 
 Most single members attend geographic wards. As an exception, where many single members live in close proximity, priesthood leaders may recommend creating the following units. These units must meet the criteria in [chapter 37](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng).
 
-* A young single adult ward for those ages 18–30 (see [37.2](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng&id=title_number5-p29#title_number5))
+* A young single adult ward for those ages 18–35 (see [37.2](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng&id=title_number5-p29#title_number5))
 
-* A young single adult stake for those ages 18–30 (see [37.3](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng&id=title_number8-p46#title_number8))
+* A young single adult stake for those ages 18–35 (see [37.3](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng&id=title_number8-p46#title_number8))
 
-* A single adult ward for those ages 31–45 (see [37.5](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng&id=title_number14-p62#title_number14))
+* A single adult ward for those ages 36–45 (see [37.5](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng&id=title_number14-p62#title_number14))
+
+In areas with large numbers of young single adults, priesthood leaders may recommend creating:
+
+* A young single adult ward for those ages 18–25.
+
+* A young single adult ward for those ages 26–35.
 
 These units use the regular program of the Church as much as possible. They follow the instructions in this handbook.
 
@@ -308,7 +314,7 @@ Membership in a young single adult ward or a single adult ward is temporary:
 
 * When a single member marries, he or she becomes a member of a geographic ward.
 
-* When a member of a young single adult ward reaches age 31, he or she becomes a member of a single adult ward (if one exists where he or she lives) or a geographic ward.
+* When a member of a young single adult ward reaches age 36, he or she becomes a member of a single adult ward (if one exists where he or she lives) or a geographic ward.
 
 * When a member of a single adult ward reaches age 46, he or she becomes a member of a geographic ward.
 
