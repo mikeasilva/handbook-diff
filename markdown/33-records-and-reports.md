@@ -128,6 +128,8 @@ Other record-keeping duties may include:
 
 * Maintaining financial records (see [34.1.2](/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number67-p230#title_number67)).
 
+* Organizing and coordinating the collection of stories for the unit history. A stake history specialist may be called to assist. (See [33.7.1](/study/manual/general-handbook/33-records-and-reports?lang=eng&id=title_number66-p171#title_number66).)
+
 33.3.2.2
 
 #### Review of Ward Records and Reports
@@ -140,9 +142,9 @@ The stake clerk meets with each new ward clerk soon after he is called. He meets
 
 * Certificates of blessing, baptism and confirmation, and priesthood ordination are given to ward members.
 
-* The annual membership record audit is conducted and all audit exceptions are promptly corrected (see [33.6.19](/study/manual/general-handbook/33-records-and-reports?lang=eng&id=title_number43-p145#title_number43)).
+* The semiannual membership record audit is conducted and all audit exceptions are promptly corrected (see [33.6.19](/study/manual/general-handbook/33-records-and-reports?lang=eng&id=title_number43-p145#title_number43)).
 
-* The ward’s annual history is submitted to the stake at the end of each year (see [33.7](/study/manual/general-handbook/33-records-and-reports?lang=eng&id=title_number44-p177#title_number44)).
+* Ward clerks organize and coordinate the collection of stories for the unit history. If ward history specialists are called, they assist. (See [33.7.1](/study/manual/general-handbook/33-records-and-reports?lang=eng&id=title_number66-p171#title_number66).)
 
 33.3.2.3
 
@@ -472,9 +474,9 @@ See [24.6.2.8](/study/manual/general-handbook/24?lang=eng&id=title_number41-p186
 
 ### Records of Young Single Adults
 
-Young single adults between the ages of 18 and 30 may choose to be members of either their geographic ward or a YSA ward if one is assigned to the boundaries where they live. The membership record is kept in the ward they attend.
+Young single adults between the ages of 18 and 35 may choose to be members of either their geographic ward or a young single adult ward if one is assigned to the boundaries where they live. The membership record is kept in the ward they attend.
 
-These principles also apply to single adults between the ages of 31 and 45 who choose to be members of a single adult ward.
+These principles also apply to single adults between the ages of 36 and 45 who choose to be members of a single adult ward.
 
 If a young single adult plans to attend a ward temporarily (for example, while attending school), the membership record is kept in the ward he or she attends. With the member’s permission, the clerk of the ward where the member’s family lives may create an out-of-unit record for him or her (see [33.6.5](/study/manual/general-handbook/33-records-and-reports?lang=eng&id=title_number24-p347#title_number24)).
 
@@ -566,7 +568,7 @@ See [33.6](/study/manual/general-handbook/33-records-and-reports?lang=eng&id=tit
 
 ### Audits of Membership Records
 
-Each year the stake clerk or an assistant stake clerk ensures that an [audit of membership records](http://churchofjesuschrist.org/help/support/membership-record-audit) is conducted in each ward using [LCR](https://lcr.churchofjesuschrist.org/records/mbr-audit/summary). The stake president may call others who are experienced in membership record keeping to assist with these audits. Audits should be completed by June 30 of each year.
+Twice each year the stake clerk or an assistant stake clerk ensures that an [audit of membership records](http://churchofjesuschrist.org/help/support/membership-record-audit) is conducted in each ward using [LCR](https://lcr.churchofjesuschrist.org/records/mbr-audit/summary). The stake president may call others who are experienced in membership record keeping to assist with these audits. Audits should be completed by June 15 and December 15 of each year.
 
 33.7
 
