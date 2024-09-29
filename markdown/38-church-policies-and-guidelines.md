@@ -2966,7 +2966,7 @@ The military service orientation helps members entering and serving in the milit
 
 A member of the stake presidency or bishopric calls a military service instructor to provide the orientation. Preferably this instructor has had recent military experience. If a qualified instructor is not available, the stake president or bishop contacts the Military Relations and Chaplain Services Division for guidance.
 
-For more information, see the “Military Service Orientation” section in the [Church’s Military Members page](https://www.churchofjesuschrist.org/ callings/military-and-chaplain/military).
+For more information, see the “Military Service Orientation” section in the [Church’s Military Members page](https://www.churchofjesuschrist.org/callings/military-and-chaplain/military).
 
 38.9.4
 
