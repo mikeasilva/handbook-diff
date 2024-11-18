@@ -2,7 +2,7 @@
 
 “32. Repentance and Church Membership Councils,” General Handbook.
 
-![]()  Imagemen talking
+![men talking](https://www.churchofjesuschrist.org/imgs/e1f218dc4b2b11eda5dbeeeeac1e78ab5f2783bb/full/%21100%2C/0/default)
 
 32.
 
@@ -122,7 +122,7 @@ The Role of Judges in Israel
 
 ----------------------------
 
-![]()  Imagebishop talking to man
+![bishop talking to man](https://www.churchofjesuschrist.org/imgs/2092d30b4b3011edb66ceeeeac1e4bfc5b538be8/full/%21500%2C/0/default)
 
 Bishops and stake presidents are called and set apart to be judges in Israel (see [Doctrine and Covenants 107:72–74](/study/scriptures/dc-testament/dc/107?lang=eng&id=p72-p74#p72)). They hold priesthood keys to represent the Lord in helping Church members repent (see [Doctrine and Covenants 13:1](/study/scriptures/dc-testament/dc/13?lang=eng&id=p1#p1); [107:16–18](/study/scriptures/dc-testament/dc/107?lang=eng&id=p16-p18#p16)).
 
@@ -150,7 +150,7 @@ Helping someone repent, turn back to God, and be healed through the Atonement of
 
 “And how great is his joy in the soul that repenteth!”
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2F34%2F79%2F3479b96d622d064fa0a78b903451db54cea7ee33%2F3479b96d622d064fa0a78b903451db54cea7ee33.jpeg/full/!250,/0/default)  
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F3479b96d622d064fa0a78b903451db54cea7ee33%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  6:18
 
 32.4
 
@@ -832,7 +832,7 @@ Spiritual guidance is needed to discern whether a person has sincerely repented.
 
 * Willingness to follow the counsel of Church leaders.
 
-![]()  Imagewoman praying
+![woman praying](https://www.churchofjesuschrist.org/imgs/14447eab4b3011ed8648eeeeac1e4c2e7f928f44/full/%21500%2C/0/default)
 
 32.7.4
 
@@ -954,7 +954,7 @@ With the member’s consent, a bishop or stake president may assign members of t
 
 When assigning someone to assist with follow-up counseling, the leader gives only enough information necessary to help the member. The assigned person must maintain confidentiality. He or she also informs the bishop of the member’s progress and needs.
 
-![]()  Imagewoman praying
+![woman praying](https://www.churchofjesuschrist.org/imgs/148b72c44b3011eda531eeeeac1ecaeed522e0e3/full/%21500%2C/0/default)
 
 32.8.2
 
@@ -1258,7 +1258,7 @@ Possible decisions from membership councils are outlined in the following sectio
 
 In some instances, a person may be innocent and remains in good standing. In some instances, a person may have committed the sin, repented sincerely, and be in good standing. The bishop or stake president may give counsel and caution about future actions. After the council, he continues to give support as needed.
 
-![]()  Imagecouple sitting together
+![couple sitting together](https://www.churchofjesuschrist.org/imgs/19e1df734b3011eda1beeeeeac1e292804ad4d42/full/%21500%2C/0/default)
 
 32.11.2
 
@@ -1740,7 +1740,7 @@ If the person engaged in any of the conduct in [32.16.1, number 9](/study/manua
 
 A person who requests readmission must meet the same qualifications as others who are baptized. When the bishop or stake president is satisfied that the person is worthy and sincere in wanting to be readmitted, the person may be baptized and confirmed. A Baptism and Confirmation Certificate is not created (see [32.14.4](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number83-p356#title_number83)).
 
-![]()  Imageman taking the sacrament
+![man taking the sacrament](https://www.churchofjesuschrist.org/imgs/018ee9db4b3011edbc2aeeeeac1e532e455c9bdc/full/%21500%2C/0/default)
 
 32.17
 

@@ -2,7 +2,7 @@
 
 “20. Activities,” General Handbook.
 
-![]()  Imageyoung woman with water blaster
+![young woman with water blaster](https://www.churchofjesuschrist.org/imgs/e4e3ba8c4b2b11eda39feeeeac1e8f756c61f9eb/full/%21100%2C/0/default)
 
 20.
 
@@ -114,7 +114,7 @@ Service activities should follow safety guidelines (see [20.7.6.1](/study/manual
 
 Cultural arts activities provide opportunities for members to develop and share their talents. These activities also nurture creativity, confidence, and cooperation. They could include arts and crafts displays, talent shows, or dance, music, and drama. They could also include celebrations of culture, holidays, or local or general Church history.
 
-![]()  Imagewoman sewing
+![woman sewing](https://www.churchofjesuschrist.org/imgs/0e07a9a14b3011edb5aeeeeeac1e7d2aee560ad7/full/%21500%2C/0/default)
 
 20.2.4.3
 
@@ -226,7 +226,7 @@ Funding for most multistake activities comes from the budget funds of the partic
 
 Stake, multistake, and area activities should comply with Church travel policies (see [20.7.7](/study/manual/general-handbook/20-activities?lang=eng&id=title_number57-p290#title_number57)). Travel for FSY conferences should comply with Church travel policies unless an FSY administrator gives local leaders other instructions.
 
-![]()  Imagepeople talking
+![people talking](https://www.churchofjesuschrist.org/imgs/0df1627d4b3011ed9883eeeeac1e083928163048/full/%21500%2C/0/default)
 
 20.4
 
@@ -380,7 +380,7 @@ If team uniforms are used, they should be simple, inexpensive, and appropriate f
 
 The presentation of team or individual awards or trophies is discouraged.
 
-![]()  Imagemen playing soccer
+![men playing soccer](https://www.churchofjesuschrist.org/imgs/084caebc4b3011eda811eeeeac1e1412f9a0db5e/full/%21500%2C/0/default)
 
 20.5.10
 
@@ -602,7 +602,7 @@ Leaders instruct all participants in safety practices for the activity. When act
 
 Leaders should be prepared for emergencies. They should also know in advance how to contact local law enforcement and emergency services. For more information, see “[FAQs—What Should I Do?](https://www.churchofjesuschrist.org/callings/church-safety-and-health/faqs-what-should-i-do)” on ChurchofJesusChrist.org.
 
-![]()  Imagegroup digging in ground
+![group digging in ground](https://www.churchofjesuschrist.org/imgs/081b8c9c4b3011eda3b9eeeeac1e4a1bedffde95/full/%21500%2C/0/default)
 
 20.7.6.2
 

@@ -2,7 +2,7 @@
 
 “25. Temple and Family History Work in the Ward and Stake,” General Handbook.
 
-![]()  Imagetemple
+![temple](https://www.churchofjesuschrist.org/imgs/e6e09bfa4b2b11ed997deeeeac1e384c326fbc0c/full/%21100%2C/0/default)
 
 25.
 
@@ -26,7 +26,7 @@ Uniting families for eternity is part of God’s work of salvation and exaltatio
 
 * Going to the house of the Lord regularly, where possible, to worship God and perform ordinances for our ancestors (see [Luke 24:52–53](/study/scriptures/nt/luke/24?lang=eng&id=p52-p53#p52); [Doctrine and Covenants 109:13–14](/study/scriptures/dc-testament/dc/109?lang=eng&id=p13-p14#p13)).
 
-This chapter guides Church leaders and members on how to unite families for eternity through temple and family history work. More information is available at “[Temples](/study/manual/gospel-topics/temples?lang=eng),” “[Proxy Baptism](/study/manual/gospel-topics/proxy-baptism?lang=eng),” and “[Family History](/study/manual/gospel-topics/family-history?lang=eng)” (Topics and Questions, Gospel Library).
+This chapter guides Church leaders and members on how to unite families for eternity through temple and family history work. More information is available at “[Temples](/study/manual/gospel-topics/temples?lang=eng),” “Proxy Baptism,” and “[Family History](/study/manual/gospel-topics/family-history?lang=eng)” (Topics and Questions, Gospel Library).
 
 25.1
 
@@ -104,7 +104,7 @@ The bishopric also has the following additional responsibilities for temple and 
 
 * Issue temple recommends (see [chapter 26](/study/manual/general-handbook/26-temple-recommends?lang=eng)).
 
-[![]()](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  The bishopric consults with the stake president to determine whether to call a ward temple and family history leader (see [25.2.3](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number9-p46#title_number9) for more information).
+[![icon, guidelines for adaptation](https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) The bishopric consults with the stake president to determine whether to call a ward temple and family history leader (see [25.2.3](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number9-p46#title_number9) for more information).
 
 25.2.2
 
@@ -124,11 +124,11 @@ These leaders have the following additional responsibilities:
 
 The elders quorum and Relief Society presidents each assign a presidency member to help lead temple and family history work in the ward. These two presidency members work together. They attend ward temple and family history coordination meetings (see [25.2.7](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number13-p72#title_number13)).
 
-![]()  Imageyouth outside temple
+![youth outside temple](https://www.churchofjesuschrist.org/imgs/1a206f154b3011eda531eeeeac1ecaeef43b20f4/full/%21500%2C/0/default)
 
 25.2.3
 
-### [Imageicon, guidelines for adaptation](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Ward Temple and Family History Leader
+### [icon, guidelines for adaptation](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Ward Temple and Family History Leader
 
 The bishopric consults with the stake president to determine whether to call a ward temple and family history leader. If they decide to extend this calling, the bishopric counsels with the elders quorum and Relief Society presidents in determining whom to call. This person should be a Melchizedek Priesthood holder. If this leader is not called, a member of the elders quorum presidency fills this role.
 
@@ -146,7 +146,7 @@ The ward temple and family history leader supports the elders quorum and Relief 
 
 * Work with the ward mission leader and the missionaries to help those learning the gospel, new members, and returning members engage in temple and family history work (see [23.2](/study/manual/general-handbook/23?lang=eng&id=title_number7-p31#title_number7) and [23.3](/study/manual/general-handbook/23?lang=eng&id=title_number8-p33#title_number8)).
 
-* [![]()](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  Where applicable, assign ward temple and family history consultants to serve in the FamilySearch center (see [25.3.6](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number20-p104#title_number20)).
+* [![icon, guidelines for adaptation](https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Where applicable, assign ward temple and family history consultants to serve in the FamilySearch center (see [25.3.6](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number20-p104#title_number20)).
 
 25.2.4
 
@@ -202,7 +202,7 @@ The ward temple and family history plan should not establish quotas or reporting
 
 The bishop reviews and approves the plan. Members of the ward council take the lead in implementing it. They report on progress in ward council meetings. They also update the plan as needed.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F886999708076dbf09ad533958c83f683c1dc7440%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)  
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F886999708076dbf09ad533958c83f683c1dc7440%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  2:49
 
 25.2.7
 
@@ -272,7 +272,7 @@ The stake president holds the keys for God’s work of salvation and exaltation 
 
 * Conduct temple recommend interviews (see [chapter 26](/study/manual/general-handbook/26-temple-recommends?lang=eng)).
 
-In his regular meeting with each elders quorum president, a member of the stake presidency discusses temple and family history work in the ward (see [8.3.1](/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number9-p25#title_number9)). [![]()](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  The counselors in the elders quorum presidency and the high councilor assigned to the quorum may attend.
+In his regular meeting with each elders quorum president, a member of the stake presidency discusses temple and family history work in the ward (see [8.3.1](/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number9-p25#title_number9)). [![icon, optional resources](https://www.churchofjesuschrist.org/imgs/eb9f42669cb91222bcb4f3e6f13a40b7e87b167e/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) The counselors in the elders quorum presidency and the high councilor assigned to the quorum may attend.
 
 25.3.2
 
@@ -318,7 +318,7 @@ Under the direction of the stake president, the stake Relief Society presidency 
 
 25.3.5
 
-### [Imageicon, guidelines for adaptation](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Stake Temple and Family History Consultants
+### [icon, guidelines for adaptation](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Stake Temple and Family History Consultants
 
 Stake temple and family history consultants support temple and family history work throughout the stake. They serve under the direction of the stake presidency and one or more high councilors assigned to temple and family history work.
 
@@ -332,7 +332,7 @@ These consultants support high councilors and the stake Relief Society presidenc
 
 25.3.6
 
-### [Imageicon, guidelines for adaptation](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) FamilySearch Centers
+### [icon, guidelines for adaptation](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) FamilySearch Centers
 
 If resources are available, the stake may organize one or more FamilySearch centers. These centers are to help visitors discover, gather information about, and unite both living and deceased family members through temple ordinances. Anyone is welcome to use these centers.
 
@@ -408,7 +408,7 @@ The site also provides additional resources. These include discovering, sharing,
 
 These resources are also available in the [FamilySearch Family Tree app](http://www.familysearch.org/blog/en/mobile) and [FamilySearch Memories app](http://www.familysearch.org/blog/en/mobile). See [FamilySearch apps](https://www.familysearch.org/en/blog/familysearch-mobile-apps) for all available apps.
 
-![]()  Imagefamily looking at photos
+![family looking at photos](https://www.churchofjesuschrist.org/imgs/016cbbdb4b3011edbf70eeeeac1eec566d069212/full/%21500%2C/0/default)
 
 25.4.2
 

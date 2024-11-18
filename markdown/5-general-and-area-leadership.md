@@ -2,7 +2,7 @@
 
 “5. General and Area Leadership,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints.
 
-![]()  ImageFirst Presidency
+![First Presidency](https://www.churchofjesuschrist.org/imgs/7e40e91429b411efbaabeeeeac1e7fbecb946192/full/%21100%2C/0/default)
 
 5.
 

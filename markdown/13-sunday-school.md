@@ -2,7 +2,7 @@
 
 “13. Sunday School,” General Handbook.
 
-![]()  Imagefamily reading scriptures
+![family reading scriptures](https://www.churchofjesuschrist.org/imgs/e97550974b2b11edb66ceeeeac1e4bfc3850015d/full/%21100%2C/0/default)
 
 13.
 
@@ -50,7 +50,7 @@ The bishop calls and sets apart a Melchizedek Priesthood holder to be the ward S
 
 A member of the bishopric presents Sunday School presidency members in sacrament meeting for sustaining by ward members. A member of the bishopric also sets them apart.
 
-[![]()](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  In a large ward, the bishopric may call and set apart a man to be the Sunday School secretary. The Sunday School president may recommend whom to call. The secretary can help the presidency keep track of assignments or attendance if desired.
+[![icon, guidelines for adaptation](https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) In a large ward, the bishopric may call and set apart a man to be the Sunday School secretary. The Sunday School president may recommend whom to call. The secretary can help the presidency keep track of assignments or attendance if desired.
 
 13.2.2.2
 
@@ -66,7 +66,7 @@ The Sunday School president has the following responsibilities. If he has counse
 
 * Support, encourage, and instruct Sunday School teachers. Help them become more effective gospel teachers by following the principles in the scriptures and [Teaching in the Savior’s Way](/study/manual/teaching-in-the-saviors-way-2022?lang=eng). Encourage them to study [Teaching in the Savior’s Way](/study/manual/teaching-in-the-saviors-way-2022?lang=eng).
 
-* Lead teacher council meetings as guided by the bishop (see Teaching in the Savior’s Way, [38–39](/study/manual/teaching-in-the-saviors-way-2022/12-part-3/16-helping-teachers-succeed?lang=eng)).
+* Lead teacher council meetings as guided by the bishop (see Teaching in the Savior’s Way, 38–39).
 
 * Encourage teachers to reach out to members who do not attend classes.
 
@@ -104,7 +104,7 @@ At least two responsible adults should be present in each youth class. The adult
 
 All adults who work with youth must complete the children and youth protection training within one month of being sustained ([ProtectingChildren.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/callings/church-safety-and-health/protecting-children-and-youth)). They repeat the training every three years thereafter.
 
-![]()  Imageyouth Sunday School class
+![youth Sunday School class](https://www.churchofjesuschrist.org/imgs/08071a3e4b3011edb733eeeeac1e55b8e7450974/full/%21500%2C/0/default)
 
 13.3.1
 
@@ -134,13 +134,13 @@ Improving Learning and Teaching in the Ward
 
 -------------------------------------------
 
-Ward leaders are responsible for improving learning and teaching in their organizations. This includes orienting newly called teachers (see Teaching in the Savior’s Way, [40](/study/manual/teaching-in-the-saviors-way-2022/12-part-3/16-helping-teachers-succeed?lang=eng&id=title8-p24#title8)). They can ask the ward Sunday School president for help if needed.
+Ward leaders are responsible for improving learning and teaching in their organizations. This includes orienting newly called teachers (see Teaching in the Savior’s Way, 40). They can ask the ward Sunday School president for help if needed.
 
 Teacher council meetings are held quarterly during the 50-minute class time on Sunday (see [17.4](/study/manual/general-handbook/17-teaching-the-gospel?lang=eng&id=title_number41-p163#title_number41)). Their purpose is to help improve learning and teaching. [Teaching in the Savior’s Way](/study/manual/teaching-in-the-saviors-way-2022?lang=eng) is the main resource for these meetings.
 
 The ward council oversees and schedules teacher council meetings. A member of the Sunday School presidency usually leads the meetings. However, the bishopric may ask another member to lead them.
 
-For more information, see “[For Leaders—Helping Teachers Succeed](/study/manual/teaching-in-the-saviors-way-2022/12-part-3/16-helping-teachers-succeed?lang=eng)” in Teaching in the Savior’s Way (pages 38–40).
+For more information, see “For Leaders—Helping Teachers Succeed” in Teaching in the Savior’s Way (pages 38–40).
 
 13.5
 
@@ -154,7 +154,7 @@ The ward council may organize teacher council meetings for parents during the 50
 
 For more information about teacher council meetings for parents, see [17.5](/study/manual/general-handbook/17-teaching-the-gospel?lang=eng&id=title_number46-p168#title_number46).
 
-![]()  Imageadult Sunday School class
+![adult Sunday School class](https://www.churchofjesuschrist.org/imgs/18b630b24b3011eda1beeeeeac1e2928112e36b1/full/%21500%2C/0/default)
 
 13.6
 

@@ -2,7 +2,7 @@
 
 “15. Seminaries and Institutes of Religion,” General Handbook.
 
-![]()  Imageyoung woman raising her hand in class
+![young woman raising her hand in class](https://www.churchofjesuschrist.org/imgs/e6e4457f4b2b11edb5aeeeeeac1e7d2a2e2a0ed1/full/%21100%2C/0/default)
 
 15.
 
@@ -68,7 +68,7 @@ Seminary teachers should not provide activities outside of normal class time or 
 
 Seminary students can learn more effectively and deepen their conversion if they regularly attend class, participate, and study the scriptures outside of class. As they do these things, they also earn seminary credit each year and can graduate from seminary.
 
-[![]()](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  Some students may have difficulty earning seminary credit due to reading challenges or other reasons. The teacher may adapt the requirements to the needs of these students. The S&I representative can request adaptations for an entire program. These adaptations require approval from S&I administration.
+[![icon, guidelines for adaptation](https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Some students may have difficulty earning seminary credit due to reading challenges or other reasons. The teacher may adapt the requirements to the needs of these students. The S&I representative can request adaptations for an entire program. These adaptations require approval from S&I administration.
 
 To graduate from seminary, a student must earn four years of credit and receive an ecclesiastical endorsement from a bishopric member. This endorsement verifies that a student is worthy and committed to living the standards of the gospel.
 
@@ -76,15 +76,15 @@ Each year the stake holds a seminary graduation. This event is planned by a stak
 
 15.1.5
 
-### [Imageicon, guidelines for adaptation](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Released-Time Seminary
+### [icon, guidelines for adaptation](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Released-Time Seminary
 
 In some areas of the United States and Canada, local laws allow students to leave school and attend seminary during school hours. The Church Board of Education approves where this type of seminary is used. For more information, see [Released-Time Seminary](http://www.churchofjesuschrist.org/si/leader-resources/released-time-seminary) on ChurchofJesusChrist.org.
 
 15.2
 
-[Imageicon, optional resources](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Institute
+[icon, optional resources](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Institute
 
------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------
 
 Institute provides weekday gospel study classes that strengthen faith and testimony in Jesus Christ and His restored gospel. Stake leaders ensure that institute is available for all young single adults ages 18–35.
 
@@ -106,13 +106,13 @@ See [Stake Institute](http://www.churchofjesuschrist.org/si/leader-resources/sta
 
 Stake presidencies may desire to provide religion classes for adults ages 36 years and older. These classes are not a function of S&I and are not called institute classes. However, institute curriculum materials may be used for them.
 
-![]()  Imagewomen taking notes in a class
+![women taking notes in a class](https://www.churchofjesuschrist.org/imgs/193cc5d24b3011ed805deeeeac1ecff80d0cefb1/full/%21500%2C/0/default)
 
 15.3
 
-[Imageicon, optional resources](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Church Schools and Church Educational System
+[icon, optional resources](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Church Schools and Church Educational System
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 For information on Church primary and secondary schools, BYU–Pathway Worldwide, and institutions of higher education, see [CES.ChurchofJesusChrist.org](https://ces.churchofjesuschrist.org). Information about completing ecclesiastical endorsements for students to attend these schools is also provided there.
 

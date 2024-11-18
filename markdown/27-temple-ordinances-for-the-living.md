@@ -2,7 +2,7 @@
 
 “27. Temple Ordinances for the Living,” General Handbook.
 
-![]()  Imagebride and groom
+![bride and groom](https://www.churchofjesuschrist.org/imgs/e96d133c4b2b11ed936eeeeeac1e62c428e4ad33/full/%21100%2C/0/default)
 
 27.
 
@@ -54,7 +54,7 @@ Members meet with their bishop and stake president to obtain a recommend for liv
 
 For information about issuing temple recommends in these circumstances, see [26.1](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number3-p8#title_number3) and [26.3.1](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number10-p38#title_number10).
 
-![]()  Imagechildren in white clothing
+![children in white clothing](https://www.churchofjesuschrist.org/imgs/0dfa3c244b3011ed88eaeeeeac1e5721d6a29111/full/%21500%2C/0/default)
 
 27.1.2
 
@@ -250,7 +250,7 @@ Sealing of Husband and Wife
 
 Church leaders encourage members to prepare to be married and sealed in a temple. Where temple marriages are not legally recognized, authorized Church leaders or others can perform civil marriages that are followed by a temple sealing (see [38.3](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number59-p215#title_number59)). This pattern may also be followed when a temple marriage could cause parents or immediate family members to feel excluded because they cannot attend the temple ceremony.
 
-![]()  Imagefamily outside temple
+![family outside temple](https://www.churchofjesuschrist.org/imgs/07d8902a4b3011eda811eeeeac1e1412efeb5d00/full/%21500%2C/0/default)
 
 27.3.1
 
@@ -410,7 +410,7 @@ See [26.4.4](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=tit
 
 A couple who wants to have their children sealed to them, or children who desire to be sealed to their deceased parents, should contact the temple in advance to schedule the ordinance (see [27.1.2](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number5-p16#title_number5)). In some cases, other temple ordinances may need to be performed before the sealing can occur.
 
-![]()  Imageyoung men outside temple
+![young men outside temple](https://www.churchofjesuschrist.org/imgs/08165c7d4b3011edb286eeeeac1e260c3b7f4a19/full/%21500%2C/0/default)
 
 27.4.3
 

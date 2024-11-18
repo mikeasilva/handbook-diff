@@ -2,7 +2,7 @@
 
 “37. Specialized Stakes, Wards, and Branches,” General Handbook.
 
-![]()  Imagepeople eating outside
+![people eating outside](https://www.churchofjesuschrist.org/imgs/e4e4cbfd4b2b11ed8234eeeeac1e2c0ee1ed2604/full/%21100%2C/0/default)
 
 37.
 
@@ -72,7 +72,7 @@ The children and youth of a language unit may combine classes with a geographic 
 
 See [36.3](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&id=title_number4-p28#title_number4) for language branches in a mission. See [36.4.2](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&id=title_number7-p62#title_number7) for ward and branch naming guidelines.
 
-![]()  Imageyouth talking
+![youth talking](https://www.churchofjesuschrist.org/imgs/15abfdee4b3011edb134eeeeac1e1827ad8bcb9b/full/%21500%2C/0/default)
 
 37.1.1
 
@@ -366,7 +366,7 @@ See [36.3](/study/manual/general-handbook/36-creating-changing-and-naming-new-un
 
 See [36.4.2](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&id=title_number7-p62#title_number7) for ward and branch naming guidelines.
 
-![]()  Imagewomen smiling
+![women smiling](https://www.churchofjesuschrist.org/imgs/0dffe1724b3011edbce2eeeeac1e2cf266d4c112/full/%21500%2C/0/default)
 
 37.7
 

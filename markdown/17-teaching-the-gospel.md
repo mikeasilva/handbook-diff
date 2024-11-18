@@ -2,7 +2,7 @@
 
 “17. Teaching the Gospel,” General Handbook.
 
-![]()  Imagemother teaching son
+![mother teaching son](https://www.churchofjesuschrist.org/imgs/e98afb7f4b2b11eda732eeeeac1e7954feb9fcb6/full/%21100%2C/0/default)
 
 17.
 
@@ -22,7 +22,7 @@ When teaching the gospel, parents, teachers, and leaders follow the example of J
 
 Leaders share the following principles of Christlike teaching with teachers in their organizations. These principles are explained in more detail in [Teaching in the Savior’s Way](/study/manual/teaching-in-the-saviors-way-2022?lang=eng).
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2F57%2F3d%2F573d78fb7d816b538409e8789b50bf817e76b767%2F573d78fb7d816b538409e8789b50bf817e76b767.jpg/full/!250,/0/default)  
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F1a7e52bf8a60ea9de595821dd5b10f1bcb34ec7a%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  3:45
 
 17.1.1
 
@@ -30,7 +30,7 @@ Leaders share the following principles of Christlike teaching with teachers in t
 
 Everything the Savior does is an expression of His love (see [2 Nephi 26:24](/study/scriptures/bofm/2-ne/26?lang=eng&id=p24#p24)). Leaders and teachers follow His example by showing love for those they teach. They pray for those they teach by name, seek to connect with and understand them, and focus on individual needs. They reach out to members of their class or quorum who do not attend.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2F09%2Ff1%2F09f1f8c42ba0421a18df0297064bfb036034ca3f%2Fteaching_in_the_savior_s_way_collection_cover.jpeg/full/!250,/0/default)  
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F434a471fa5982d5554b66ef6425c9ce97c225795%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  3:20
 
 17.1.2
 
@@ -38,7 +38,7 @@ Everything the Savior does is an expression of His love (see [2 Nephi 26:24](/s
 
 To inspire people to have faith in Jesus Christ, teachers must teach by the Spirit. Teachers seek the Spirit’s guidance as they prepare and teach, and they strive to live worthy of His influence each day.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2Fd7%2Fc3%2Fd7c339909c4ef5aab6e5b45085421eb7dc18649f%2Fd7c339909c4ef5aab6e5b45085421eb7dc18649f.jpg/full/!250,/0/default)  
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F9bb70fa61e2cdbdad472f32b69b7b1989deb0d3a%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  3:47
 
 17.1.3
 
@@ -46,7 +46,7 @@ To inspire people to have faith in Jesus Christ, teachers must teach by the Spir
 
 The Savior taught His Father’s doctrine. Following the Savior’s example, teachers focus on the essential, saving truths of the gospel. They teach using the scriptures, the teachings of latter-day prophets, and approved curriculum materials. Teachers lead inspired discussions and ensure that their teaching is edifying and doctrinally sound. Approved materials are listed in the current [Instructions for Curriculum](/study/manual/instructions-for-curriculum-2021/instructions-for-curriculum-2021?lang=eng) on ChurchofJesusChrist.org.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2F4c%2Fc4%2F4cc42448edfdb78a84546d903a89826a230b940a%2F4cc42448edfdb78a84546d903a89826a230b940a.jpg/full/!250,/0/default)  
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Ff2041c274a6c24323dcd2eafb9d9b5340160d5ea%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  3:33
 
 17.1.4
 
@@ -64,7 +64,7 @@ To become converted to the Lord Jesus Christ, each member of the Church is respo
 
 Leaders and teachers encourage members to seek their own inspiration about how to study and teach the gospel. Their main resources should be the scriptures and general conference messages. Supporting resources can include [Come, Follow Me](/study/come-follow-me?lang=eng) and [Church magazines](/study/magazines?lang=eng).
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2F33%2Fa7%2F33a7ba2be7e697a9f5638ea06f5bc6c0f7d24f88%2F33a7ba2be7e697a9f5638ea06f5bc6c0f7d24f88.jpeg/full/!250,/0/default)  
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F33a7ba2be7e697a9f5638ea06f5bc6c0f7d24f88%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  3:35
 
 17.3
 
@@ -82,7 +82,7 @@ Leaders are responsible for teaching and learning in their organizations. Some o
 
 * As needed, recommend names to the bishopric of ward members to call as teachers in their organizations, following the guidelines in [30.1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number2-p16#title_number2).
 
-* Meet with newly called teachers and help them prepare for their callings (see Teaching in the Savior’s Way, [40](/study/manual/teaching-in-the-saviors-way-2022/12-part-3/16-helping-teachers-succeed?lang=eng)).
+* Meet with newly called teachers and help them prepare for their callings (see Teaching in the Savior’s Way, 40).
 
 * Give ongoing support to the teachers in their organizations. Talk to the teachers regularly about their efforts to build faith in the people they teach. If needed, ask the Sunday School president for help.
 
@@ -110,9 +110,9 @@ The Primary presidency counsels with a member of the bishopric to determine how 
 
 The ward council oversees and schedules teacher council meetings. A member of the Sunday School presidency usually leads the meetings. However, the bishopric may ask another member to lead them.
 
-For more information, see “[Teacher Council Meetings](/study/manual/teaching-in-the-saviors-way-2022/12-part-3/16-helping-teachers-succeed?lang=eng)” in Teaching in the Savior’s Way (pages 38–39).
+For more information, see “Teacher Council Meetings” in Teaching in the Savior’s Way (pages 38–39).
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2Fd8%2Fa7%2Fd8a7e637c347468a9315648b77e766e2e234579b%2Fd8a7e637c347468a9315648b77e766e2e234579b.jpg/full/!250,/0/default)  
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F0e4a0090ad9bafc2e4980ad0eef908bef8f4461f%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  6:7
 
 17.5
 
@@ -128,4 +128,4 @@ The ward council oversees and schedules teacher council meetings for parents. Th
 
 A member of the Sunday School presidency usually leads the meetings. However, the bishopric may ask another member to lead them.
 
-For more information, see “[Teacher Council Meetings](/study/manual/teaching-in-the-saviors-way-2022/12-part-3/16-helping-teachers-succeed?lang=eng&id=title3-figure1_p1#title3)” in Teaching in the Savior’s Way (pages 38–39).
+For more information, see “Teacher Council Meetings” in Teaching in the Savior’s Way (pages 38–39).

@@ -2,7 +2,7 @@
 
 “1. God’s Work of Salvation and Exaltation,” General Handbook.
 
-![]()  Imagemen building house
+![men building house](https://www.churchofjesuschrist.org/imgs/e2a478e84b2b11edbf70eeeeac1eec5658345640/full/%21100%2C/0/default)
 
 1.
 
@@ -78,7 +78,7 @@ Living the gospel of Jesus Christ includes:
 
 * Becoming self-reliant in providing for ourselves and our families, both spiritually and temporally.
 
-![]()  Imagesister missionaries teaching woman
+![sister missionaries teaching woman](https://www.churchofjesuschrist.org/imgs/ffd7c4004b2f11eda1beeeeeac1e2928a42fbf2b/full/%21500%2C/0/default)
 
 1.2.2
 
@@ -178,7 +178,7 @@ Through callings and assignments in the Church, God gives members opportunities 
 
 As a community of Saints, Church members gather regularly to worship God and to remember the Savior by partaking of the sacrament (see [Moroni 6:4–6](/study/scriptures/bofm/moro/6?lang=eng&id=p4-p6#p4); [Doctrine and Covenants 20:77](/study/scriptures/dc-testament/dc/20?lang=eng&id=p77#p77)). Members also care for and minister to one another (see [Ephesians 2:19](/study/scriptures/nt/eph/2?lang=eng&id=p19#p19)).
 
-![]()  Imagetemple, Tijuana Mexico
+![temple, Tijuana Mexico](https://www.churchofjesuschrist.org/imgs/140504aa4b3011edb66ceeeeac1e4bfcd1ff324a/full/%21500%2C/0/default)
 
 1.4
 

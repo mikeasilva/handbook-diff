@@ -2,7 +2,7 @@
 
 “30. Callings in the Church,” General Handbook.
 
-![]()  Imagepeople raising right hands
+![people raising right hands](https://www.churchofjesuschrist.org/imgs/e9899beb4b2b11eda3b9eeeeac1e4a1bd307f53a/full/%21100%2C/0/default)
 
 30.
 
@@ -94,7 +94,7 @@ Bishops and stake presidents carefully consider each recommendation, recognizing
 
 If a bishop or stake president feels inspired to call someone other than the person who was recommended, that does not mean the recommendation was not inspired. It may be that the bishop or stake president had information that was not available to those who made the recommendation.
 
-![]()  Imagewoman reading to child
+![woman reading to child](https://www.churchofjesuschrist.org/imgs/15e1db004b3011edb733eeeeac1e55b8286ad9fb/full/%21500%2C/0/default)
 
 30.2
 
@@ -166,7 +166,7 @@ Those who are called to most Church positions should be set apart. The Chart of 
 
 To set apart a member to a calling means to give him or her the authority to act in that calling (see [3.4.3.1](/study/manual/general-handbook/3-priesthood-principles?lang=eng&id=title_number13-p55#title_number13)). A setting apart also includes a blessing and promises guided by the Spirit. For more information, see [18.11](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number36-p174#title_number36).
 
-![]()  Imagewoman receiving priesthood blessing
+![woman receiving priesthood blessing](https://www.churchofjesuschrist.org/imgs/1f64652e4b3011eda69aeeeeac1e5ed7d99566ec/full/%21500%2C/0/default)
 
 30.5
 
@@ -778,7 +778,7 @@ Bishop or an assigned counselor |
 
 2. Active sealers in a temple should not be called to serve in bishoprics. Sealers are called under the direction of the President of the Church.
 
-![]()  ImageSunday school class
+![Sunday school class](https://www.churchofjesuschrist.org/imgs/5343ce71426411ecbd0feeeeac1efb1d95cbeed3/full/%21500%2C/0/default)
 
 30.8.2
 
@@ -1312,7 +1312,7 @@ In rare circumstances, a stake member may need to begin service before he or she
 
 3. The stake activities committee chair (if needed) and the stake building representative are assigned by the stake presidency from the high council. They are not called, sustained, or set apart.
 
-![]()  Imagecouple talking to bishop
+![couple talking to bishop](https://www.churchofjesuschrist.org/imgs/533acd91426411eca0a3eeeeac1ed90324070af4/full/%21500%2C/0/default)
 
 30.8.4
 

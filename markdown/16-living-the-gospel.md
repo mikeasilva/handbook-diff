@@ -2,7 +2,7 @@
 
 “Living the Gospel of Jesus Christ,” General Handbook.
 
-![]()  Imagecouple praying
+![couple praying](https://www.churchofjesuschrist.org/imgs/e6cf36de4b2b11eda354eeeeac1ee442737984a9/full/%21100%2C/0/default)
 
 16.
 

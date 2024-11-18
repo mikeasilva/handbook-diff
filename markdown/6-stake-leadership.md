@@ -2,7 +2,7 @@
 
 “6. Stake Leadership,” General Handbook.
 
-![]()  Imageleader talking to family
+![leader talking to family](https://www.churchofjesuschrist.org/imgs/e147cf1d4b2b11edac4beeeeac1e587099e687aa/full/%21100%2C/0/default)
 
 6.
 
@@ -102,7 +102,7 @@ Each stake president is a member of a coordinating council (see [29.4](/study/ma
 
 The stake presidency plans the stake meetings listed in [29.3](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number15-p168#title_number15). The stake president presides at stake meetings unless a General Authority or Area Seventy attends. His counselors may conduct these meetings. They may also preside if the stake president is absent.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2F41%2Ff3%2F41f3344b7d3b66c437f0e91e468e89cfae084074%2F41f3344b7d3b66c437f0e91e468e89cfae084074.jpeg/full/!250,/0/default)  
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F41f3344b7d3b66c437f0e91e468e89cfae084074%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  4:26
 
 6.2.1.5
 
@@ -152,7 +152,7 @@ The stake president also assigns his counselors to oversee stake programs as nee
 
 Members of the stake presidency meet regularly with committees, high councilors, and specialists in the programs to which they are assigned.
 
-![]()  Imageyoung woman leadership meeting
+![young woman leadership meeting](https://www.churchofjesuschrist.org/imgs/0df99fde4b3011ed8d88eeeeac1ef135aec4acf1/full/%21500%2C/0/default)
 
 6.2.1.7
 
@@ -162,9 +162,9 @@ The stake presidency directs communication efforts in the stake. Members of the 
 
 The stake president is the primary Church spokesman to the news media on matters that pertain to the stake. He may delegate this role as needed.
 
-[![]()](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  The stake president or an assigned counselor may organize and oversee a stake communication council. This council helps Church leaders build relationships with civic and community leaders. It also helps these leaders communicate effectively with Church members and the public.
+[![icon, guidelines for adaptation](https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) The stake president or an assigned counselor may organize and oversee a stake communication council. This council helps Church leaders build relationships with civic and community leaders. It also helps these leaders communicate effectively with Church members and the public.
 
-[![]()](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  The communication council may include a stake communication director, assistant directors, and specialists as needed. They are called and set apart by the stake president or an assigned counselor or high councilor.
+[![icon, guidelines for adaptation](https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) The communication council may include a stake communication director, assistant directors, and specialists as needed. They are called and set apart by the stake president or an assigned counselor or high councilor.
 
 There is also a communication council at the coordinating council level (see [29.4](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number29-p175#title_number29)). It operates under the direction of an Area Seventy and is led by a communication director. This communication council helps coordinate relationships, events, and issues that cross stake boundaries. The director of this council offers support and training to stake communication councils.
 
@@ -352,11 +352,11 @@ High councilors also counsel with the stake presidency and sustain their decisio
 
 The stake presidency assigns high councilors to work with the stake Young Women and Primary organizations. When a member of the stake presidency meets with one of these presidencies, the high councilor also attends. Assigned high councilors also attend stake leadership meetings for these organizations.
 
-[![]()](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  The stake presidency may assign high councilors to assist with the programs listed in [6.2.1.6](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number10-p39#title_number10). They may also assign a high councilor to assist with needs for members with disabilities (see [38.8.27](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number167-p599#title_number167)).
+[![icon, optional resources](https://www.churchofjesuschrist.org/imgs/eb9f42669cb91222bcb4f3e6f13a40b7e87b167e/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) The stake presidency may assign high councilors to assist with the programs listed in [6.2.1.6](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number10-p39#title_number10). They may also assign a high councilor to assist with needs for members with disabilities (see [38.8.27](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number167-p599#title_number167)).
 
-[![]()](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  The stake presidency may assign high councilors to represent them by speaking in sacrament meetings and other settings. The stake presidency determines the frequency of these speaking assignments. It is not necessary for high councilors to speak in sacrament meeting every month. The stake presidency may also assign stake organization presidency members to speak in these settings (see [6.7.1](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number32-p252#title_number32) and [6.7.2](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number37-p262#title_number37)).
+[![icon, optional resources](https://www.churchofjesuschrist.org/imgs/eb9f42669cb91222bcb4f3e6f13a40b7e87b167e/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) The stake presidency may assign high councilors to represent them by speaking in sacrament meetings and other settings. The stake presidency determines the frequency of these speaking assignments. It is not necessary for high councilors to speak in sacrament meeting every month. The stake presidency may also assign stake organization presidency members to speak in these settings (see [6.7.1](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number32-p252#title_number32) and [6.7.2](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number37-p262#title_number37)).
 
-![]()  Imagemen talking
+![men talking](https://www.churchofjesuschrist.org/imgs/feee4e624b2f11eda4e1eeeeac1eefa0dae683a2/full/%21500%2C/0/default)
 
 6.5.2
 
@@ -422,7 +422,7 @@ The Quorum of the Twelve normally does not approve calling a second patriarch fo
 
 If a stake includes members who speak different languages, bishops and stake presidencies may authorize them to go to a patriarch in a nearby stake who can give the blessing in the member’s own language.
 
-![]()  Imageyoung woman receiving blessing
+![young woman receiving blessing](https://www.churchofjesuschrist.org/imgs/1a6d7da24b3011ed9712eeeeac1ed507911f62f0/full/%21500%2C/0/default)
 
 6.6.3
 
@@ -484,7 +484,7 @@ Stake Organizations
 
 The stake Relief Society, Young Women, Primary, Sunday School, and Young Men organizations are each led by a president. These presidents serve under the direction of the stake presidency.
 
-[![]()](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  In large stakes, an organization president may recommend one or two counselors and a secretary to serve with him or her. The stake presidency considers these recommendations.
+[![icon, guidelines for adaptation](https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) In large stakes, an organization president may recommend one or two counselors and a secretary to serve with him or her. The stake presidency considers these recommendations.
 
 The main responsibilities of these leaders are to assist the stake presidency and to instruct and support ward organization presidencies. They do not fulfill assignments that should be fulfilled at the ward or family level. They also do not create additional responsibilities for ward organization presidencies.
 
@@ -512,9 +512,9 @@ Members of these presidencies have the following responsibilities:
 
 * Speak in sacrament meetings and other settings when invited by the stake presidency.
 
-* [![]()](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  In large stakes, submit recommendations to the stake presidency for counselors and others to be called to serve in their organizations as needed. For guidelines, see [30.1.1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number3-p10#title_number3) and [30.1.5](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number7-p16#title_number7).
+* [![icon, guidelines for adaptation](https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) In large stakes, submit recommendations to the stake presidency for counselors and others to be called to serve in their organizations as needed. For guidelines, see [30.1.1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number3-p10#title_number3) and [30.1.5](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number7-p16#title_number7).
 
-[![]()](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  The stake Relief Society, Young Women, and Primary presidencies may occasionally plan combined activities for their organizations. These activities could include all women, young women, and girls 8 and older in the stake. Such activities could also be held in multiple stakes. The presidencies counsel together to recommend combined activities to the stake presidency (see [20.3.1](/study/manual/general-handbook/20-activities?lang=eng&id=title_number14-p128#title_number14)). Such activities would be in place of one of the stake Relief Society activities (see [6.7.1.1](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number33-p244#title_number33)).
+[![icon, optional resources](https://www.churchofjesuschrist.org/imgs/eb9f42669cb91222bcb4f3e6f13a40b7e87b167e/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) The stake Relief Society, Young Women, and Primary presidencies may occasionally plan combined activities for their organizations. These activities could include all women, young women, and girls 8 and older in the stake. Such activities could also be held in multiple stakes. The presidencies counsel together to recommend combined activities to the stake presidency (see [20.3.1](/study/manual/general-handbook/20-activities?lang=eng&id=title_number14-p128#title_number14)). Such activities would be in place of one of the stake Relief Society activities (see [6.7.1.1](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number33-p244#title_number33)).
 
 6.7.1.1
 
@@ -532,7 +532,7 @@ The stake Relief Society presidency has the following additional responsibilitie
 
 * Coordinate stake Relief Society efforts during emergencies.
 
-[![]()](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  The stake Relief Society presidency may plan and carry out one or two meetings each year for all Relief Society sisters in the stake. These meetings are held under the direction of the stake presidency. They may include service, classes, projects, conferences, or workshops. The stake Relief Society presidency may form committees to help as needed.
+[![icon, optional resources](https://www.churchofjesuschrist.org/imgs/eb9f42669cb91222bcb4f3e6f13a40b7e87b167e/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) The stake Relief Society presidency may plan and carry out one or two meetings each year for all Relief Society sisters in the stake. These meetings are held under the direction of the stake presidency. They may include service, classes, projects, conferences, or workshops. The stake Relief Society presidency may form committees to help as needed.
 
 6.7.1.2
 
@@ -548,9 +548,9 @@ The stake Young Women presidency has the following additional responsibilities:
 
 #### Additional Stake Primary Presidency Responsibilities
 
-[![]()](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  The stake Primary presidency may occasionally plan stake activities for children ages 8 to 11. These activities could be for girls, boys, or both. They follow the guidelines in [12.2.1.3](/study/manual/general-handbook/12-primary?lang=eng&id=title_number10-p84#title_number10).
+[![icon, optional resources](https://www.churchofjesuschrist.org/imgs/eb9f42669cb91222bcb4f3e6f13a40b7e87b167e/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) The stake Primary presidency may occasionally plan stake activities for children ages 8 to 11. These activities could be for girls, boys, or both. They follow the guidelines in [12.2.1.3](/study/manual/general-handbook/12-primary?lang=eng&id=title_number10-p84#title_number10).
 
-![]()  Imagewoman working with kids
+![woman working with kids](https://www.churchofjesuschrist.org/imgs/0df6b9b04b3011ed9603eeeeac1e5884d757bfaf/full/%21500%2C/0/default)
 
 6.7.1.4
 
@@ -568,7 +568,7 @@ The stake Sunday School presidency has the following additional responsibilities
 
 The stake presidency calls and sets apart a high councilor to be the stake Young Men president. The high council members assigned to the Young Women and Primary may be called and set apart to serve as his counselors.
 
-[![]()](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  In a large stake, one or two other Melchizedek Priesthood holders from the stake may be called as counselors. A priesthood holder may also be called as a secretary (see [6.7.3](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number38-p268#title_number38)). The stake Young Men president recommends whom to call. For guidelines, see [30.1.1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number3-p10#title_number3) and [30.1.5](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number7-p16#title_number7). The counselors and secretary are called and set apart by a member of the stake presidency or an assigned high councilor.
+[![icon, guidelines for adaptation](https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) In a large stake, one or two other Melchizedek Priesthood holders from the stake may be called as counselors. A priesthood holder may also be called as a secretary (see [6.7.3](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number38-p268#title_number38)). The stake Young Men president recommends whom to call. For guidelines, see [30.1.1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number3-p10#title_number3) and [30.1.5](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number7-p16#title_number7). The counselors and secretary are called and set apart by a member of the stake presidency or an assigned high councilor.
 
 The stake Young Men presidency has the following responsibilities:
 
@@ -590,7 +590,7 @@ The stake Young Men presidency does not hold a stake leadership meeting. Instruc
 
 6.7.3
 
-### [Imageicon, guidelines for adaptation](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Stake Organization Secretaries
+### [icon, guidelines for adaptation](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Stake Organization Secretaries
 
 Stake organization secretaries are usually called only in large stakes. A member of the stake presidency or an assigned high councilor calls and sets them apart. Under the direction of stake organization presidents, they may have the following responsibilities:
 
@@ -606,9 +606,9 @@ Stake organization secretaries are usually called only in large stakes. A member
 
 6.8
 
-[Imageicon, optional resources](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Stake Specialists
+[icon, optional resources](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Stake Specialists
 
--------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 The stake presidency may call and set apart specialists as needed for purposes such as:
 

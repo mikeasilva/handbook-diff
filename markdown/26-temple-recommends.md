@@ -2,7 +2,7 @@
 
 “26. Temple Recommends,” General Handbook.
 
-![]()  Imagebishop interviewing man
+![bishop interviewing man](https://www.churchofjesuschrist.org/imgs/e965992e4b2b11ed8234eeeeac1e2c0e4be2189b/full/%21100%2C/0/default)
 
 26.
 
@@ -118,13 +118,13 @@ In a young single adult stake, the stake president may authorize his counselors 
 
 26.3.2
 
-### [Imageicon, guidelines for adaptation](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Temple Recommend Interviews for Members in Isolated Areas
+### [icon, guidelines for adaptation](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Temple Recommend Interviews for Members in Isolated Areas
 
 Some members live in areas that would require expensive travel or great difficulty to meet with a member of the stake or mission presidency. In these situations, a member of the stake or mission presidency may meet virtually with the member to conduct a temple recommend interview (see [31.4](/study/manual/general-handbook/31?lang=eng&id=title_number21-p262#title_number21)). The leader digitally signs the recommend if the member is worthy. A member of the bishopric or the branch president then prints the recommend and gives it to the member.
 
 This policy also applies to members in the military who are in isolated areas.
 
-![]()  Imageyouth outside temple
+![youth outside temple](https://www.churchofjesuschrist.org/imgs/17b848ac4b3011ed8648eeeeac1e4c2e67db25d2/full/%21500%2C/0/default)
 
 26.3.3
 
@@ -264,7 +264,7 @@ Members who are 21 or older may be sealed to their parents or observe a sealing
 
 See [27.4.4](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number40-p119#title_number40) and [38.4.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number81-p276#title_number81) for additional policies on observing sealings and being sealed to parents.
 
-![]()  Imageyouth holding recommends outside temple
+![youth holding recommends outside temple](https://www.churchofjesuschrist.org/imgs/01756e6e4b3011ed997deeeeac1e384cffb82417/full/%21500%2C/0/default)
 
 26.5
 

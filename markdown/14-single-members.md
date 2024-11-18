@@ -2,7 +2,7 @@
 
 “14. Single Members,” General Handbook.
 
-![]()  Imagepeople talking
+![people talking](https://www.churchofjesuschrist.org/imgs/e3a6a6a94b2b11eda3b9eeeeac1e4a1b59d6ffa5/full/%21100%2C/0/default)
 
 14.
 
@@ -222,7 +222,7 @@ Funding for activities should be consistent with the policies in [20.2.6](/study
 
 For additional activity guidelines, see [20.2](/study/manual/general-handbook/20-activities?lang=eng&id=title_number3-p124#title_number3) and [20.3](/study/manual/general-handbook/20-activities?lang=eng&id=title_number13-p137#title_number13).
 
-![]()  Imagepeople playing football
+![people playing football](https://www.churchofjesuschrist.org/imgs/0811efad4b3011ed8d88eeeeac1ef13568ca6eaa/full/%21500%2C/0/default)
 
 14.2.2
 
@@ -288,9 +288,9 @@ As individuals and as groups, single members can help unite families for eternit
 
 14.3
 
-[Imageicon, guidelines for adaptation](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Young Single Adult Wards and Stakes and Single Adult Wards
+[icon, guidelines for adaptation](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Young Single Adult Wards and Stakes and Single Adult Wards
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Most single members attend geographic wards. As an exception, where many single members live in close proximity, priesthood leaders may recommend creating the following units. These units must meet the criteria in [chapter 37](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng).
 
@@ -406,7 +406,7 @@ In large young single adult wards, bishops may authorize counselors to conduct i
 
 A person who is separated from his or her spouse or is seeking a divorce participates in a geographic ward. He or she may attend a ward or activities for single members when his or her divorce decree is final.
 
-![]()  Imagewoman reading to children
+![woman reading to children](https://www.churchofjesuschrist.org/imgs/200512054b3011ed9f36eeeeac1ec65838292a2e/full/%21500%2C/0/default)
 
 14.4.8
 

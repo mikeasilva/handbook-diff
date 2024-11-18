@@ -2,7 +2,7 @@
 
 “21. Ministering,” General Handbook.
 
-![]()  Imagemen lifting rock
+![men lifting rock](https://www.churchofjesuschrist.org/imgs/e980e95e4b2b11ed805deeeeac1ecff830cc9e22/full/%21100%2C/0/default)
 
 21.
 
@@ -90,7 +90,7 @@ A young woman may serve as a ministering companion to a Relief Society sister wh
 
 It is often a blessing to a sister to have a young woman minister to her. It can also be a blessing to the young woman.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Ff1b580815f051f57e3454d8185b80a17b364919e%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)  
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Ff1b580815f051f57e3454d8185b80a17b364919e%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  2:30
 
 A young man serves as a ministering companion to a Melchizedek Priesthood holder when he is ordained to the office of teacher or priest. The bishop determines whether the young man is worthy and prepared to be ordained. (See [10.1.3.2](/study/manual/general-handbook/10-aaronic-priesthood?lang=eng&id=title_number8-p16#title_number8).) The elders quorum presidency counsels with the young man, his parents, and the bishopric as they consider ministering assignments.
 
@@ -102,7 +102,7 @@ The Church’s guideline that two responsible adults be present with youth does 
 
 Adult companions should avoid situations that might be misunderstood. They use care in one-on-one situations. They help youth have a safe and rewarding experience with ministering.
 
-![]()  Imageyouth gardening
+![youth gardening](https://www.churchofjesuschrist.org/imgs/1b0577e34b3011ed9712eeeeac1ed507baa8f9a9/full/%21500%2C/0/default)
 
 21.2.3
 
@@ -118,7 +118,7 @@ Ministering Interviews
 
 The Savior had a simple yet profound interview with Peter about feeding His sheep (see [John 21:15–17](/study/scriptures/nt/john/21?lang=eng&id=p15-p17#p15)). Ministering interviews can be a similar opportunity. They also allow leaders to set an example of ministering.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fb384e02c1c4ec600a46ccd3d930fc2288315b515%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)  
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fb384e02c1c4ec600a46ccd3d930fc2288315b515%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  2:34
 
 The elders quorum president and his counselors interview ministering brothers. The Relief Society president and her counselors interview ministering sisters. A married couple assigned to minister together can meet with elders quorum or Relief Society leaders or both.
 
@@ -146,7 +146,7 @@ Coordinating Ministering Efforts
 
 The Relief Society and the elders quorum share the work of ministering. They do this work in unity.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F120cb0d5bdd5e7e6b9516a04814ee29c6e59d755%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)  
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F120cb0d5bdd5e7e6b9516a04814ee29c6e59d755%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  2:49
 
 Relief Society and elders quorum presidencies meet together at least quarterly. They review what they have learned in ministering interviews (see [21.3](/study/manual/general-handbook/21-ministering?lang=eng&id=title_number4-p29#title_number4)). They also coordinate ministering assignments. The two presidents share the responsibility of organizing and conducting the meeting.
 

@@ -2,7 +2,7 @@
 
 “3. Priesthood Principles,” General Handbook.
 
-![]()  Imagefamily walking near temple
+![family walking near temple](https://www.churchofjesuschrist.org/imgs/e4a5790a4b2b11eda3b9eeeeac1e4a1bad2644e5/full/%21100%2C/0/default)
 
 3.
 
@@ -136,7 +136,7 @@ These leaders receive priesthood keys when they are set apart to their callings.
 
 Priesthood keys are not given to others, including counselors to local priesthood leaders or presidents of Church organizations. These leaders are given delegated authority when they are set apart and when they receive assignments under the direction of those who hold priesthood keys. Presidents of Church organizations preside under the direction of those who hold priesthood keys (see [4.2.4](/study/manual/general-handbook/4-leadership-in-the-church-of-jesus-christ?lang=eng&id=title_number8-p30#title_number8)).
 
-![]()  Imageward council meeting
+![ward council meeting](https://www.churchofjesuschrist.org/imgs/2026cad44b3011eda4e1eeeeac1eefa0dc4c25ee/full/%21500%2C/0/default)
 
 3.4.1.2
 
@@ -210,7 +210,7 @@ Those who exercise priesthood authority do not force their will on others. They 
 
 Some Church callings include a responsibility to preside. For information about presiding in the Church, see [4.2.4](/study/manual/general-handbook/4-leadership-in-the-church-of-jesus-christ?lang=eng&id=title_number8-p30#title_number8).
 
-![]()  Imagetwo men and a woman talking
+![two men and a woman talking](https://www.churchofjesuschrist.org/imgs/1fe8d7724b3011edb5aeeeeeac1e7d2ae6a188a3/full/%21500%2C/0/default)
 
 3.5
 
@@ -252,7 +252,7 @@ Each ordinance allows individuals to receive rich spiritual blessings. The Lord 
 
 Living individuals receive the ordinances of salvation and exaltation for themselves. Where possible, they then return to the temple to perform these ordinances vicariously for those who have died. For more information about performing ordinances for the deceased, see [chapter 28](/study/manual/general-handbook/28?lang=eng).
 
-![]()  Imagewoman receiving a priesthood blessing
+![woman receiving a priesthood blessing](https://www.churchofjesuschrist.org/imgs/1464d7f24b3011eda732eeeeac1e7954799ca67f/full/%21500%2C/0/default)
 
 3.6
 

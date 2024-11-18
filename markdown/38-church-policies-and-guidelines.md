@@ -1596,7 +1596,7 @@ Church members should not engage in any form of Satan worship or participate in 
 
 The Church condemns pornography in any form. Pornography use of any kind damages individual lives, families, and society. It also drives away the Spirit of the Lord. Church members should avoid all forms of pornographic material and oppose its production, dissemination, and use.
 
-[![]()](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3-p31#title_number3)  The Church provides the following resources to help people whose lives are affected by pornography:
+[![icon, optional resources](https://www.churchofjesuschrist.org/imgs/eb9f42669cb91222bcb4f3e6f13a40b7e87b167e/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3-p31#title_number3) The Church provides the following resources to help people whose lives are affected by pornography:
 
 * [AddressingPornography.ChurchofJesusChrist.org](/study/life-help/pornography?lang=eng)
 
@@ -1636,7 +1636,7 @@ Feeling same-sex attraction is not a sin. Members who have these feelings and do
 
 All members who keep their covenants will receive all promised blessings in the eternities whether or not their circumstances allow them to receive the blessings of eternal marriage and parenthood in this life (see [Mosiah 2:41](/study/scriptures/bofm/mosiah/2?lang=eng&id=p41#p41)).
 
-[![]()](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  The Church provides the following resources to better understand and support people whose lives are affected by same-sex attraction:
+[![icon, optional resources](https://www.churchofjesuschrist.org/imgs/eb9f42669cb91222bcb4f3e6f13a40b7e87b167e/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) The Church provides the following resources to better understand and support people whose lives are affected by same-sex attraction:
 
 * “[Same-Sex Attraction](/study/manual/gospel-topics/same-sex-attraction?lang=eng),” Topics and Questions, topics.ChurchofJesusChrist.org
 
@@ -1732,7 +1732,7 @@ No bishop’s referral is needed for this service. There is no charge. See [31.3
 
 In other areas, leaders may contact Family Services staff or the welfare and self-reliance manager in the area office for consultation.
 
-[![]()](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  Guidance for counseling single expectant parents is also provided at “[Unwed Pregnancy](/study/manual/gospel-topics/unwed-pregnancy?lang=eng)” (Topics and Questions, topics.ChurchofJesusChrist.org).
+[![icon, optional resources](https://www.churchofjesuschrist.org/imgs/eb9f42669cb91222bcb4f3e6f13a40b7e87b167e/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Guidance for counseling single expectant parents is also provided at “[Unwed Pregnancy](/study/manual/gospel-topics/unwed-pregnancy?lang=eng)” (Topics and Questions, topics.ChurchofJesusChrist.org).
 
 38.6.20
 
@@ -1752,7 +1752,7 @@ The family, in consultation with the bishop, determines the place and nature of 
 
 Those who have lost a loved one to suicide can find hope and healing in Jesus Christ and His Atonement.
 
-[![]()](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  For information about suicide prevention and ministering, see [suicide.ChurchofJesusChrist.org](https://suicide.ChurchofJesusChrist.org).
+[![icon, optional resources](https://www.churchofjesuschrist.org/imgs/eb9f42669cb91222bcb4f3e6f13a40b7e87b167e/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) For information about suicide prevention and ministering, see [suicide.ChurchofJesusChrist.org](https://suicide.ChurchofJesusChrist.org).
 
 38.6.21
 
@@ -2056,7 +2056,7 @@ Members can manage subscriptions at [MagazineSubscriptions.ChurchofJesusChrist.o
 
 ### Church Name, Wordmark, and Symbol
 
-![]()  ImageChurch wordmark and symbol
+![Church wordmark and symbol](https://www.churchofjesuschrist.org/imgs/74fa7e1aaea8d5e63cc12b16c70ebcb25ad76136/full/%21500%2C/0/default)
 
 The Church’s name, wordmark, and symbol are key Church identifiers. They are registered as trademarks or are otherwise legally protected worldwide. They are used to identify official literature, news, and events of the Church.
 

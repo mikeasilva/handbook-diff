@@ -2,7 +2,7 @@
 
 “4. Leadership and Councils in the Church of Jesus Christ,” General Handbook.
 
-![]()  Imageward council meeting
+![ward council meeting](https://www.churchofjesuschrist.org/imgs/e975298d4b2b11ed805deeeeac1ecff8587f1c13/full/%21100%2C/0/default)
 
 4.
 
@@ -100,7 +100,7 @@ If you have been called or assigned to preside, follow the Savior’s teaching t
 
 It is not appropriate to aspire to preside in any organization in the Lord’s Church (see [Doctrine and Covenants 121:34–37](/study/scriptures/dc-testament/dc/121?lang=eng&id=p34-p37#p34)). Rather, humbly and faithfully serve in the position to which you are called. Strive to do the Lord’s work with an eye single to His glory (see [Doctrine and Covenants 4:5](/study/scriptures/dc-testament/dc/4?lang=eng&id=p5#p5)).
 
-![]()  Imageward meeting
+![ward meeting](https://www.churchofjesuschrist.org/imgs/1997b70d4b3011edbc2aeeeeac1e532eb3af78ce/full/%21500%2C/0/default)
 
 4.2.5
 
@@ -162,7 +162,7 @@ Following this pattern, the Church of Jesus Christ is governed by councils at ev
 
 The Lord has instructed the leaders of His Church to counsel together in doing His work (see [Doctrine and Covenants 41:2–3](/study/scriptures/dc-testament/dc/41?lang=eng&id=p2-p3#p2)). Councils provide opportunities for council members to receive revelation as they seek to understand the needs of God’s children and plan how to help meet them.
 
-![]()  Imagetwo men talking
+![two men talking](https://www.churchofjesuschrist.org/imgs/197e3b9d4b3011edbf70eeeeac1eec563753023c/full/%21500%2C/0/default)
 
 4.4
 

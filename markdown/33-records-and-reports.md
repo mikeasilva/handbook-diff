@@ -2,7 +2,7 @@
 
 “33. Records and Reports,” General Handbook.
 
-![]()  Imagemen looking at computer
+![men looking at computer](https://www.churchofjesuschrist.org/imgs/e30229444b2b11ed9012eeeeac1e3ac514057758/full/%21100%2C/0/default)
 
 33.
 
@@ -160,7 +160,7 @@ See [33.7](/study/manual/general-handbook/33-records-and-reports?lang=eng&id=tit
 
 33.3.3
 
-### [Imageicon, optional resources](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Assistant Stake Clerks
+### [icon, optional resources](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Assistant Stake Clerks
 
 The stake president or an assigned counselor may call and set apart one or more assistant stake clerks as needed. These brethren should be Melchizedek Priesthood holders who have a current temple recommend. They work under the guidance of the stake presidency and the stake clerk.
 
@@ -226,7 +226,7 @@ Other record-keeping duties may include:
 
 * Maintaining financial records (see [34.2.2](/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number5-p250#title_number5)).
 
-![]()  Imagebaby blessing
+![baby blessing](https://www.churchofjesuschrist.org/imgs/169d14b24b3011ed8234eeeeac1e2c0e7d546b47/full/%21500%2C/0/default)
 
 33.4.2.2
 
@@ -250,7 +250,7 @@ See [33.7](/study/manual/general-handbook/33-records-and-reports?lang=eng&id=tit
 
 33.4.3
 
-### [Imageicon, optional resources](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Assistant Ward Clerks
+### [icon, optional resources](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Assistant Ward Clerks
 
 Assistant ward clerks may be called as needed. They are recommended by the bishopric and called and set apart by a member of the stake presidency or an assigned high councilor. These brethren should hold the Melchizedek or Aaronic Priesthood. They should also have a current temple recommend. If an assistant ward clerk is assigned to finances, he should hold the Melchizedek Priesthood. Assistant ward clerks work under the guidance of the bishopric and the ward clerk.
 
@@ -590,7 +590,7 @@ Stake and ward priesthood and organization leaders contribute stories using the 
 
 Members may use the Unit History tool to view stories that have been published by their ward and stake leaders. Published stories are automatically preserved by the Church.
 
-![]()  Imagefamily carrying hay
+![family carrying hay](https://www.churchofjesuschrist.org/imgs/354debee37c811ee81f4eeeeac1e0f37707d1a6d/full/%21500%2C/0/default)
 
 33.7.2
 

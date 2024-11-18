@@ -2,7 +2,7 @@
 
 “2. Supporting Individuals and Families,” General Handbook.
 
-![]()  Imagefamily photo
+![family photo](https://www.churchofjesuschrist.org/imgs/e9706e9d4b2b11eda5dbeeeeac1e78abeb028f84/full/%21100%2C/0/default)
 
 2.
 
@@ -92,7 +92,7 @@ Presiding in the family is the responsibility to help lead family members back t
 
 “In these sacred responsibilities, fathers and mothers are obligated to help one another as equal partners” (“[The Family: A Proclamation to the World](/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng&id=p7#p7)”). They prayerfully counsel together and with the Lord.
 
-![]()  Imagedad teaching family
+![dad teaching family](https://www.churchofjesuschrist.org/imgs/142389344b3011ed9f36eeeeac1ec658081f95f1/full/%21500%2C/0/default)
 
 2.2
 
@@ -176,7 +176,7 @@ Leaders encourage members to be consistent in holding home evening and spending 
 
 Church leaders assist members who need additional support. Leaders help these members and their families have opportunities for fellowship, wholesome social experiences, and spiritual growth. Leaders encourage and assist them in their efforts to learn and live the gospel of Jesus Christ. Leaders also give them opportunities to serve in the Church.
 
-![]()  Imagecouple laughing
+![couple laughing](https://www.churchofjesuschrist.org/imgs/171f8b204b3011ed997deeeeac1e384c4725e3b4/full/%21500%2C/0/default)
 
 2.3
 
