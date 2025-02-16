@@ -278,7 +278,7 @@ After full-time missionaries return home, they may be invited to report on their
 
 To understand principles that guide council meetings in the Church, all council members should study [4.3](/study/manual/general-handbook/4-leadership-in-the-church-of-jesus-christ?lang=eng&id=title_number13-p50#title_number13) and [4.4](/study/manual/general-handbook/4-leadership-in-the-church-of-jesus-christ?lang=eng&id=title_number14-p71#title_number14).
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F51d4964c9ddf04b8ea5c3ef4a4edf0565c3f17ae%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  4:37
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F51d4964c9ddf04b8ea5c3ef4a4edf0565c3f17ae%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  4:37Ward Council Meeting
 
 29.2.6
 

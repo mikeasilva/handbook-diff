@@ -54,7 +54,7 @@ Participating in God’s Work of Salvation and Exaltation
 
 -------------------------------------------------------
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fcae4ace5c8cce80f8c4e06fe281c42dbc6d1e9fc%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  3:42
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fcae4ace5c8cce80f8c4e06fe281c42dbc6d1e9fc%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  3:42Efforts Magnified as Presidencies Work Together
 
 God invites all to come unto Christ and participate in His work of salvation and exaltation by:
 
@@ -126,7 +126,7 @@ Activities should strengthen sisters’ desires to make and keep covenants and g
 
 As followers of Jesus Christ, sisters have a responsibility to reach out in love to those in need. Individually and as a Relief Society, they seek ways to serve others in the ward and community. Where it is available, [JustServe.org](http://www.justserve.org) suggests community service opportunities.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F974e9f17846aa514cea90aec8882cfa486d3363a%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  2:43
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F974e9f17846aa514cea90aec8882cfa486d3363a%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  2:43How to Care for Those in Need
 
 For more information about how members of the Relief Society and elders quorum care for those in need, see [22.6.2](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number52-p185#title_number52).
 
@@ -202,7 +202,7 @@ The Relief Society president assigns a member of the presidency to help lead tem
 
 The assigned member of the Relief Society presidency participates in coordination meetings to coordinate temple and family history work. These meetings are held regularly. The ward temple and family history leader, who may be a member of the elders quorum presidency, leads temple and family history coordination meetings (see [25.2.7](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number13-p72#title_number13)). They also include an assistant in the priests quorum, a presidency member of the oldest Young Women class, and temple and family history consultants.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F886999708076dbf09ad533958c83f683c1dc7440%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  2:49
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F886999708076dbf09ad533958c83f683c1dc7440%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  2:49Helping Members Gain the Vision
 
 9.3
 
@@ -244,7 +244,7 @@ The Relief Society president has the following responsibilities. Her counselors 
 
 * Under the bishop’s guidance, counsel with adult members of the ward (see [31.1](/study/manual/general-handbook/31?lang=eng&id=title_number2-p92#title_number2) and [31.3](/study/manual/general-handbook/31?lang=eng&id=title_number20-p254#title_number20)). Only the bishop counsels ward members about matters of worthiness, abuse, and approval to use fast-offering funds. See [Counseling Resources](/study/manual/counseling-resources?lang=eng). For information about abuse, see [38.6.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number92-p323#title_number92).
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F687cf39775bd8e56a3a640e9519cac66527ebae8%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  3:13
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F687cf39775bd8e56a3a640e9519cac66527ebae8%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  3:13Counseling with Women in Times of Need
 
 * With the elders quorum presidency, help lead efforts in the ward to invite all to receive the blessings of the gospel (see [8.2.3](/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number128-p228#title_number128) and [9.2.3](/study/manual/general-handbook/9-relief-society?lang=eng&id=title_number10-p163#title_number10)).
 

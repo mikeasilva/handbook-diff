@@ -276,7 +276,7 @@ Church assistance is intended to help members develop independence, not dependen
 
 When providing Church assistance, leaders follow the principles in sections [22.4.1 through 22.4.5](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number79-p145#title_number79). Bishoprics and clerks review the video “[Sacred Funds, Sacred Responsibilities](http://www.churchofjesuschrist.org/help/support/record-keeping/finance/financial-training-lessons/sacred-funds)” at least once a year.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F1f68adec25e13e604ae4234089bcf59f283e97be%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  22:58
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F1f68adec25e13e604ae4234089bcf59f283e97be%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  22:58Sacred Funds, Sacred Responsibilities
 
 Principles for Providing Church Assistance
 

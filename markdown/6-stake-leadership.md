@@ -102,7 +102,7 @@ Each stake president is a member of a coordinating council (see [29.4](/study/ma
 
 The stake presidency plans the stake meetings listed in [29.3](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number15-p168#title_number15). The stake president presides at stake meetings unless a General Authority or Area Seventy attends. His counselors may conduct these meetings. They may also preside if the stake president is absent.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F41f3344b7d3b66c437f0e91e468e89cfae084074%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  4:26
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F41f3344b7d3b66c437f0e91e468e89cfae084074%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  4:26Church Handbook Training
 
 6.2.1.5
 

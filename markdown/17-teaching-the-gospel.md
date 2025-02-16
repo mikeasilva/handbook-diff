@@ -22,7 +22,7 @@ When teaching the gospel, parents, teachers, and leaders follow the example of J
 
 Leaders share the following principles of Christlike teaching with teachers in their organizations. These principles are explained in more detail in [Teaching in the Savior’s Way](/study/manual/teaching-in-the-saviors-way-2022?lang=eng).
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F1a7e52bf8a60ea9de595821dd5b10f1bcb34ec7a%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  3:45
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F1a7e52bf8a60ea9de595821dd5b10f1bcb34ec7a%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  3:45Welcome Teachers
 
 17.1.1
 
@@ -30,7 +30,7 @@ Leaders share the following principles of Christlike teaching with teachers in t
 
 Everything the Savior does is an expression of His love (see [2 Nephi 26:24](/study/scriptures/bofm/2-ne/26?lang=eng&id=p24#p24)). Leaders and teachers follow His example by showing love for those they teach. They pray for those they teach by name, seek to connect with and understand them, and focus on individual needs. They reach out to members of their class or quorum who do not attend.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F434a471fa5982d5554b66ef6425c9ce97c225795%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  3:20
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F434a471fa5982d5554b66ef6425c9ce97c225795%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  3:20Love Those You Teach
 
 17.1.2
 
@@ -38,7 +38,7 @@ Everything the Savior does is an expression of His love (see [2 Nephi 26:24](/s
 
 To inspire people to have faith in Jesus Christ, teachers must teach by the Spirit. Teachers seek the Spirit’s guidance as they prepare and teach, and they strive to live worthy of His influence each day.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F9bb70fa61e2cdbdad472f32b69b7b1989deb0d3a%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  3:47
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F9bb70fa61e2cdbdad472f32b69b7b1989deb0d3a%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  3:47Prepare And Teach By The Spirit
 
 17.1.3
 
@@ -46,7 +46,7 @@ To inspire people to have faith in Jesus Christ, teachers must teach by the Spir
 
 The Savior taught His Father’s doctrine. Following the Savior’s example, teachers focus on the essential, saving truths of the gospel. They teach using the scriptures, the teachings of latter-day prophets, and approved curriculum materials. Teachers lead inspired discussions and ensure that their teaching is edifying and doctrinally sound. Approved materials are listed in the current [Instructions for Curriculum](/study/manual/instructions-for-curriculum-2021/instructions-for-curriculum-2021?lang=eng) on ChurchofJesusChrist.org.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Ff2041c274a6c24323dcd2eafb9d9b5340160d5ea%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  3:33
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Ff2041c274a6c24323dcd2eafb9d9b5340160d5ea%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  3:33Teach The Doctrine
 
 17.1.4
 
@@ -64,7 +64,7 @@ To become converted to the Lord Jesus Christ, each member of the Church is respo
 
 Leaders and teachers encourage members to seek their own inspiration about how to study and teach the gospel. Their main resources should be the scriptures and general conference messages. Supporting resources can include [Come, Follow Me](/study/come-follow-me?lang=eng) and [Church magazines](/study/magazines?lang=eng).
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F33a7ba2be7e697a9f5638ea06f5bc6c0f7d24f88%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  3:35
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F33a7ba2be7e697a9f5638ea06f5bc6c0f7d24f88%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  3:35Invite Diligent Learning
 
 17.3
 
@@ -112,7 +112,7 @@ The ward council oversees and schedules teacher council meetings. A member of th
 
 For more information, see “Teacher Council Meetings” in Teaching in the Savior’s Way (pages 38–39).
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F0e4a0090ad9bafc2e4980ad0eef908bef8f4461f%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  6:7
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F0e4a0090ad9bafc2e4980ad0eef908bef8f4461f%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  6:7Introduction To Teacher Council Meetings
 
 17.5
 
