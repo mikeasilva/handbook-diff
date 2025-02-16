@@ -26,7 +26,7 @@ Uniting families for eternity is part of God’s work of salvation and exaltatio
 
 * Going to the house of the Lord regularly, where possible, to worship God and perform ordinances for our ancestors (see [Luke 24:52–53](/study/scriptures/nt/luke/24?lang=eng&id=p52-p53#p52); [Doctrine and Covenants 109:13–14](/study/scriptures/dc-testament/dc/109?lang=eng&id=p13-p14#p13)).
 
-This chapter guides Church leaders and members on how to unite families for eternity through temple and family history work. More information is available at “[Temples](/study/manual/gospel-topics/temples?lang=eng),” “Proxy Baptism,” and “[Family History](/study/manual/gospel-topics/family-history?lang=eng)” (Topics and Questions, Gospel Library).
+This chapter guides Church leaders and members on how to unite families for eternity through temple and family history work. More information is available at “[Temples](/study/manual/gospel-topics/temples?lang=eng),” “[Proxy Baptism](/study/manual/gospel-topics/proxy-baptism?lang=eng),” and “[Family History](/study/manual/gospel-topics/family-history?lang=eng)” (Topics and Questions, Gospel Library).
 
 25.1
 
@@ -202,7 +202,7 @@ The ward temple and family history plan should not establish quotas or reporting
 
 The bishop reviews and approves the plan. Members of the ward council take the lead in implementing it. They report on progress in ward council meetings. They also update the plan as needed.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F886999708076dbf09ad533958c83f683c1dc7440%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  2:49
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F886999708076dbf09ad533958c83f683c1dc7440%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  2:49Helping Members Gain the Vision
 
 25.2.7
 
