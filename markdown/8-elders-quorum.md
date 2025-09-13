@@ -1,4 +1,4 @@
-“8. Elders Quorum,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
+“8. Elders Quorum,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “8. Elders Quorum,” General Handbook.
 
@@ -58,7 +58,7 @@ Participating in God’s Work of Salvation and Exaltation
 
 -------------------------------------------------------
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fcae4ace5c8cce80f8c4e06fe281c42dbc6d1e9fc%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  3:42Efforts Magnified as Presidencies Work Together
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fcae4ace5c8cce80f8c4e06fe281c42dbc6d1e9fc%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  3:31
 
 God invites all to come unto Christ and participate in His work of salvation and exaltation by:
 
@@ -130,9 +130,9 @@ Activities should strengthen quorum members’ desires to make and keep covenant
 
 ### Caring for Those in Need
 
-As followers of Jesus Christ, elders quorum members have a responsibility to reach out in love to those in need. Individually and as a quorum, they seek ways to serve others in the ward and community. Where it is available, [JustServe.org](http://www.justserve.org) suggests community service opportunities.
+As followers of Jesus Christ, elders quorum members have a responsibility to reach out in love to those in need. Individually and as a quorum, they seek ways to serve others in the ward and community. Where it is available, [JustServe.org](https://www.justserve.org) suggests community service opportunities.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F974e9f17846aa514cea90aec8882cfa486d3363a%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  2:43How to Care for Those in Need
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F974e9f17846aa514cea90aec8882cfa486d3363a%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  2:46
 
 For more information about how members of the elders quorum and Relief Society care for those in need, see [22.6.2](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number52-p185#title_number52).
 
@@ -154,13 +154,13 @@ The elders quorum and Relief Society coordinate efforts to address short-term ne
 
 In some locations, bishops have the option to provide members in need with a bishop’s order for food and other basic goods. The bishop generally assigns the Relief Society president to meet with the members and fill out the order form. However, he may also assign the elders quorum president. A counselor in the Relief Society or elders quorum presidency may be assigned if the president is unavailable. The assigned leader submits the completed form to the bishop for his approval.
 
-For more information, see [22.6.2](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number52-p185#title_number52) and “[Welfare Resources](http://lcr.churchofjesuschrist.org)” in Leader and Clerk Resources.
+For more information, see [22.6.2](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number52-p185#title_number52) and “[Welfare Resources](https://lcr.churchofjesuschrist.org)” in Leader and Clerk Resources.
 
 8.2.2.3
 
 #### Long-Term Needs and Self-Reliance
 
-As coordinated by the bishop, the elders quorum and Relief Society presidencies help members with long-term needs and self-reliance. They teach principles of temporal and spiritual self-reliance. See [chapter 22](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng) and “[Self-Reliance](/study/life-help/self-reliance?lang=eng)” in the Gospel Library app.
+As coordinated by the bishop, the elders quorum and Relief Society presidencies help members with long-term needs and self-reliance. They teach principles of temporal and spiritual self-reliance. See [chapter 22](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng) and “[Self-Reliance](/study/books-and-lessons/self-reliance-resources?lang=eng)” in the Gospel Library app.
 
 If a person or family needs assistance, the elders quorum and Relief Society presidents counsel together, as coordinated by the bishop, about how to help (see [22.4](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number27-p145#title_number27)).
 
@@ -212,7 +212,7 @@ This member of the elders quorum presidency may fulfill the role of the ward tem
 
 The ward temple and family history leader, who may be a member of the elders quorum presidency, leads temple and family history coordination meetings (see [25.2.7](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number13-p72#title_number13)). These meetings are held regularly. They also include the assigned member of the Relief Society presidency, an assistant in the priests quorum, a presidency member of the oldest Young Women class, and temple and family history consultants.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F886999708076dbf09ad533958c83f683c1dc7440%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  2:49Helping Members Gain the Vision
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F886999708076dbf09ad533958c83f683c1dc7440%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  2:45
 
 ![men looking at picture](https://www.churchofjesuschrist.org/imgs/0dec32634b3011edb8dfeeeeac1eac245f9f22a8/full/%21500%2C/0/default)
 
@@ -290,7 +290,7 @@ The elders quorum president has the following responsibilities. His counselors a
 
 * Help young men and prospective elders prepare to receive the Melchizedek Priesthood (see [8.4](/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number118-p292#title_number118)).
 
-* Oversee quorum records, reports, and finances (see [LCR.ChurchofJesusChrist.org](http://lcr.churchofjesuschrist.org)). A secretary may help (see [8.3.4](/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number12-p275#title_number12)).
+* Oversee quorum records, reports, and finances (see [LCR.ChurchofJesusChrist.org](https://lcr.churchofjesuschrist.org)). A secretary may help (see [8.3.4](/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number12-p275#title_number12)).
 
 The stake presidency and assigned members of the high council teach the elders quorum presidency about these responsibilities. They may do this during stake priesthood leadership meetings, quorum presidency meetings, and personal visits with elders quorum presidents (see [29.3.3](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number18-p114#title_number18)).
 
@@ -336,13 +336,13 @@ The secretary’s responsibilities could include the following:
 
 * Schedule ministering interviews (see [21.3](/study/manual/general-handbook/21-ministering?lang=eng&id=title_number4-p29#title_number4)).
 
-* Prepare and submit quarterly reports of attendance and the number of ministering interviews held.
+* Prepare and submit quarterly reports of attendance and the number of ministering interviews held. Attendance reports should include brethren serving in Primary and Young Men.
 
 * Help prepare an annual budget and keep track of expenses.
 
 8.3.5
 
-### Additional Callings
+### Additional Callings and Assignments
 
 The following additional callings may be helpful. The bishop and elders quorum president discuss whether they are needed.
 
@@ -394,4 +394,4 @@ Members with Disabilities
 
 -------------------------
 
-The elders quorum presidency gives particular care to members with disabilities. For information about helping these members, see [disability.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/life/disability); see also [38.8.27](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number167-p631#title_number167) in this handbook.
+The elders quorum presidency gives particular care to members with disabilities. For information about helping these members, see [disability.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/life/disability); see also [38.8.27](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number167-p631#title_number167) in this handbook.

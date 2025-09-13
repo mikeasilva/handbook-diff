@@ -1,4 +1,4 @@
-“10. Aaronic Priesthood Quorums,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
+“10. Aaronic Priesthood Quorums,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “10. Aaronic Priesthood Quorums,” General Handbook.
 
@@ -130,7 +130,7 @@ Parents are responsible to teach their children the gospel and help them live it
 
 Leaders should be sensitive to youth who lack family support for gospel living.
 
-Parents and leaders strive to be good examples to the youth. They mentor youth in their efforts to become more like Jesus Christ. The Children and Youth program can help in these efforts (see [ChildrenandYouth.ChurchofJesusChrist.org](http://childrenandyouth.churchofjesuschrist.org)).
+Parents and leaders strive to be good examples to the youth. They mentor youth in their efforts to become more like Jesus Christ. The Children and Youth program can help in these efforts (see [ChildrenandYouth.ChurchofJesusChrist.org](https://childrenandyouth.churchofjesuschrist.org)).
 
 10.2.1.2
 
@@ -162,9 +162,9 @@ Some service and activities should include both young men and young women, espec
 
 Youth can benefit from socializing in larger groups. The youth in two or more wards may occasionally meet together for service and activities. Stakes or districts may occasionally plan service and activities for youth (see [20.3.2](/study/manual/general-handbook/20-activities?lang=eng&id=title_number15-p302#title_number15)).
 
-Adult leaders help ensure that activities are safe (see [safety.ChurchofJesusChrist.org](http://safety.churchofjesuschrist.org); see also [20.7](/study/manual/general-handbook/20-activities?lang=eng&id=title_number41-p290#title_number41) in this handbook). At least two responsible adult leaders should be present at all activities (see [10.8.1](/study/manual/general-handbook/10-aaronic-priesthood?lang=eng&id=title_number32-p147#title_number32)).
+Adult leaders help ensure that activities are safe (see [safety.ChurchofJesusChrist.org](https://safety.churchofjesuschrist.org); see also [20.7](/study/manual/general-handbook/20-activities?lang=eng&id=title_number41-p290#title_number41) in this handbook). At least two responsible adult leaders should be present at all activities (see [10.8.1](/study/manual/general-handbook/10-aaronic-priesthood?lang=eng&id=title_number32-p147#title_number32)).
 
-For more information, see [AaronicPriesthoodQuorums.ChurchofJesusChrist.org](http://aaronicpriesthoodquorums.churchofjesuschrist.org). See also [JustServe.org](http://www.justserve.org) where it is available. These resources provide service and activity ideas.
+For more information, see [AaronicPriesthoodQuorums.ChurchofJesusChrist.org](https://aaronicpriesthoodquorums.churchofjesuschrist.org). See also [JustServe.org](https://www.justserve.org) where it is available. These resources provide service and activity ideas.
 
 *Annual Activities.* In addition to regular youth activities, young men may also participate in the following each year:
 
@@ -172,7 +172,7 @@ For more information, see [AaronicPriesthoodQuorums.ChurchofJesusChrist.org](htt
 
 * An Aaronic Priesthood quorum camp (see [Aaronic Priesthood Quorum Camp Guide](/study/manual/aaronic-priesthood-quorum-camp-guide?lang=eng)). Young men may participate in additional overnight camps, events, and activities throughout the year, where feasible.
 
-* [![icon, optional resources](https://www.churchofjesuschrist.org/imgs/eb9f42669cb91222bcb4f3e6f13a40b7e87b167e/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) A ward or stake youth conference or a For the Strength of Youth (FSY) conference. For information about FSY conferences, see [FSY.ChurchofJesusChrist.org](http://fsy.churchofjesuschrist.org). For information about ward and stake FSY callings and responsibilities, see [FSYLeader.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/youth/childrenandyouth/fsy/about/leaders) (for the U.S. and Canada) or the [FSY Planning Guide](https://www.churchofjesuschrist.org/youth/fsy/bc/fsy/2020/PD60003410_000%20FSY%20Planning%20Guide.pdf) (for all other areas).
+* [![icon, optional resources](https://www.churchofjesuschrist.org/imgs/eb9f42669cb91222bcb4f3e6f13a40b7e87b167e/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) A ward or stake youth conference or a For the Strength of Youth (FSY) conference. For information about FSY conferences, see [FSY.ChurchofJesusChrist.org](https://fsy.churchofjesuschrist.org). For information about ward and stake FSY callings and responsibilities, see [FSYLeader.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/youth/childrenandyouth/fsy/about/leaders) (for the U.S. and Canada) or the [FSY Planning Guide](https://www.churchofjesuschrist.org/youth/fsy/bc/fsy/2020/PD60003410_000%20FSY%20Planning%20Guide.pdf) (for all other areas).
 
 * At least one activity emphasizing the principles in [For the Strength of Youth: A Guide for Making Choices](/study/manual/for-the-strength-of-youth?lang=eng). This event could include both young men and young women. Parents may also be invited.
 
@@ -184,7 +184,7 @@ As an exception, if the ward budget does not have enough money to pay for multid
 
 The bishopric ensures that the budget and activities for young men and young women are sufficient and equitable. Budget for Aaronic Priesthood quorums is based on the number of young men in the ward. Budget for the young women is based on the number of young women in the ward.
 
-See [FSY.ChurchofJesusChrist.org](http://fsy.churchofjesuschrist.org) for information about funding for FSY conferences.
+See [FSY.ChurchofJesusChrist.org](https://fsy.churchofjesuschrist.org) for information about funding for FSY conferences.
 
 ![young men outside](https://www.churchofjesuschrist.org/imgs/081cec304b3011ed8234eeeeac1e2c0e72854086/full/%21500%2C/0/default)
 
@@ -196,13 +196,13 @@ In their efforts to become more like the Savior, youth are invited to set goals 
 
 Youth are encouraged to complete at least two goals in each of the four areas each year. They can use [Personal Development: Youth Guidebook](/study/manual/personal-development-youth-guidebook?lang=eng) or the Gospel Living app to set and record goals.
 
-For more information, see [ChildrenandYouth.ChurchofJesusChrist.org](http://childrenandyouth.churchofjesuschrist.org).
+For more information, see [ChildrenandYouth.ChurchofJesusChrist.org](https://childrenandyouth.churchofjesuschrist.org).
 
 10.2.2
 
 ### Caring for Those in Need
 
-Aaronic Priesthood holders assist the bishop in “administering all temporal things” ([Doctrine and Covenants 107:68](/study/scriptures/dc-testament/dc/107?lang=eng&id=p68#p68)). They should have regular opportunities to serve others in and with their families, during youth activities, and on their own. Ideas for service are available at [ChildrenandYouth.ChurchofJesusChrist.org](http://childrenandyouth.churchofjesuschrist.org). Where it is available, [JustServe.org](http://www.justserve.org) suggests opportunities for service in the community.
+Aaronic Priesthood holders assist the bishop in “administering all temporal things” ([Doctrine and Covenants 107:68](/study/scriptures/dc-testament/dc/107?lang=eng&id=p68#p68)). They should have regular opportunities to serve others in and with their families, during youth activities, and on their own. Ideas for service are available at [ChildrenandYouth.ChurchofJesusChrist.org](https://childrenandyouth.churchofjesuschrist.org). Where it is available, [JustServe.org](https://www.justserve.org) suggests opportunities for service in the community.
 
 10.2.2.1
 
@@ -240,7 +240,7 @@ Parents and leaders encourage young men to prepare to serve full-time missions a
 
 As part of this preparation, the bishopric or stake presidency may organize a missionary preparation class. The main resources for this class are the scriptures, [Missionary Standards for Disciples of Jesus Christ](/study/manual/missionary-standards-for-disciples-of-jesus-christ?lang=eng), and [Preach My Gospel: A Guide to Sharing the Gospel of Jesus Christ](/study/manual/preach-my-gospel-2023?lang=eng). This class is not held during regular Sunday meetings.
 
-[![icon, optional resources](https://www.churchofjesuschrist.org/imgs/eb9f42669cb91222bcb4f3e6f13a40b7e87b167e/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) [Missionary.ChurchofJesusChrist.org](http://missionary.churchofjesuschrist.org) provides additional resources that can help young men as they prepare to serve as missionaries. See [chapters 23](/study/manual/general-handbook/23?lang=eng) and [24](/study/manual/general-handbook/24?lang=eng) for more information.
+[![icon, optional resources](https://www.churchofjesuschrist.org/imgs/eb9f42669cb91222bcb4f3e6f13a40b7e87b167e/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) [Missionary.ChurchofJesusChrist.org](https://missionary.churchofjesuschrist.org) provides additional resources that can help young men as they prepare to serve as missionaries. See [chapters 23](/study/manual/general-handbook/23?lang=eng) and [24](/study/manual/general-handbook/24?lang=eng) for more information.
 
 10.2.4
 
@@ -258,11 +258,11 @@ Aaronic Priesthood holders can help unite families for eternity in many ways. So
 
 * Learn about their extended families and ancestors (see [My Family: Stories That Bring Us Together](https://assets.churchofjesuschrist.org/a3/6d/a36d2fc1743311ee97a6eeeeac1e7b776ff34d50/my_family_stories_that_bring_us_together.pdf)).
 
-* Identify ancestors who need temple ordinances (see [FamilySearch.org](http://www.familysearch.org)).
+* Identify ancestors who need temple ordinances (see [FamilySearch.org](https://www.familysearch.org)).
 
 * Participate in baptisms and confirmations for the dead as often as circumstances allow.
 
-* Participate in indexing (see [FamilySearch.org/indexing](http://www.familysearch.org/indexing)).
+* Participate in indexing (see [FamilySearch.org/indexing](https://www.familysearch.org/indexing)).
 
 * Serve as temple and family history consultants, as called by the bishopric (see [25.2.4](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number10-p51#title_number10)).
 
@@ -282,7 +282,7 @@ When a bishopric member attends a quorum meeting, he presides in the meeting.
 
 The bishopric has the following additional responsibilities for Aaronic Priesthood quorums:
 
-* Mentor quorum presidencies and the bishop’s assistants in the priests quorum. Help them understand and fulfill their duties as leaders. To do this, the bishopric uses the scriptures and “[Aaronic Priesthood and Young Women Class Presidency Orientation](https://www.churchofjesuschrist.org/bc/content/ldsorg/content/pdf/children-and-youth/PD60009511/PD60009511_000-Quorum-Class-Training.pdf)” (see [AaronicPriesthoodQuorums.ChurchofJesusChrist.org](http://aaronicpriesthoodquorums.churchofjesuschrist.org)). They may also use [chapter 4](/study/manual/general-handbook/4-leadership-in-the-church-of-jesus-christ?lang=eng) of this handbook.
+* Mentor quorum presidencies and the bishop’s assistants in the priests quorum. Help them understand and fulfill their duties as leaders. To do this, the bishopric uses the scriptures and “[Aaronic Priesthood and Young Women Class Presidency Orientation](https://www.churchofjesuschrist.org/bc/content/ldsorg/content/pdf/children-and-youth/PD60009511/PD60009511_000-Quorum-Class-Training.pdf)” (see [AaronicPriesthoodQuorums.ChurchofJesusChrist.org](https://aaronicpriesthoodquorums.churchofjesuschrist.org)). They may also use [chapter 4](/study/manual/general-handbook/4-leadership-in-the-church-of-jesus-christ?lang=eng) of this handbook.
 
 * Meet with each young man at least twice a year (see [31.3.1](/study/manual/general-handbook/31?lang=eng&id=title_number25-p229#title_number25)).
 
@@ -444,7 +444,7 @@ Additional Guidelines and Policies
 
 When adults are interacting with youth in Church settings, at least two responsible adults should be present. It may be necessary for quorums to meet together to make this possible.
 
-All adults who work with youth must complete the children and youth protection training within one month of being sustained ([ProtectingChildren.ChurchofJesusChrist.org](http://protectingchildren.churchofjesuschrist.org)). They repeat the training every three years thereafter.
+All adults who work with youth must complete the children and youth protection training within one month of being sustained ([ProtectingChildren.ChurchofJesusChrist.org](https://protectingchildren.churchofjesuschrist.org)). They repeat the training every three years thereafter.
 
 For information about how these guidelines apply to ministering companions, see [21.2.2](/study/manual/general-handbook/21-ministering?lang=eng&id=title_number7-p64#title_number7).
 
@@ -454,7 +454,7 @@ For information about how these guidelines apply to ministering companions, see 
 
 ### Young Men with Disabilities
 
-Quorum leaders give special care to young men with disabilities. [![icon, optional resources](https://www.churchofjesuschrist.org/imgs/eb9f42669cb91222bcb4f3e6f13a40b7e87b167e/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) For information about helping these young men, see [disability.ChurchofJesusChrist.org](http://disability.churchofjesuschrist.org); see also [38.8.27](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number167-p631#title_number167) in this handbook.
+Quorum leaders give special care to young men with disabilities. [![icon, optional resources](https://www.churchofjesuschrist.org/imgs/eb9f42669cb91222bcb4f3e6f13a40b7e87b167e/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) For information about helping these young men, see [disability.ChurchofJesusChrist.org](https://disability.churchofjesuschrist.org); see also [38.8.27](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number167-p631#title_number167) in this handbook.
 
 10.8.3
 

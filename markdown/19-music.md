@@ -1,4 +1,4 @@
-“19. Music,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
+“19. Music,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “19. Music,” General Handbook.
 
@@ -60,6 +60,8 @@ Musical selections should be consistent with the worshipful spirit of the hymns.
 
 Sacred music that is written or sung in culturally diverse musical styles may help unify congregations. Music coordinators and priesthood leaders may include a variety of appropriate musical styles that appeal to members of various backgrounds.
 
+For information about music for baptismal services, see [18.7.2](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number16-p71#title_number16). For information about music for weddings held in Church buildings, see [38.3.4](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number63-p203#title_number63). For information about music for funerals, see [29.5.4](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number35-p201#title_number35).
+
 19.3.2
 
 ### Music in Sacrament Meeting
@@ -98,7 +100,7 @@ Music for stake conference usually includes congregational hymn singing and othe
 
 The chapel may occasionally be used for cultural arts events that include secular music, such as concerts, recitals, and other presentations. While applause is discouraged in worship services, it may be appropriate for these events.
 
-Local priesthood leaders answer questions about cultural activities held in the chapel. See [35.5](/study/manual/general-handbook/35?lang=eng&id=title_number27-p198#title_number27) for information about the appropriate use of meetinghouses.
+Local priesthood leaders answer questions about cultural activities held in the chapel. See [35.5](/study/manual/general-handbook/35?lang=eng&id=title_number27-p259#title_number27) for information about the appropriate use of meetinghouses.
 
 19.3.6
 
@@ -136,7 +138,7 @@ Where there are enough members, wards may organize choirs that sing in sacrament
 
 Ward members may volunteer to sing in the choir. Members and others may also be invited to participate. Auditions are not held.
 
-Choirs are encouraged to use the hymns of the Church. The singing of hymns invites the Spirit and helps choir participants and congregations learn the gospel (see Hymns, [381–83](/study/manual/hymns/using-the-hymnbook?lang=eng&id=title15-figure3#title15)). If other sacred musical selections are used, the guidelines in [19.3.1](/study/manual/general-handbook/19-music?lang=eng&id=title_number43-p55#title_number43) should be followed.
+Choirs are encouraged to use the hymns of the Church. The singing of hymns invites the Spirit and helps choir participants and congregations learn the gospel (see Hymns, [381–83](/study/manual/hymns/using-the-hymnbook?lang=eng&id=title15-figure3_p1#title15)). If other sacred musical selections are used, the guidelines in [19.3.1](/study/manual/general-handbook/19-music?lang=eng&id=title_number43-p55#title_number43) should be followed.
 
 Choir rehearsals do not usually exceed one hour.
 
@@ -234,7 +236,7 @@ The ward choir director recommends music to be sung by the choir, directs choir 
 
 The ward choir accompanist plays for choir rehearsals and for when the choir sings in sacrament meetings.
 
-For more information about conducting choirs, see the Conducting Course manual, pages [73–83](http://www.churchofjesuschrist.org/bc/content/shared/english/pdf/callings/music/conducting-course/33619_eng.pdf#page=78).
+For more information about conducting choirs, see the Conducting Course manual, pages [73–83](https://www.churchofjesuschrist.org/bc/content/shared/english/pdf/callings/music/conducting-course/33619_eng.pdf#page=78).
 
 19.4.3.4
 
@@ -310,7 +312,7 @@ The following resources may also be helpful:
 
 * The Basic Music Course can help members learn how to read and play music. It includes the Conducting Course Kit and Keyboard Course Kit. These resources can be purchased at [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org).
 
-* A Music Education Fund has been established at Church headquarters to provide keyboards, training materials, and instruction for members seeking to develop music skills. For information about this fund, see [musicfund.ChurchofJesusChrist.org](http://musicfund.churchofjesuschrist.org).
+* A Music Education Fund has been established at Church headquarters to provide keyboards, training materials, and instruction for members seeking to develop music skills. For information about this fund, see [musicfund.ChurchofJesusChrist.org](https://musicfund.churchofjesuschrist.org).
 
 Stake and ward music coordinators may organize basic music training courses for music leaders, choir directors, or accompanists. Participants could include those who currently serve in music callings and other interested adults, youth, and children. Music coordinators or specialists may teach the courses. Music coordinators may also recommend qualified instructors to provide training.
 
@@ -340,4 +342,4 @@ When there is not a reasonable alternative, priesthood leaders may authorize the
 
 Long-term community choirs directed by and consisting primarily of Church members are not sponsored by the Church. These choirs should not use references to the Church in their names.
 
-If the stake presidency approves, community choirs may use Church buildings for rehearsals and performances. They should follow Church standards and policies related to meetinghouses (see [35.5](/study/manual/general-handbook/35?lang=eng&id=title_number27-p198#title_number27)).
+If the stake presidency approves, community choirs may use Church buildings for rehearsals and performances. They should follow Church standards and policies related to meetinghouses (see [35.5](/study/manual/general-handbook/35?lang=eng&id=title_number27-p259#title_number27)).

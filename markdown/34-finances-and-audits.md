@@ -1,4 +1,4 @@
-“34. Finances and Audits,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
+“34. Finances and Audits,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “34. Finances and Audits,” General Handbook.
 
@@ -156,7 +156,7 @@ Contributions
 
 Church leaders teach members the principles of tithes and other offerings and encourage members to live these principles. People who are not members of the Church may also make contributions. However, only members of the Church may pay tithing.
 
-Members are encouraged to make their contributions online where possible (see [donations.ChurchofJesusChrist.org](http://donations.churchofjesuschrist.org)). Members may also give their contributions and a completed Tithing and Other Offerings form to the bishop or one of his counselors (see [34.5.2](/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number76-p291#title_number76)). If members use a check, it should be payable to The Church of Jesus Christ of Latter-day Saints.
+Members are encouraged to make their contributions online where possible (see [donations.ChurchofJesusChrist.org](https://donations.churchofjesuschrist.org)). Members may also give their contributions and a completed Tithing and Other Offerings form to the bishop or one of his counselors (see [34.5.2](/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number76-p291#title_number76)). If members use a check, it should be payable to The Church of Jesus Christ of Latter-day Saints.
 
 34.3.1
 
@@ -278,9 +278,9 @@ Handling Church Funds
 
 ---------------------
 
-The stake president and bishop ensure that all Church funds are properly handled. This is a sacred responsibility of their callings. General principles are outlined in the following sections. Bishoprics and clerks review the video “[Sacred Funds, Sacred Responsibilities](http://www.churchofjesuschrist.org/help/support/record-keeping/finance/financial-training-lessons/sacred-funds)” at least once a year.
+The stake president and bishop ensure that all Church funds are properly handled. This is a sacred responsibility of their callings. General principles are outlined in the following sections. Bishoprics and clerks review the video “[Sacred Funds, Sacred Responsibilities](https://www.churchofjesuschrist.org/help/support/record-keeping/finance/financial-training-lessons/sacred-funds)” at least once a year.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F1f68adec25e13e604ae4234089bcf59f283e97be%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  22:58Sacred Funds, Sacred Responsibilities
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F1f68adec25e13e604ae4234089bcf59f283e97be%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  22:58
 
 34.5.1
 
@@ -334,7 +334,7 @@ Members who are responsible for Church funds must never leave them in the meetin
 
 ### Donation Statements
 
-Donor Statements of Contributions are available to all members at [donations.ChurchofJesusChrist.org](http://donations.churchofjesuschrist.org). Leaders should encourage members to regularly review their donor statements. Where applicable, official tax statements are also available at [donations.ChurchofJesusChrist.org](http://donations.churchofjesuschrist.org), from the local unit, or from the area office.
+Donor Statements of Contributions are available to all members at [donations.ChurchofJesusChrist.org](https://donations.churchofjesuschrist.org). Leaders should encourage members to regularly review their donor statements. Where applicable, official tax statements are also available at [donations.ChurchofJesusChrist.org](https://donations.churchofjesuschrist.org), from the local unit, or from the area office.
 
 ![woman writing](https://www.churchofjesuschrist.org/imgs/14fdbc8f4b3011ed997deeeeac1e384cf99d4c5e/full/%21500%2C/0/default)
 
@@ -366,7 +366,7 @@ Stakes and wards may not open their own bank accounts or maintain a petty cash f
 
 #### [icon, optional resources](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Electronic Payments
 
-If the stake or ward uses electronic payments, members are encouraged to enter their personal bank account details in the Expense Reimbursement Account section under Settings in Online Donations at [donations.ChurchofJesusChrist.org](http://donations.churchofjesuschrist.org). The ward or stake should never keep physical or electronic copies of members’ bank account information details.
+If the stake or ward uses electronic payments, members are encouraged to enter their personal bank account details in the Expense Reimbursement Account section under Settings in Online Donations at [donations.ChurchofJesusChrist.org](https://donations.churchofjesuschrist.org). The ward or stake should never keep physical or electronic copies of members’ bank account information details.
 
 34.5.7.2
 
@@ -542,7 +542,7 @@ The stake president and stake audit committee review all audits. After their rev
 
 ### Area Auditors and Assistant Area Auditors
 
-The Area Presidency follows the guidelines in the [Guide to the Area Audit Program](https://assets.churchofjesuschrist.org/29/ad/29ad9bf50ad011ec8ff1eeeeac1e0b12a0c0c4ee/guide_to_area_audit_program.pdf) when calling an area auditor or assistant area auditor.
+The Area Presidency follows the guidelines in the [Guide to the Area Audit Program](https://assets.churchofjesuschrist.org/c8/df/c8dfbac534c211efba09eeeeac1ebe3c921628a1/2024_auditing_guideline_documents.pdf) when calling an area auditor or assistant area auditor.
 
 34.7.5
 
@@ -572,7 +572,7 @@ The stake audit committee may assign the stake clerk or the assistant stake cler
 
 ### For More Information
 
-For more information about audit committees, auditors, and audit procedures, see the [Help Center](http://www.churchofjesuschrist.org/help/support) at ChurchofJesusChrist.org. Stake audit committees may direct questions to the assistant area auditor.
+For more information about audit committees, auditors, and audit procedures, see the [Help Center](https://www.churchofjesuschrist.org/help/support) at ChurchofJesusChrist.org. Stake audit committees may direct questions to the assistant area auditor.
 
 34.8
 

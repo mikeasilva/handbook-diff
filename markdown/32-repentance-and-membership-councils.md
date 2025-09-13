@@ -1,4 +1,4 @@
-“32. Repentance and Church Membership Councils,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
+“32. Repentance and Church Membership Councils,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “32. Repentance and Church Membership Councils,” General Handbook.
 
@@ -150,7 +150,7 @@ Helping someone repent, turn back to God, and be healed through the Atonement of
 
 “And how great is his joy in the soul that repenteth!”
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F3479b96d622d064fa0a78b903451db54cea7ee33%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  6:18How to Care for Sin-burdened Members with Love
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F87817A11C1CCDFCE34750B45947B67EDCA5002E0%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  6:18
 
 32.4
 
@@ -482,7 +482,7 @@ The Lord’s law of chastity is abstinence from sexual relations outside of a le
 
 The Ten Commandments teach, “Thou shalt not steal” or “bear false witness” ([Exodus 20:15–16](/study/scriptures/ot/ex/20?lang=eng&id=p15-p16#p15)). A membership council may be necessary for acts such as robbery, burglary, theft, embezzlement, perjury, and fraud. In these situations, a council is more likely to be necessary to help a member repent if he or she has violated temple covenants or if the sin was repetitive.
 
-See [32.6.1.3](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number21-p103#title_number21) for when a council is required for fraudulent acts. See [32.6.3.3](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number33-p142#title_number33) if a member was involved in embezzlement of Church funds or property. See [38.8.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number239-p2477#title_number239) for affinity fraud.
+See [32.6.1.3](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number21-p103#title_number21) for when a council is required for fraudulent acts. See [32.6.3.3](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number33-p142#title_number33) if a member was involved in embezzlement of Church funds or property. See [38.8.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number239-p2477#title_number239) for affinity fraud. See [32.6.3.4](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=p_tjMYV-p_tmjOi#p_tjMYV) for misuse of personal data.
 
 32.6.2.4
 
@@ -496,7 +496,7 @@ A membership council may be necessary if a member:
 
 In these situations, a council is more likely to be necessary to help a member repent if he or she has violated temple covenants or if the sin was repetitive.
 
-See [32.6.1.4](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number22-p104#title_number22) for when a council is required. See [32.6.3.3](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number33-p142#title_number33) if a member was involved in embezzlement of Church funds or property.
+See [32.6.1.4](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number22-p104#title_number22) for when a council is required. See [32.6.3.3](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number33-p142#title_number33) if a member was involved in embezzlement of Church funds or property. See [32.6.3.4](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=p_tjMYV-p_tmjOi#p_tjMYV) for misuse of personal data.
 
 32.6.2.5
 
@@ -596,7 +596,7 @@ Membership Council Is Required (see [32.6.1](/study/manual/general-handbook/32-r
 
 Membership Council May Be Necessary (see [32.6.2](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number24-figure4_p36#title_number24))
 
-* Robbery, burglary, theft, or embezzlement (see [32.6.3.3](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number33-p142#title_number33) if a member was involved in embezzlement of Church funds or property)
+* Robbery, burglary, theft, or embezzlement (see [32.6.3.3](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number33-p142#title_number33) if a member was involved in embezzlement of Church funds or property; see [32.6.3.4](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=p_tjMYV-p_tmjOi#p_tjMYV) if a member was involved in the misuse of personal data)
 
 * Perjury
 
@@ -616,7 +616,7 @@ Membership Council Is Required (see [32.6.1](/study/manual/general-handbook/32-r
 
 Membership Council May Be Necessary (see [32.6.2](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number24-figure4_p36#title_number24))
 
-* Serious sin while holding a position of authority or trust in the Church or the community (see [32.6.3.3](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number33-p142#title_number33) if a member was involved in embezzlement of Church funds or property)
+* Serious sin while holding a position of authority or trust in the Church or the community (see [32.6.3.3](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number33-p142#title_number33) if a member was involved in embezzlement of Church funds or property; see [32.6.3.4](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=p_tjMYV-p_tmjOi#p_tjMYV) if a member was involved in the misuse of personal data)
 
 * Serious sin that is widely known
 
@@ -717,6 +717,26 @@ The stake president reports one of the following in [Leader and Clerk Resources]
 If the Church Auditing Department determines that a leader or Church employee has embezzled Church funds or property, the First Presidency generally directs that his or her membership record will be annotated. “Leader” is defined as a person holding a prominent Church position, as well as counselors, clerks, and branch presidencies. When repentance is complete, a stake president may request removal of the annotation (see [32.14.5](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number84-p372#title_number84) and [34.7.5](/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number93-p371#title_number93)). An annotation does not mean a membership council or other action has occurred.
 
 32.6.3.4
+
+#### Misuse of Personal Data
+
+Misuse of personal data includes deliberately entering false information in Church records or intentionally using or sharing personal data for non-Church purposes. If a person with access to Church systems has misused personal data, promptly notify the Data Privacy Office at [DataPrivacyOfficer@ChurchofJesusChrist.org](mailto:DataPrivacyOfficer@ChurchofJesusChrist.org).
+
+In serious cases, the stake president may counsel with the Area Presidency about whether a membership council or other action is necessary. Leaders consider:
+
+* The action taken with the personal data.
+
+* Whether the misuse of personal data was a one-time event or a repetition.
+
+* Whether rectifying steps have been taken.
+
+* The person’s level of remorse.
+
+* The position held by the member (see [32.6.1.4](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number22-p104#title_number22) for members holding a prominent Church position).
+
+In some cases, the First Presidency may direct that the membership record of a person who has misused personal data be annotated. This would prevent him or her from holding callings with privileged access to personal data.
+
+32.6.3.5
 
 #### Individuals Who Identify as Transgender
 
@@ -1644,7 +1664,7 @@ The bishop or stake president’s role as a common judge does not end when a mem
 
 The time just after a person’s membership has been restricted or withdrawn is difficult and critical for his or her family. Leaders should be sensitive to these needs and encourage and assist family members.
 
-The bishop ensures that caring members are assigned to minister to a person whose Church membership has been restricted or withdrawn, as the person allows. They also minister to other family members. Individuals under membership restrictions may benefit from participating in indexing (see [25.4.3](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number24-p121#title_number24)).
+The bishop ensures that caring members are assigned to minister to a person whose Church membership has been restricted or withdrawn, as the person allows. They also minister to other family members. Individuals with membership restrictions may benefit from volunteering in one of the ways shown under the “[Get Involved](https://www.familysearch.org/getinvolved)” tab in FamilySearch.org.
 
 If the person moves from the ward, the bishop informs the new bishop and explains what still needs to occur before Church membership restrictions can be removed. If the person’s membership was withdrawn from the Church or the person resigned membership, the bishop makes this same contact if the person has consented to be assisted by Church leaders.
 
@@ -1736,7 +1756,7 @@ In other circumstances, a membership council is not held unless the bishop or st
 
 When a membership council is necessary for a person who had received the temple endowment, the stake president holds it. When a council is necessary for a person who was not endowed, the bishop holds it, with approval from the stake president.
 
-If the person engaged in any of the conduct in [32.16.1, number 9](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=p408-p417#p408), either before or after resigning Church membership, First Presidency approval is required for readmission. If the person engaged in any of the conduct in [32.14.5, number 1](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=p358-p367#p358), either before or after resigning membership, an annotation will be made on the membership record.
+If the person engaged in any of the conduct in [32.16.1, number 9](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number91-p419#title_number91), either before or after resigning Church membership, First Presidency approval is required for readmission. If the person engaged in any of the conduct in [32.14.5, number 1](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=p358-p367#p358), either before or after resigning membership, an annotation will be made on the membership record.
 
 A person who requests readmission must meet the same qualifications as others who are baptized. When the bishop or stake president is satisfied that the person is worthy and sincere in wanting to be readmitted, the person may be baptized and confirmed. A Baptism and Confirmation Certificate is not created (see [32.14.4](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number83-p356#title_number83)).
 

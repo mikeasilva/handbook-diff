@@ -1,4 +1,4 @@
-“26. Temple Recommends,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
+“26. Temple Recommends,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “26. Temple Recommends,” General Handbook.
 
@@ -310,7 +310,7 @@ Returned missionaries then meet with a member of their stake presidency for a te
 
 In these temple recommend interviews, the bishop and member of the stake presidency also review counsel given in the missionary’s release interview (see [24.8.2](/study/manual/general-handbook/24?lang=eng&id=title_number56-aside6_p2#title_number56)). They discuss the returned missionary’s progress, well-being, and current Church calling. They also encourage him or her to continue on a lifelong path of spiritual growth and service.
 
-If the returned missionary does not have a Church calling, the bishop and stake president make certain that one is extended. Returned missionaries may be recommended to serve as temple ordinance workers or volunteers if a temple is nearby (see [25.5](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number25-p150#title_number25)).
+If the returned missionary does not have a Church calling, the bishop and stake president make certain that one is extended. Returned missionaries may be recommended to serve as temple ordinance workers or volunteers if a temple is nearby (see [25.5](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number25-p149#title_number25)).
 
 26.5.4
 

@@ -1,4 +1,4 @@
-“6. Stake Leadership,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
+“6. Stake Leadership,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “6. Stake Leadership,” General Handbook.
 
@@ -102,7 +102,7 @@ Each stake president is a member of a coordinating council (see [29.4](/study/ma
 
 The stake presidency plans the stake meetings listed in [29.3](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number15-p168#title_number15). The stake president presides at stake meetings unless a General Authority or Area Seventy attends. His counselors may conduct these meetings. They may also preside if the stake president is absent.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F41f3344b7d3b66c437f0e91e468e89cfae084074%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  4:26Church Handbook Training
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F41f3344b7d3b66c437f0e91e468e89cfae084074%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  4:26
 
 6.2.1.5
 
@@ -110,7 +110,7 @@ The stake presidency plans the stake meetings listed in [29.3](/study/manual/gen
 
 The stake president’s responsibilities for callings and releases are outlined in [chapter 30](/study/manual/general-handbook/30-callings-in-the-church?lang=eng). He may assign his counselors and high councilors to extend callings and releases as outlined in [30.8](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number13-figure12_p15#title_number13). The stake president personally extends the following callings. For some, he must first receive approval as noted.
 
-* *Counselors in the Stake Presidency.* When a new stake president is called, the presiding General Authority or Area Seventy calls and sets apart his counselors, who are recommended by the new stake president. When a counselor needs to be released or called in an existing stake presidency, the stake president submits a recommendation through [Leader and Clerk Resources (LCR)](http://lcr.churchofjesuschrist.org). He may interview, call, and set apart a counselor—or release a counselor—after receiving approval from the First Presidency.
+* *Counselors in the Stake Presidency.* When a new stake president is called, the presiding General Authority or Area Seventy calls and sets apart his counselors, who are recommended by the new stake president. When a counselor needs to be released or called in an existing stake presidency, the stake president submits a recommendation through [Leader and Clerk Resources (LCR)](https://lcr.churchofjesuschrist.org). He may interview, call, and set apart a counselor—or release a counselor—after receiving approval from the First Presidency.
 
 * *Stake Patriarch.* The stake president may interview, call, and ordain a patriarch after receiving approval from the Quorum of the Twelve Apostles. See [6.6.1](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number24-p203#title_number24).
 
@@ -162,7 +162,9 @@ The stake presidency directs communication efforts in the stake. Members of the 
 
 The stake president is the primary Church spokesman to the news media on matters that pertain to the stake. He may delegate this role as needed.
 
-[![icon, guidelines for adaptation](https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) The stake president or an assigned counselor may organize and oversee a stake communication council. This council helps Church leaders build relationships with civic and community leaders. It also helps these leaders communicate effectively with Church members and the public.
+[![icon, guidelines for adaptation](https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) The stake president or an assigned counselor may organize a stake communication council. This council helps Church leaders build relationships with civic and community leaders. It also helps these leaders communicate effectively with Church members and the public.
+
+The stake president or an assigned counselor oversees this council as its priesthood adviser. Information about this role is provided in [Communication Councils: A Guide for Priesthood Leaders](/study/manual/communication-councils-for-priesthood-leaders?lang=eng).
 
 [![icon, guidelines for adaptation](https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) The communication council may include a stake communication director, assistant directors, and specialists as needed. They are called and set apart by the stake president or an assigned counselor or high councilor.
 
@@ -170,7 +172,7 @@ There is also a communication council at the coordinating council level (see [29
 
 The communication council structure differs in the Utah Area. Area Seventies in the Utah Area can provide stake presidents with details about this structure.
 
-For information about communication callings, see [GCN.ChurchofJesusChrist.org](http://publicaffairs.churchofjesuschrist.org) .
+For information about communication callings, see [GCN.ChurchofJesusChrist.org](https://publicaffairs.churchofjesuschrist.org).
 
 6.2.2
 
@@ -240,7 +242,7 @@ Differences between the Authority of District Presidents and That of Stake Presi
 
 In each member district, a Melchizedek Priesthood holder is called as the district president. He holds the priesthood keys needed to preside (see [3.4.1.1](/study/manual/general-handbook/3-priesthood-principles?lang=eng&id=title_number9-p40#title_number9)). He serves much like a stake president but with the following differences:
 
-* He is called and set apart by the mission president, after approval by the Area Presidency (see [30.8.4](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number21-figure8_p17#title_number21)). A stake president is called and set apart by an assigned General Authority or Area Seventy (see [30.8.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number114-figure1_note1_p3#title_number114)).
+* He is called and set apart by the mission president, after approval by the Area Presidency (see [30.8.4](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number21-figure8_p17#title_number21)). A stake president is called and set apart by an assigned General Authority or Area Seventy (see [30.8.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number114-figure1_note3_p1#title_number114)).
 
 * He may be an elder or a high priest. A stake president must be a high priest.
 
@@ -286,7 +288,7 @@ The executive secretary has the following responsibilities:
 
 * Schedule appointments for the stake presidency.
 
-* Advise the stake presidency of members who are entering the military or are already in military service. Under the direction of the stake presidency, help coordinate Church orientation for stake members who are entering the military (see [38.9.3](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number208-p736#title_number208)).
+* Advise the stake presidency of members who are entering the military or are already in military service. Under the direction of the stake presidency, help coordinate Church orientation for stake members who are entering the military (see [38.9.3](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number208-p_yt1Js#title_number208)).
 
 * Orient new ward executive secretaries soon after they are called. Provide ongoing instruction as needed.
 
@@ -354,7 +356,7 @@ The stake presidency assigns high councilors to work with the stake Young Women 
 
 [![icon, optional resources](https://www.churchofjesuschrist.org/imgs/eb9f42669cb91222bcb4f3e6f13a40b7e87b167e/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) The stake presidency may assign high councilors to assist with the programs listed in [6.2.1.6](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number10-p39#title_number10). They may also assign a high councilor to assist with needs for members with disabilities (see [38.8.27](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number167-p599#title_number167)).
 
-[![icon, optional resources](https://www.churchofjesuschrist.org/imgs/eb9f42669cb91222bcb4f3e6f13a40b7e87b167e/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) The stake presidency may assign high councilors to represent them by speaking in sacrament meetings and other settings. The stake presidency determines the frequency of these speaking assignments. It is not necessary for high councilors to speak in sacrament meeting every month. The stake presidency may also assign stake organization presidency members to speak in these settings (see [6.7.1](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number32-p252#title_number32) and [6.7.2](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number37-p262#title_number37)).
+[![icon, optional resources](https://www.churchofjesuschrist.org/imgs/eb9f42669cb91222bcb4f3e6f13a40b7e87b167e/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) The stake presidency may assign high councilors to represent them by speaking in sacrament meetings and other settings. The stake presidency determines the frequency of these speaking assignments. It is not necessary for high councilors to speak in sacrament meeting every month. The stake presidency may also assign stake organization presidency members to speak in these settings (see [6.7.1](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number32-p251#title_number32) and [6.7.2](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number37-p262#title_number37)).
 
 ![men talking](https://www.churchofjesuschrist.org/imgs/feee4e624b2f11eda4e1eeeeac1eefa0dae683a2/full/%21500%2C/0/default)
 
@@ -372,7 +374,7 @@ The stake presidency assigns high councilors to serve on other committees. For e
 
 ### Serve as Stake Organization Leaders
 
-The stake presidency calls and sets apart a high councilor to be the stake Young Men president (see [6.7.2](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number37-p262#title_number37)). They call and set apart another high councilor to be the stake Sunday School president (see [6.7.1](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number32-p252#title_number32)).
+The stake presidency calls and sets apart a high councilor to be the stake Young Men president (see [6.7.2](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number37-p262#title_number37)). They call and set apart another high councilor to be the stake Sunday School president (see [6.7.1](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number32-p251#title_number32)).
 
 6.6
 
@@ -444,7 +446,7 @@ The stake president meets with the patriarch at least twice a year. They discuss
 
 At least twice a year, the stake president reviews the blessings the patriarch has given. As needed, he may make general suggestions about the content of the patriarch’s blessings.
 
-The stake president ensures that copies of transcribed blessings are given promptly to recipients. He also ensures that all blessings are submitted to Church headquarters. Blessings are submitted through the [Patriarchal Blessing System](http://pb.churchofjesuschrist.org/pbrequest#/) on ChurchofJesusChrist.org. Where this system is not accessible, blessings should be mailed to the following address at least once every six months:
+The stake president ensures that copies of transcribed blessings are given promptly to recipients. He also ensures that all blessings are submitted to Church headquarters. Blessings are submitted through the [Patriarchal Blessing System](https://pb.churchofjesuschrist.org/pbrequest) on ChurchofJesusChrist.org. Where this system is not accessible, blessings should be mailed to the following address at least once every six months:
 
 Church History Library
 

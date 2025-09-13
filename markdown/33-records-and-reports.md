@@ -1,4 +1,4 @@
-“33. Records and Reports,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
+“33. Records and Reports,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “33. Records and Reports,” General Handbook.
 
@@ -16,7 +16,7 @@ Introduction
 
 ------------
 
-The procedures in this chapter apply generally to units that use the Church’s online record-keeping tools, including [Leader and Clerk Resources (LCR)](https://lcr.churchofjesuschrist.org), [Member Tools](http://churchofjesuschrist.org/help/support/about-member-tools-application), and [Ward Directory and Map](https://directory.churchofjesuschrist.org). Units that do not have access to these tools should work with the Global Services Department or the area office.
+The procedures in this chapter apply generally to units that use the Church’s online record-keeping tools, including [Leader and Clerk Resources (LCR)](https://lcr.churchofjesuschrist.org), [Member Tools](https://churchofjesuschrist.org/help/support/about-member-tools-application), and [Ward Directory and Map](https://directory.churchofjesuschrist.org). Units that do not have access to these tools should work with the Global Services Department or the area office.
 
 Record keeping has always been important in the Lord’s Church. For example:
 
@@ -384,7 +384,7 @@ Sometimes a member has not lived in the same ward continuously for at least one 
 
 Under no circumstances may membership records be given or shown to anyone other than the bishop or a clerk.
 
-Members may view membership information for themselves and for any dependent children living at home on the [Member Tools app](http://churchofjesuschrist.org/help/support/about-member-tools-application). They may also request printed copies of their Individual Ordinance Summaries from the clerk. If errors are found, a clerk ensures that they are corrected on the membership records.
+Members may view membership information for themselves and for any dependent children living at home on the [Member Tools app](https://churchofjesuschrist.org/help/support/about-member-tools-application). They may also request printed copies of their Individual Ordinance Summaries from the clerk. If errors are found, a clerk ensures that they are corrected on the membership records.
 
 Instructions on how to create a membership record are available in [LCR](https://lcr.churchofjesuschrist.org).
 
@@ -568,7 +568,7 @@ See [33.6](/study/manual/general-handbook/33-records-and-reports?lang=eng&id=tit
 
 ### Audits of Membership Records
 
-Twice each year the stake clerk or an assistant stake clerk ensures that an [audit of membership records](http://churchofjesuschrist.org/help/support/membership-record-audit) is conducted in each ward using [LCR](https://lcr.churchofjesuschrist.org/records/mbr-audit/summary). The stake president may call others who are experienced in membership record keeping to assist with these audits. Audits should be completed by June 15 and December 15 of each year.
+Twice each year the stake clerk or an assistant stake clerk ensures that an [audit of membership records](https://churchofjesuschrist.org/help/support/membership-record-audit) is conducted in each ward using [LCR](https://lcr.churchofjesuschrist.org/records/mbr-audit/summary). The stake president may call others who are experienced in membership record keeping to assist with these audits. Audits should be completed by June 15 and December 15 of each year.
 
 33.7
 
@@ -650,7 +650,9 @@ Stake and ward leaders should make effective records management a part of their 
 
 All Church records, reports, and data should be protected against unauthorized access, change, destruction, or disclosure. This information should be kept in a safe place. Highly sensitive records, including computer printouts, should be kept in a locked drawer or cabinet in the leader’s office when they are not being used.
 
-Where possible, electronic copies of records, reports, and data should be encrypted and password protected. Lost or stolen Church-owned devices or storage media should be reported promptly at [incidents.ChurchofJesusChrist.org](https://riskonnectrmd--c.visualforce.com/apex/IncidentMgmtPortal_mobile). Misuse of Church information should also be reported.
+Where possible, electronic copies of records, reports, and data should be encrypted and password protected. Lost or stolen Church-owned devices or storage media should be reported promptly at [incidents.ChurchofJesusChrist.org](https://riskonnectrmd--c.visualforce.com/apex/IncidentMgmtPortal_mobile). Misuse of Church information, including personal data, should also be reported.
+
+A membership council may be necessary in serious cases of misuse of personal data (see [32.6.3.4](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number34-p143#title_number34)). Such misuse includes deliberately entering false information in Church systems or intentionally using or sharing personal data for non-Church purposes.
 
 33.9.1.1
 

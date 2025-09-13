@@ -1,4 +1,4 @@
-“14. Single Members,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
+“14. Single Members,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “14. Single Members,” General Handbook.
 
@@ -248,7 +248,7 @@ Service activities can focus on:
 
 * Humanitarian needs locally or elsewhere.
 
-Where it is available, [JustServe.org](http://www.justserve.org) suggests service opportunities for both individuals and groups.
+Where it is available, [JustServe.org](https://www.justserve.org) suggests service opportunities for both individuals and groups.
 
 14.2.2.2
 
@@ -274,17 +274,17 @@ As individuals and as groups, single members can help unite families for eternit
 
 * Prepare to make covenants with God by receiving ordinances, including the temple endowment (see [27.2.2](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number16-p66#title_number16)).
 
-* Serve as temple ordinance workers or volunteers (see [25.5](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number25-p150#title_number25)).
+* Serve as temple workers (see [25.5](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number25-p149#title_number25)).
 
 * Participate in ordinances for the deceased.
 
 * Learn about their extended families and ancestors (see [My Family: Stories That Bring Us Together](https://assets.churchofjesuschrist.org/a3/6d/a36d2fc1743311ee97a6eeeeac1e7b776ff34d50/my_family_stories_that_bring_us_together.pdf)).
 
-* Identify ancestors who need temple ordinances (see [FamilySearch.org](http://www.familysearch.org)).
+* Identify ancestors who need temple ordinances (see [FamilySearch.org](https://www.familysearch.org)).
 
 * Serve as temple and family history consultants (see [25.2.4](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number10-p51#title_number10)).
 
-* Participate in indexing (see [FamilySearch.org/indexing](http://www.familysearch.org/indexing)).
+* Participate in indexing (see [FamilySearch.org/indexing](https://www.familysearch.org/indexing)).
 
 14.3
 

@@ -1,4 +1,4 @@
-“37. Specialized Stakes, Wards, and Branches,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
+“37. Specialized Stakes, Wards, and Branches,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “37. Specialized Stakes, Wards, and Branches,” General Handbook.
 
@@ -71,6 +71,8 @@ Boundaries for language units generally follow the boundaries of geographic ward
 The children and youth of a language unit may combine classes with a geographic unit if desired (see [29.2.8](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number11-p96#title_number11)).
 
 See [36.3](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&id=title_number4-p28#title_number4) for language branches in a mission. See [36.4.2](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&id=title_number7-p62#title_number7) for ward and branch naming guidelines.
+
+For support regarding the creation of a language *stake* in the United States and Canada, call 1-801-240-1007. Outside the United States and Canada, call the area office.
 
 ![youth talking](https://www.churchofjesuschrist.org/imgs/15abfdee4b3011edb134eeeeac1e1827ad8bcb9b/full/%21500%2C/0/default)
 

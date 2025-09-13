@@ -1,4 +1,4 @@
-“20. Activities,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
+“20. Activities,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “20. Activities,” General Handbook.
 
@@ -104,7 +104,7 @@ The following sections provide examples of good activities.
 
 Service activities provide opportunities to show love for others, to feel the joy of helping them, and to improve communities.
 
-These activities can include visiting people who are sick or lonely, beautifying Church buildings and grounds, and participating in community projects. Where it is available, [JustServe.org](http://www.justserve.org) suggests community service opportunities.
+These activities can include visiting people who are sick or lonely, beautifying Church buildings and grounds, and participating in community projects. Where it is available, [JustServe.org](https://www.justserve.org) suggests community service opportunities.
 
 Service activities should follow safety guidelines (see [20.7.6.1](/study/manual/general-handbook/20-activities?lang=eng&id=title_number53-p261#title_number53)).
 
@@ -214,7 +214,7 @@ Multistake activities should be simple and varied.
 
 If stake presidents feel that a multistake activity would benefit the members of their stakes, they may request permission from the Area Presidency. Before proposing a multistake activity, stake presidents determine whether it is the best way to meet the needs they have identified. The stake presidents consider the cost, time, and travel the activity would require. They also consider safety (see [20.7.6](/study/manual/general-handbook/20-activities?lang=eng&id=title_number52-p280#title_number52)).
 
-Meetings to coordinate the planning of multistake activities may be held before or after area council and coordinating council meetings (see [5.2.3](/study/manual/general-handbook/5-general-and-area-leadership?lang=eng&id=title_number13-p67#title_number13) and [5.2.4](/study/manual/general-handbook/5-general-and-area-leadership?lang=eng&id=title_number14-p79#title_number14)). As needed, additional leaders—including stake Relief Society, Young Men, and Young Women presidents—could be invited to attend.
+Meetings to coordinate the planning of multistake activities may be held before or after area council and coordinating council meetings (see [5.2.3](/study/manual/general-handbook/5-general-and-area-leadership?lang=eng&id=title_number13-p67#title_number13) and [5.2.4](/study/manual/general-handbook/5-general-and-area-leadership?lang=eng&id=title_number14-p72#title_number14)). As needed, additional leaders—including stake Relief Society, Young Men, and Young Women presidents—could be invited to attend.
 
 The Area Presidency may assign stake presidents or Area Seventies to lead committees that plan and carry out multistake or area activities. Stake presidencies may call members of their stakes to serve on these committees.
 
@@ -332,9 +332,9 @@ Youth may not stay in the same tent or room as an adult if there is only one adu
 
 All Church overnight activities must include at least two adult leaders.
 
-A sufficient number of adult priesthood holders must be present at all times during overnight activities to provide support and protection. For Young Women activities, priesthood holders must stay in facilities separate from the young women.
+When adult priesthood holders attend Young Women activities, they must stay in facilities separate from the young women.
 
-Leaders fill out an [Event and Activity Plan form](https://assets.churchofjesuschrist.org/2d/98/2d9801c0fdc111ebbb5eeeeeac1e9b2a98a7c28a/event_and_activity_plan.pdf) for all overnight activities.
+Leaders fill out an [Event and Activity Plan form](https://assets.churchofjesuschrist.org/4g/2c/4g2cqqrzuu6ktrwtl7zd1xo4uimj2xyoetqgrha5/event_and_activity_plan_form_update.pdf) for all overnight activities.
 
 Overnight activities at Church meetinghouses or meetinghouse grounds are not approved.
 
@@ -500,7 +500,7 @@ Leaders ensure that the following safety policies and guidelines are observed in
 
 At least two adults must be present at all Church activities attended by children and youth. Additional adults may be needed depending on the size of the group, the skills required for the activity, or other factors. Parents are encouraged to help.
 
-All who work with children and youth must complete the children and youth protection training. See [ProtectingChildren.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/callings/church-safety-and-health/protecting-children-and-youth).
+All who work with children and youth must complete the children and youth protection training. See [ProtectingChildren.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/callings/church-safety-and-health/protecting-children-and-youth).
 
 20.7.2
 
@@ -522,7 +522,7 @@ See [20.7.7](/study/manual/general-handbook/20-activities?lang=eng&id=title_numb
 
 #### Personal Health and Accident Insurance
 
-In many parts of the world, health and accident insurance coverage is available through employers or government programs. Members who have this coverage should access all available benefits if they incur an injury during a Church activity before seeking help from Church activity insurance (see [20.7.3.4](/study/manual/general-handbook/20-activities?lang=eng&id=title_number48-p246#title_number48)).
+In many parts of the world, health and accident insurance coverage is available through employers or government programs. Members who have this coverage should access all available benefits if they incur an injury during a Church activity before seeking help through Church Activity Medical Assistance (CAMA) (see [20.7.3.4](/study/manual/general-handbook/20-activities?lang=eng&id=title_number48-p246#title_number48)).
 
 20.7.3.3
 
@@ -550,7 +550,7 @@ Telephone: 1-801-578-5650 or 1-800-777-1647
 
 Email: [churchactivity@dmba.com](mailto:churchactivity@dmba.com)
 
-Website: [dmba.com/churchactivity](http://www.dmba.com/churchactivity)
+Website: [dmba.com/churchactivity](https://www.dmba.com/churchactivity)
 
 20.7.3.5
 
@@ -576,7 +576,7 @@ Leaders should plan well in advance to allow time to prepare the certificates.
 
 Children and youth may not participate in a Church activity without the permission of their parents or guardians. For Church activities that include an overnight stay, lengthy travel, or higher than ordinary risks, written consent is necessary. Some activities may require additional planning to reduce risks. Safety should always be an important consideration. See [20.7.6.1](/study/manual/general-handbook/20-activities?lang=eng&id=title_number53-p261#title_number53).
 
-Parents and guardians give this consent by signing the [Permission and Medical Release form](https://assets.churchofjesuschrist.org/ec/6a/ec6a32b2ded011eda8abeeeeac1eefc32321140e/pd60004035_000_interactive.pdf). The person who leads the activity should have a signed form for each participant.
+Parents and guardians give this consent by signing the [Permission and Medical Release form](https://assets.churchofjesuschrist.org/ec/6a/ec6a32b2ded011eda8abeeeeac1eefc32321140e/parental_or_guardian_permission_medical_release.pdf). The person who leads the activity should have a signed form for each participant.
 
 20.7.5
 
@@ -664,7 +664,7 @@ Participants should not travel long distances (more than a few hours) for activi
 
 Travel practices and the application of guidelines in this section should be consistent among units in the same area or coordinating council. Stake presidents may discuss and agree on travel practices during coordinating council meetings.
 
-Leaders fill out an [Event and Activity Plan form](https://www.churchofjesuschrist.org/callings/church-safety-and-health/event-and-activity-plan) for activities that involve long-distance travel.
+Leaders fill out an [Event and Activity Plan form](https://assets.churchofjesuschrist.org/4g/2c/4g2cqqrzuu6ktrwtl7zd1xo4uimj2xyoetqgrha5/event_and_activity_plan_form_update.pdf) for activities that involve long-distance travel.
 
 When a Church activity for youth involves long-distance travel or staying overnight, parents or guardians must give written permission for their children to participate (see [20.7.4](/study/manual/general-handbook/20-activities?lang=eng&id=title_number50-p255#title_number50)). Responsible adult supervision must be provided (see [20.7.1](/study/manual/general-handbook/20-activities?lang=eng&id=title_number42-p234#title_number42)).
 

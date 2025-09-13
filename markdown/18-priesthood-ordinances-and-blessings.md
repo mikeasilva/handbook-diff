@@ -1,4 +1,4 @@
-“18. Performing Priesthood Ordinances and Blessings,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
+“18. Performing Priesthood Ordinances and Blessings,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “18. Performing Priesthood Ordinances and Blessings,” General Handbook.
 
@@ -18,7 +18,7 @@ Introduction
 
 Ordinances and blessings are sacred acts performed by the authority of the priesthood and in the name of Jesus Christ. As priesthood holders perform ordinances and blessings, they follow the Savior’s example of blessing others. Priesthood ordinances and blessings provide access to God’s power (see [Doctrine and Covenants 84:20](/study/scriptures/dc-testament/dc/84?lang=eng&id=p20#p20)).
 
-Ordinances and blessings are to be performed with faith in Heavenly Father and Jesus Christ and according to the guidance of the Holy Ghost. Leaders ensure that they are performed with proper approval (where necessary), with the required priesthood authority, in the proper way, and by worthy participants (see [18.3](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number5-figure2#title_number5)).
+Ordinances and blessings are to be performed with faith in Heavenly Father and Jesus Christ and according to the guidance of the Holy Ghost. Leaders ensure that they are performed with proper approval (where necessary), with the required priesthood authority, in the proper way, and by worthy participants (see [18.3](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number5-figure2_p22#title_number5)).
 
 For policies on priesthood ordinances and blessings, see [38.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number7-p2860#title_number7).
 
@@ -308,7 +308,7 @@ The ordinance of naming and blessing a child is performed by Melchizedek Priesth
 
 A person or family who desires that a child receive a name and a blessing coordinates the ordinance with the bishop. He holds the priesthood keys for naming and blessing children in the ward.
 
-A bishop may allow a father who holds the Melchizedek Priesthood to name and bless his child even if the father is not fully temple worthy (see [18.3](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number5-figure2#title_number5)). Bishops encourage fathers to prepare themselves to bless their own children.
+A bishop may allow a father who holds the Melchizedek Priesthood to name and bless his child even if the father is not fully temple worthy (see [18.3](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number5-figure2_p22#title_number5)). Bishops encourage fathers to prepare themselves to bless their own children.
 
 To act as voice in blessing a child, a person who is outside his own ward must show a current temple recommend to the presiding leader. Or he may show a [Recommend to Perform an Ordinance](https://lcr.churchofjesuschrist.org/report/forms/recommend-to-perform-an-ordinance) signed by a member of his bishopric.
 
@@ -330,13 +330,13 @@ Under the direction of the bishopric, Melchizedek Priesthood holders gather in a
 
 6. Closes in the name of Jesus Christ.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F49a53d6254aa6fcd562894e44f1c104c00c8cbb9%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  1:41Naming and Blessing of Children
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F49a53d6254aa6fcd562894e44f1c104c00c8cbb9%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  1:41
 
 18.6.3
 
 ### Child Record Form and Blessing Certificate
 
-Before a child is blessed, a clerk uses [Leader and Clerk Resources (LCR)](http://lcr.churchofjesuschrist.org) to prepare a [Child Record Form](https://lcr.churchofjesuschrist.org/records/create-start). After the blessing, he creates the membership record in that system and prepares a [Blessing Certificate](https://lcr.churchofjesuschrist.org/records/certificates/child-blessing). This certificate is signed by the bishop and given to the child’s parents or guardians.
+Before a child is blessed, a clerk uses [Leader and Clerk Resources (LCR)](https://lcr.churchofjesuschrist.org) to prepare a [Child Record Form](https://lcr.churchofjesuschrist.org/records/create-start). After the blessing, he creates the membership record in that system and prepares a [Blessing Certificate](https://lcr.churchofjesuschrist.org/records/certificates/child-blessing). This certificate is signed by the bishop and given to the child’s parents or guardians.
 
 The name on the membership record and certificate should match the birth certificate, civil birth registry, or current legal name.
 
@@ -426,7 +426,7 @@ Under the bishopric’s guidance, the ward mission leader (if one is called) or 
 
 The ordinance of baptism is performed by a priest or Melchizedek Priesthood holder. The person who performs a baptism must be approved by the bishop (or by the mission president if a full-time missionary is performing the baptism).
 
-A bishop may allow a father who is a priest or a Melchizedek Priesthood holder to baptize his child even if the father is not fully temple worthy (see [18.3](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number5-figure2#title_number5)). Bishops encourage fathers to prepare themselves to baptize their own children.
+A bishop may allow a father who is a priest or a Melchizedek Priesthood holder to baptize his child even if the father is not fully temple worthy (see [18.3](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number5-figure2_p22#title_number5)). Bishops encourage fathers to prepare themselves to baptize their own children.
 
 To perform a baptism, a person who is outside his own ward must show a current temple recommend to the presiding leader. Or he may show a [Recommend to Perform an Ordinance](https://lcr.churchofjesuschrist.org/ordinance/ordinance-recommend) signed by a member of his bishopric.
 
@@ -446,7 +446,7 @@ For safety, a responsible adult must be present while a font is being filled and
 
 A person who performs a baptism and a person who is being baptized wear white clothing that is not transparent when wet. An endowed person wears the temple garment under this clothing while performing a baptism. Local units purchase baptismal clothing with budget funds and do not charge for its use.
 
-Baptismal clothing may be ordered at [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org/usa/en/clothing-3074457345616678790-1).
+Baptismal clothing may be ordered at [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org/top-cat/units-and-callings/temples/baptistry/5637160427.c).
 
 18.7.6
 
@@ -474,7 +474,7 @@ To perform the ordinance of baptism, a priest or Melchizedek Priesthood holder:
 
 6. Helps the person to come up out of the water.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fddf36a81a990dd865ce06ec70b51289dd4dc56e8%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  3:16Baptism of a New Member
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fddf36a81a990dd865ce06ec70b51289dd4dc56e8%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  3:16
 
 18.7.8
 
@@ -508,7 +508,7 @@ New members are recognized and welcomed as a new member of the ward in the sacra
 
 The ordinance of confirmation is performed by Melchizedek Priesthood holders. The one who acts as voice must be approved by the bishop (or by the mission president if a full-time missionary is performing the confirmation).
 
-Only a Melchizedek Priesthood holder who is temple worthy may act as voice for a confirmation. However, a bishop may allow a father who holds the Melchizedek Priesthood to stand in the circle for the confirmation of his child even if the father is not fully temple worthy (see [18.3](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number5-figure2#title_number5)).
+Only a Melchizedek Priesthood holder who is temple worthy may act as voice for a confirmation. However, a bishop may allow a father who holds the Melchizedek Priesthood to stand in the circle for the confirmation of his child even if the father is not fully temple worthy (see [18.3](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number5-figure2_p22#title_number5)).
 
 At least one member of the bishopric participates in this ordinance. When missionary elders have taught a convert, the bishop invites them to participate.
 
@@ -532,15 +532,15 @@ Under the direction of the bishopric, one or more Melchizedek Priesthood holders
 
 6. Closes in the name of Jesus Christ.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fae69c48312f40940553a4803902c47a5f1d77625%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  1:54Confirming a Recently Baptized Member
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fae69c48312f40940553a4803902c47a5f1d77625%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  1:55
 
 18.8.3
 
 ### Baptism and Confirmation Record and Certificate
 
-Before a child who is a member of record is interviewed for baptism, a clerk uses [LCR](http://lcr.churchofjesuschrist.org) to prepare a [Baptism and Confirmation Form](https://lcr.churchofjesuschrist.org/records/ordinances/baptism). The bishop or an assigned counselor conducts the interview and signs the form. After the baptism and confirmation, a clerk uses this form to update the child’s membership record in [LCR](http://lcr.churchofjesuschrist.org).
+Before a child who is a member of record is interviewed for baptism, a clerk uses [LCR](https://lcr.churchofjesuschrist.org) to prepare a [Baptism and Confirmation Form](https://lcr.churchofjesuschrist.org/records/ordinances/baptism). The bishop or an assigned counselor conducts the interview and signs the form. After the baptism and confirmation, a clerk uses this form to update the child’s membership record in [LCR](https://lcr.churchofjesuschrist.org).
 
-When a full-time missionary interviews a convert for baptism, he fills out the Baptism and Confirmation Record using the Preach My Gospel app. After the baptism and confirmation, the missionaries record the information in the app and submit it to the ward clerk electronically. The ward clerk reviews the information in [LCR](http://lcr.churchofjesuschrist.org) and creates the membership record.
+When a full-time missionary interviews a convert for baptism, he fills out the Baptism and Confirmation Record using the Preach My Gospel app. After the baptism and confirmation, the missionaries record the information in the app and submit it to the ward clerk electronically. The ward clerk reviews the information in [LCR](https://lcr.churchofjesuschrist.org) and creates the membership record.
 
 After the membership record is created, a clerk prepares a Baptism and Confirmation Certificate. This certificate is signed by the bishop and given to the person.
 
@@ -584,7 +584,7 @@ When there are enough Aaronic Priesthood holders, they usually perform these dut
 
 Because of the sacred nature of the sacrament, priesthood leaders should prepare carefully so it is orderly and reverent. Sacrament tablecloths should be white, clean, and pressed. Sacrament trays should be clean. Sacrament trays and cups should be ordered well in advance.
 
-Sacrament supplies may be ordered at [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org/usa/en/sacrament-3074457345616678805-1).
+Sacrament supplies may be ordered at [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org/top-cat/units-and-callings/wards-branches-stakes-and-districts/sacrament/5637160445.c).
 
 Those who administer the sacrament should do so in a dignified manner, realizing that they are representing the Lord. The bishopric encourages them to ponder the Savior’s Atonement as they prepare, bless, and pass the sacrament.
 
@@ -598,7 +598,7 @@ If members have food allergies or gluten intolerance, they discuss with a member
 
 Generally, bread must be broken as part of the sacrament ordinance. However, to ensure the health and safety of a particular member, that member may provide allergen-free bread or another broken bread-like substitute in a sealed plastic bag or cup. They give this to a priesthood holder to place on a separate tray. The bishopric helps those who pass the sacrament know which members to whom the allergen-free item should be passed.
 
-See [disability.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/life/disability) for guidelines about food allergies.
+See [disability.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/life/disability) for guidelines about food allergies.
 
 Although the sacrament is for members of the Church, nothing should be done to prevent others from partaking of it.
 
@@ -632,7 +632,7 @@ Although the sacrament is for members of the Church, nothing should be done to p
 
 12. After the meeting, those who prepared the sacrament clean up, fold the tablecloths, and remove any unused bread.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F4f841668b3ba3b9a41844fbfaaf60211e6eb92cd%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  3:32Blessing the Sacrament
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F4f841668b3ba3b9a41844fbfaaf60211e6eb92cd%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  3:32
 
 18.10
 
@@ -726,7 +726,7 @@ If a member in good standing opposes the ordination, the presiding leader or ano
 
 Only members in good standing may participate in the sustaining. However, if a member not in good standing or a person who is not a member opposes the action, the bishop or stake president may hear his or her concern in private outside of the meeting.
 
-In some cases, a brother may need to be ordained an elder or high priest before he can be presented in stake conference. When this happens, he is presented in his ward sacrament meeting for sustaining. He is then presented in the next stake conference to ratify the ordination (adapting the process for sustaining, described above). This includes giving stake members an opportunity to sustain or oppose the action.
+In some cases, a brother may need to be ordained an elder or high priest before he can be presented in stake conference. When this happens, a member of the stake presidency or an assigned high councilor presents him in his ward sacrament meeting for sustaining. He is then presented in the next stake conference to ratify the ordination (adapting the process for sustaining, described above). This includes giving stake members an opportunity to sustain or oppose the action.
 
 ![man being ordained](https://www.churchofjesuschrist.org/imgs/079e6d5d4b3011eda39feeeeac1e8f75fb74fc13/full/%21500%2C/0/default)
 
@@ -744,9 +744,9 @@ A priest or Melchizedek Priesthood holder may ordain a brother to the office of 
 
 To participate in an Aaronic Priesthood ordination, a person must be a priest or Melchizedek Priesthood holder.
 
-A bishop may allow a father who is a priest or a Melchizedek Priesthood holder to ordain his son to the office of deacon, teacher, or priest even if the father is not fully temple worthy (see [18.3](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number5-figure2#title_number5)). Bishops encourage fathers to prepare themselves to ordain their own sons.
+A bishop may allow a father who is a priest or a Melchizedek Priesthood holder to ordain his son to the office of deacon, teacher, or priest even if the father is not fully temple worthy (see [18.3](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number5-figure2_p22#title_number5)). Bishops encourage fathers to prepare themselves to ordain their own sons.
 
-To act as voice in this ordinance, a person who is outside his own ward must show a current temple recommend to the presiding leader. Or he may show a [Recommend to Perform an Ordinance](https://lcr.churchofjesuschrist.org/ordinance/ordinance-recommend) signed by a member of his bishopric.
+To act as voice in this ordinance, a person who is outside his own ward must show a current temple recommend to the presiding leader. Or he may show a [Recommend to Perform an Ordinance](https://lcr.churchofjesuschrist.org/report/forms/recommend-to-perform-an-ordinance) signed by a member of his bishopric.
 
 18.10.5
 
@@ -770,19 +770,19 @@ To ordain a person to a priesthood office after he has already had the appropria
 
 An ordination is an opportunity to give a blessing. Detailed counsel and instruction about a person’s duties are given before and after the ordination. They should not be the focus of the blessing. It is not necessary to have prayers, testimonies, or instruction when someone is ordained.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fb0103f57a6c5f32c38a34675016a9b86e9c7c7c7%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  1:58Ordination to the Priesthood
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fb0103f57a6c5f32c38a34675016a9b86e9c7c7c7%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  1:59
 
 18.10.6
 
 ### Ordination Record and Certificate
 
-Before a man is interviewed to be ordained to an office in the Melchizedek Priesthood, a clerk uses [LCR](http://lcr.churchofjesuschrist.org) to prepare a [Melchizedek Priesthood Ordination Record](https://lcr.churchofjesuschrist.org/records/ordinances/priesthood). The stake president or an assigned counselor conducts the interview and signs the form if all worthiness conditions are met.
+Before a man is interviewed to be ordained to an office in the Melchizedek Priesthood, a clerk uses [LCR](https://lcr.churchofjesuschrist.org) to prepare a [Melchizedek Priesthood Ordination Record](https://lcr.churchofjesuschrist.org/records/ordinances/priesthood). The stake president or an assigned counselor conducts the interview and signs the form if all worthiness conditions are met.
 
-After the ordination, the stake president or his assigned representative completes the form and gives it to a clerk. He records the ordination in [LCR](http://lcr.churchofjesuschrist.org) and prepares an ordination certificate. This certificate is signed by the stake president and given to the person.
+After the ordination, the stake president or his assigned representative completes the form and gives it to a clerk. He records the ordination in [LCR](https://lcr.churchofjesuschrist.org) and prepares an ordination certificate. This certificate is signed by the stake president and given to the person.
 
-Before a brother is interviewed to be ordained to an office in the Aaronic Priesthood, a clerk uses [LCR](http://lcr.churchofjesuschrist.org) to prepare an [Aaronic Priesthood Ordination Record](https://lcr.churchofjesuschrist.org/records/ordinances/priesthood). The bishop or an assigned counselor conducts the interview and signs the form if all worthiness conditions are met.
+Before a brother is interviewed to be ordained to an office in the Aaronic Priesthood, a clerk uses [LCR](https://lcr.churchofjesuschrist.org) to prepare an [Aaronic Priesthood Ordination Record](https://lcr.churchofjesuschrist.org/records/ordinances/priesthood). The bishop or an assigned counselor conducts the interview and signs the form if all worthiness conditions are met.
 
-After the ordination, the bishop or an assigned counselor completes the form and gives it to a clerk. He records the ordination in [LCR](http://lcr.churchofjesuschrist.org) and prepares an ordination certificate.
+After the ordination, the bishop or an assigned counselor completes the form and gives it to a clerk. He records the ordination in [LCR](https://lcr.churchofjesuschrist.org) and prepares an ordination certificate.
 
 A person’s current legal name should be used on the ordination record and certificate.
 
@@ -806,7 +806,7 @@ A setting apart is performed by a Melchizedek Priesthood holder. He must receive
 
 Under the direction of the presiding leader, one or more Melchizedek Priesthood holders may participate in a setting apart. Presidents are set apart before their counselors.
 
-A presiding leader may allow a husband or father who holds the Melchizedek Priesthood to stand in the circle for the setting apart of his wife or children even if he is not fully temple worthy (see [18.3](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number5-figure2#title_number5)).
+A presiding leader may allow a husband or father who holds the Melchizedek Priesthood to stand in the circle for the setting apart of his wife or children even if he is not fully temple worthy (see [18.3](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number5-figure2_p22#title_number5)).
 
 18.11.2
 
@@ -862,7 +862,7 @@ To consecrate the oil, a Melchizedek Priesthood holder:
 
 5. Closes in the name of Jesus Christ.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F314ea9f316e852f62df7df82a2042c0ce0155326%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  1:12Consecrating Oil
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F314ea9f316e852f62df7df82a2042c0ce0155326%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  1:11
 
 18.13
 
@@ -916,7 +916,7 @@ To seal the anointing, one or more Melchizedek Priesthood holders place their ha
 
 4. Closes in the name of Jesus Christ.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fb7140b5ce7d8fe0ab26ae0049c5c8d79599da7fa%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  2:3Administering to the Sick
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fb7140b5ce7d8fe0ab26ae0049c5c8d79599da7fa%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  2:3
 
 18.14
 
@@ -1018,7 +1018,7 @@ To dedicate a grave, a Melchizedek Priesthood holder:
 
 If a Church member’s body is cremated, the presiding leader uses his judgment to decide whether to dedicate the place where the ashes are kept. He takes into account the family’s wishes and local customs and laws. The brother who acts as voice adapts the instructions for dedicating a grave.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F1916dd979a69b484d9a9d8186e2dab5ef3a24dfb%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  1:58Dedication of Graves
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F1916dd979a69b484d9a9d8186e2dab5ef3a24dfb%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)  1:58
 
 18.17
 
@@ -1056,7 +1056,7 @@ If a patriarchal blessing does not include a declaration of lineage, the patriar
 
 ### Obtaining Copies of Patriarchal Blessings
 
-A person who has received a patriarchal blessing should carefully safeguard the printed copy. However, if this copy is lost or destroyed, the person may request a new one. He or she can make this request at [Patriarchal Blessings](http://pb.churchofjesuschrist.org/pbrequest) on ChurchofJesusChrist.org. If this is not possible, the person contacts his or her bishop for assistance.
+A person who has received a patriarchal blessing should carefully safeguard the printed copy. However, if this copy is lost or destroyed, the person may request a new one. He or she can make this request at [Patriarchal Blessings](https://pb.churchofjesuschrist.org/pbrequest) on ChurchofJesusChrist.org. If this is not possible, the person contacts his or her bishop for assistance.
 
 18.17.3
 
@@ -1158,7 +1158,7 @@ Bishop |
 
 Recommended by
 
-Stake presidency, using [LCR](http://lcr.churchofjesuschrist.org) | 
+Stake presidency, using [LCR](https://lcr.churchofjesuschrist.org) | 
 
 Approved by
 

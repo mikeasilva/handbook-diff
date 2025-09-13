@@ -1,4 +1,4 @@
-“13. Sunday School,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
+“13. Sunday School,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “13. Sunday School,” General Handbook.
 
@@ -66,7 +66,7 @@ The Sunday School president has the following responsibilities. If he has counse
 
 * Support, encourage, and instruct Sunday School teachers. Help them become more effective gospel teachers by following the principles in the scriptures and [Teaching in the Savior’s Way](/study/manual/teaching-in-the-saviors-way-2022?lang=eng). Encourage them to study [Teaching in the Savior’s Way](/study/manual/teaching-in-the-saviors-way-2022?lang=eng).
 
-* Lead teacher council meetings as guided by the bishop (see Teaching in the Savior’s Way, 38–39).
+* Lead teacher council meetings as guided by the bishop (see Teaching in the Savior’s Way, [38–39](/study/manual/teaching-in-the-saviors-way-2022/12-part-3/18-for-leaders-orienting-and-supporting-teachers?lang=eng)).
 
 * Encourage teachers to reach out to members who do not attend classes.
 
@@ -102,7 +102,7 @@ The Sunday School president organizes as many youth classes as are needed. Youth
 
 At least two responsible adults should be present in each youth class. The adults could be two men, two women, or a married couple. To meet this requirement, classes may need to be combined.
 
-All adults who work with youth must complete the children and youth protection training within one month of being sustained ([ProtectingChildren.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/callings/church-safety-and-health/protecting-children-and-youth)). They repeat the training every three years thereafter.
+All adults who work with youth must complete the children and youth protection training within one month of being sustained ([ProtectingChildren.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/callings/church-safety-and-health/protecting-children-and-youth)). They repeat the training every three years thereafter.
 
 ![youth Sunday School class](https://www.churchofjesuschrist.org/imgs/08071a3e4b3011edb733eeeeac1e55b8e7450974/full/%21500%2C/0/default)
 
@@ -134,13 +134,13 @@ Improving Learning and Teaching in the Ward
 
 -------------------------------------------
 
-Ward leaders are responsible for improving learning and teaching in their organizations. This includes orienting newly called teachers (see Teaching in the Savior’s Way, 40). They can ask the ward Sunday School president for help if needed.
+Ward leaders are responsible for improving learning and teaching in their organizations. This includes orienting newly called teachers (see Teaching in the Savior’s Way, [40](/study/manual/teaching-in-the-saviors-way-2022/12-part-3/18-for-leaders-orienting-and-supporting-teachers?lang=eng)). They can ask the ward Sunday School president for help if needed.
 
 Teacher council meetings are held quarterly during the 50-minute class time on Sunday (see [17.4](/study/manual/general-handbook/17-teaching-the-gospel?lang=eng&id=title_number41-p163#title_number41)). Their purpose is to help improve learning and teaching. [Teaching in the Savior’s Way](/study/manual/teaching-in-the-saviors-way-2022?lang=eng) is the main resource for these meetings.
 
 The ward council oversees and schedules teacher council meetings. A member of the Sunday School presidency usually leads the meetings. However, the bishopric may ask another member to lead them.
 
-For more information, see “For Leaders—Helping Teachers Succeed” in Teaching in the Savior’s Way (pages 38–40).
+For more information, see “[For Leaders—Helping Teachers Succeed](/study/manual/teaching-in-the-saviors-way-2022/12-part-3/18-for-leaders-orienting-and-supporting-teachers?lang=eng)” in Teaching in the Savior’s Way (pages 38–40).
 
 13.5
 
@@ -164,7 +164,7 @@ Stake Sunday School Leaders
 
 The stake president assigns one of his counselors to oversee the Sunday School in the stake. He also calls and sets apart a high councilor to be the stake Sunday School president.
 
-The responsibilities of the stake Sunday School president are outlined in [6.7.1](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number32-p252#title_number32) and [6.7.3](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number38-p268#title_number38). If counselors are called, they assist him.
+The responsibilities of the stake Sunday School president are outlined in [6.7.1](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number32-p251#title_number32) and [6.7.3](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number38-p268#title_number38). If counselors are called, they assist him.
 
 13.7
 
@@ -176,7 +176,7 @@ Additional Guidelines
 
 ### Members with Disabilities
 
-Sunday School teachers give special care to class members who have disabilities. For information about teaching members who have disabilities, see [disability.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/life/disability); see also [38.8.27](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number167-p631#title_number167) in this handbook.
+Sunday School teachers give special care to class members who have disabilities. For information about teaching members who have disabilities, see [disability.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/life/disability); see also [38.8.27](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number167-p631#title_number167) in this handbook.
 
 13.7.2
 

@@ -1,4 +1,4 @@
-“30. Callings in the Church,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
+“30. Callings in the Church,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “30. Callings in the Church,” General Handbook.
 
@@ -202,7 +202,7 @@ Calling, Ordaining, and Setting Apart Bishops
 
 ---------------------------------------------
 
-The stake presidency recommends brethren to be called or released as bishops. Recommendations are submitted to the First Presidency through [Leader and Clerk Resources (LCR)](http://lcr.churchofjesuschrist.org). A member of the stake presidency, a clerk, or the executive secretary may prepare the recommendation. However, only the stake president may submit it.
+The stake presidency recommends brethren to be called or released as bishops. Recommendations are submitted to the First Presidency through [Leader and Clerk Resources (LCR)](https://lcr.churchofjesuschrist.org). A member of the stake presidency, a clerk, or the executive secretary may prepare the recommendation. However, only the stake president may submit it.
 
 A bishop’s responsibilities are significant (see [7.1](/study/manual/general-handbook/7?lang=eng&id=title_number2-p54#title_number2)). They require a man of integrity, moral cleanliness, spiritual maturity, and faithfulness to the Savior. The stake presidency seeks confirmation from the Spirit about whom to recommend. When recommending a man to serve as bishop, they carefully consider [1 Timothy 3:2–7](/study/scriptures/nt/1-tim/3?lang=eng&id=p2-p7#p2). They do not ask for suggestions from ward members. Additional information about the qualifications of a bishop is given in [LCR](https://lcr.churchofjesuschrist.org).
 
@@ -1088,7 +1088,7 @@ Stake president after receiving approval from the Quorum of the Twelve; or a mem
 
 Calling
 
-[Stake Relief Society president](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number32-p252#title_number32) | 
+[Stake Relief Society president](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number32-p251#title_number32) | 
 
 Recommended by
 
@@ -1110,7 +1110,7 @@ Stake president |
 
 Calling
 
-[Stake Young Women and Primary presidents](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number32-p252#title_number32) | 
+[Stake Young Women and Primary presidents](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number32-p251#title_number32) | 
 
 Recommended by
 
@@ -1220,7 +1220,7 @@ Stake president or an assigned counselor or high councilor |
 
 Calling
 
-[Stake welfare and self-reliance specialists if needed](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number26-p57#title_number26) | 
+[Stake welfare and self-reliance specialists if needed](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number26-p117#title_number26) | 
 
 Recommended by
 
@@ -1396,19 +1396,19 @@ Other district callings |
 
 Recommended by
 
-See [30.8.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number114-figure1_note1_p3#title_number114), substituting *district president* for *stake president* and *district* for *stake.* | 
+See [30.8.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number114-figure1_note3_p1#title_number114), substituting *district president* for *stake president* and *district* for *stake.* | 
 
 Approved by
 
-See [30.8.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number114-figure1_note1_p3#title_number114), substituting *district president* for *stake president* and *district* for *stake.* | 
+See [30.8.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number114-figure1_note3_p1#title_number114), substituting *district president* for *stake president* and *district* for *stake.* | 
 
 Sustained by
 
-See [30.8.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number114-figure1_note1_p3#title_number114), substituting *district president* for *stake president* and *district* for *stake.* | 
+See [30.8.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number114-figure1_note3_p1#title_number114), substituting *district president* for *stake president* and *district* for *stake.* | 
 
 Called and set apart by
 
-See [30.8.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number114-figure1_note1_p3#title_number114), substituting *district president* for *stake president* and *district* for *stake.* |
+See [30.8.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number114-figure1_note3_p1#title_number114), substituting *district president* for *stake president* and *district* for *stake.* |
 
 1. Active sealers in a temple should not be called to serve in district presidencies. Sealers are called under the direction of the President of the Church.
 
@@ -1426,7 +1426,7 @@ Military Service Member Group Callings
 
 Calling
 
-[Service member group leader](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number206-p729#title_number206) | 
+[Service member group leader](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number206-p2635#title_number206) | 
 
 Recommended by
 
