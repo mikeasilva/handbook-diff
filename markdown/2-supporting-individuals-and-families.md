@@ -1,4 +1,4 @@
-“2. Supporting Individuals and Families in God’s Work of Salvation and Exaltation,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
+“2. Supporting Individuals and Families in God’s Work of Salvation and Exaltation,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “2. Supporting Individuals and Families,” General Handbook.
 
@@ -158,7 +158,7 @@ Home evening is flexible according to members’ circumstances. It may be held o
 
 * Singing or playing hymns and Primary songs (see [chapter 19](/study/manual/general-handbook/19-music?lang=eng)).
 
-* Supporting family members in [Children and Youth development](http://childrenandyouth.churchofjesuschrist.org).
+* Supporting family members in [Children and Youth development](https://childrenandyouth.churchofjesuschrist.org).
 
 * A family council to set goals, resolve problems, and coordinate schedules.
 

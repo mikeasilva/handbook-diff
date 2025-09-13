@@ -1,4 +1,4 @@
-“36. Creating, Changing, and Naming New Units,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
+“36. Creating, Changing, and Naming New Units,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “36. Creating, Changing, and Naming New Units,” General Handbook.
 
