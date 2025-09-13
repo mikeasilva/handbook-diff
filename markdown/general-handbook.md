@@ -836,7 +836,7 @@ Church Organization
 
 		---](/study/manual/general-handbook/8-elders-quorum?lang=eng#title_number12)
 
-		- [#### 8.3.5. Additional Callings
+		- [#### 8.3.5. Additional Callings and Assignments
 
 		This chapter contains information for leaders of elders and high priests.
 
@@ -934,7 +934,7 @@ Church Organization
 
 		---](/study/manual/general-handbook/9-relief-society?lang=eng#title_number16)
 
-		- [#### 9.3.4. Additional Callings
+		- [#### 9.3.4. Additional Callings and Assignments
 
 		Relief Society helps God’s children prepare to return to His presence.
 
@@ -1366,7 +1366,7 @@ Church Organization
 
 		---](/study/manual/general-handbook/12-primary?lang=eng#title_number20)
 
-		- [#### 12.3.6. Activity Leaders
+		- [#### 12.3.6. Valiant Activity Leaders
 
 		Primary is a home-centered, Church-supported organization for children ages 18 months to 11 years.
 

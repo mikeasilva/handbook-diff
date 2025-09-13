@@ -1,4 +1,4 @@
-“5. General and Area Leadership,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
+“5. General and Area Leadership,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “5. General and Area Leadership,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints.
 
@@ -68,7 +68,7 @@ The office of Seventy in the Melchizedek Priesthood is referenced in both the Ol
 
 General Authority Seventies serve full-time in the Church. They are generally released in the year they turn 70 years old and are granted emeritus status. Although they retain the office of Seventy, they no longer preside in meetings.
 
-*Quorums of the Seventy.* Members of the Seventy, including Area Seventies, are organized into quorums. The Presidency of the Seventy presides over these quorums. The number of members of the Seventy and quorums of Seventy may increase with the growth of the Church. (See [Doctrine and Covenants 107:95–96](/study/scriptures/dc-testament/dc/107?lang=eng&id=p95-p96#p95); [124:138–39](/study/scriptures/dc-testament/dc/124?lang=eng&id=p138-p39#p138)).
+*Quorums of the Seventy.* Members of the Seventy, including Area Seventies, are organized into quorums. The Presidency of the Seventy presides over these quorums. The number of members of the Seventy and quorums of Seventy may increase with the growth of the Church. (See [Doctrine and Covenants 107:95–96](/study/scriptures/dc-testament/dc/107?lang=eng&id=p95-p96#p95); [124:138–39](/study/scriptures/dc-testament/dc/124?lang=eng&id=p138-p139#p138)).
 
 5.1.1.3
 
@@ -144,13 +144,13 @@ Area Seventies work and counsel together with local Church leaders to help them 
 
 * Serve on the area council (see [5.2.3](/study/manual/general-handbook/5-general-and-area-leadership?lang=eng&id=title_number13-p67#title_number13)).
 
-* Preside at coordinating council meetings (see [5.2.4](/study/manual/general-handbook/5-general-and-area-leadership?lang=eng&id=title_number14-p79#title_number14)).
+* Preside at coordinating council meetings (see [5.2.4](/study/manual/general-handbook/5-general-and-area-leadership?lang=eng&id=title_number14-p72#title_number14)).
 
 * Preside at stake conferences and instruct stake leaders.
 
 * Create or reorganize stakes, set apart new stake presidencies, and confer keys on the stake president.
 
-* Coordinate area-wide responsibilities, including activities (see [20.3.3](/study/manual/general-handbook/20-activities?lang=eng&id=title_number62-p310#title_number62)), [JustServe.org](http://www.justserve.org) (where it is available), disaster recovery, or other assignments.
+* Coordinate area-wide responsibilities, including activities (see [20.3.3](/study/manual/general-handbook/20-activities?lang=eng&id=title_number62-p310#title_number62)), [JustServe.org](https://www.justserve.org) (where it is available), disaster recovery, or other assignments.
 
 * Tour missions and instruct mission leaders and missionaries.
 
